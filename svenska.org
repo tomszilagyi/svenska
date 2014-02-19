@@ -245,6 +245,11 @@ plåster (ett)                           band-aid, plaster / (seb)tapasz
 skärp (ett)                             belt / öv
 handduk (en)                            towel / törülköző
 portmonnä (en)                          purse / erszény, pénztárca
+schema (ett)                            timetable, diagram, scheme, schedule / minta, vázlat, beosztás, terv, séma
+barnpassning (en)                       child-minding / gyerekgondozás
+lön (en)                                wage, salary / munkabér, munkadíj, fizetés
+kunskap (en)                            knowledge / tudás, ismeret
+leende (ett)                            smile / mosoly
 
 ** VERB - VERBS - IGÉK
 
@@ -348,6 +353,8 @@ rynka                                   wrinkle / ráncol, redőz
 vifta                                   wave / integet, legyez
 hoppa jämfota                           jump with both legs / páros lábbal ugrik
 skaffa                                  get, obtain, get hold of / szerez, szert tesz, hoz(at)
+stämma                                  agree, correspont, tune, tally / egyezik, stimmel, összhangban van
+klara                                   take care of, get done / boldogul, megold, rendbe tesz, elintéz
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -403,6 +410,12 @@ varlig                                  careful / óvatos, elővigyázatos
 söt                                     sweet, cute / édes, aranyos
 fort                                    quickly, fast / gyorsan, sebesen
 rak                                     straight, honest / egyenes, öszinte
+ledig                                   free, available / szabad, rendelkezésre álló
+upptagen                                occupied, busy / foglalt, elfoglalt
+hopplös                                 hopeless / reménytelen
+arg                                     enraged, mad, angry / mérges, dühös, haragos
+trasig                                  torn / rongyos, szakadt
+elak                                    nasty, evil, wicked, naughty / gonosz, rossz, rosszindulatú, neveletlen
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -504,6 +517,8 @@ klar                                    clear / tiszta, derült, felhőtlen, ren
 nöjd                                    satisfied / elégedett
 värd                                    worth / [vmennyit] érő, [vmilyen] értékű
 viss                                    certain / (egy) bizonyos
+mest                                    most, the most / legtöbb, többnyire
+minst                                   least / legkevesebb
 
 flermiljonfråga                         multi-million question
 
@@ -1171,7 +1186,7 @@ dem
 den
 det
 
-** p.50: Vilka pronomen passar? Fyll i luckorna?
+** p.50: Vilka pronomen passar? Fyll i luckorna!
 - Jag älskar dig. Älskar du mig?
 - Hon älskar honom men han älskar inte henne.
 - Vi tänker på dem men de tänker aldrig på oss.
@@ -1436,6 +1451,29 @@ häng upp tvätten på tork
 pusta ut
 stryk, vik eller mangla
 lägg in tvätten i skåp och lådor
+
+** p.68: Possessiva pronomen (och adjektiv)!
+
+1. Din fru är arg.
+2. Hans cykel är trasig.
+3. Vårt klassrum är stort.
+4. Deras vänner är trevliga.
+5. Vår lärare är snäll.
+6. Er skola är ny.
+7. Deras kritik är hård.
+8. Ert vardagsrum är ljust.
+9. Dina skor är snygga.
+10. Mitt arbete är intressant.
+11. Din syster är söt.
+12. Hennes bror är elak.
+13. Min lön är dålig.
+14. Hans kunskaper är dåliga.
+15. Ditt hus är fint.
+16. Mina hundar är arga.
+17. Våra klasskamrater är duktiga.
+18. Hennes leende är vackert.
+19. Era övningar är svåra.
+20. Hennes föräldrar är unga.
 
 
 * Övningar del 1
