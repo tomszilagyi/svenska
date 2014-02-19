@@ -1,0 +1,18 @@
+My modified HU layout that allows me to enter ä/Ä and å/Å on an
+otherwise Hungarian keyboard layout. (The third Swedish accented
+letter ö/Ö is already available on the standard Hungarian layout,
+since it is also part of the Hungarian alphabet).
+
+Usage:
+- edit /usr/share/X11/xkb/symbols/hu and change the relevant part;
+- restart X.
+
+The layout makes å/Å available on AltGr+s/S, making space for this
+by moving đ from AltGr+s to AtrGr+d, Đ from AltGr+d to AltGr+D.
+
+The relevant part of the layout file (after modification), near
+the bottom:
+
+    key <AC01>  { [ a, A, adiaeresis, Adiaeresis ] };
+    key <AC02>  { [ s, S,      aring,      Aring ] };
+    key <AC03>  { [ d, D,    dstroke,    Dstroke ] };
