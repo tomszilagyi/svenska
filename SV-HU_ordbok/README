@@ -1,0 +1,15 @@
+These resources allow you to create a pdf edition of Svensk-Ungersk Ordbok
+by György Lakó (chief editor), 2nd ed., Budapest, 1972. Based on resources
+freely downloadable from Project Runeberg: http://runeberg.org
+
+You will need a Linux system with Ghostscript and AWK.
+
+The make.sh shell script automates the process:
+- downloads original page images and OCR-ed pages containing metadata;
+- converts downloaded pages from png to pdf;
+- parses indices from html files and creates pdfmarks;
+- merges it all together to form a pdf with bookmarks.
+
+The bookmarks contain a hierarchy of the alphabet, with children nodes
+containing the first word on each page. Thus, looking up words is just
+as easy as with a printed edition.
