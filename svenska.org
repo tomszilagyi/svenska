@@ -251,6 +251,14 @@ lön (en)                                wage, salary / munkabér, munkadíj, fi
 kunskap (en)                            knowledge / tudás, ismeret
 leende (ett)                            smile / mosoly
 hjärna (en)                             brain / agy(velő), átv.: fej, koponya, okos ember
+farbror (en)                            (fraternal) uncle / (apai) nagybácsi
+faster (en)                             (fraternal) aunt / (apai) nagynéni
+morbror (en)                            (maternal) uncle / (anyai) nagybácsi
+moster (en)                             (maternal) aunt / (anyai) nagynéni
+försäkringsbolag (ett)                  insurance company / biztosító(társaság)
+fängelse (ett)                          prison, jail / börtön
+dagis (ett)                             day nursery, kindergarten / óvoda
+advokat (en)                            counsel, attorney, lawyer, solicitor / ügyvéd, szószóló, védő
 
 ** VERB - VERBS - IGÉK
 
@@ -1021,6 +1029,34 @@ deras  tavla     deras  hus     deras  frågor
 -Vems tavla är det där?     -Det är min.  (Man upprepar inte substantivet.)
 -Vems hus är det där?       -Det är mitt.
 -Vems strumpor är det där?  -Det är mina.
+
+** SLÄKTORD (p.69)
+
+Släktord är mycket oregelbundna:
+
+en bror (broder)  två bröder
+en syster         två systrar
+en mor (moder)    två mödrar
+en far (fader)    två fäder
+en farbror        två farbröder
+en moster         två mostrar
+en son            två söner
+en dotter         två döttrar
+en mormor         två mormödrar
+en farmor         två farmödrar
+en morfar         två morfäder
+en farfar         två farfäder
+
+** RELATIVT PRONOMEN SOM (p.70)
+
+syftar tillbaka på personer och saker.
+en- eller ett-ord, sing. eller plural
+  ... en bror, som heter...
+  ... ett barn, som går i ...
+  ... en bok, som står i ...
+  ... ett land, som ligger i ...
+  ... två vänner, som ...
+  ... två böcker, som ...
 
 
 * Övningar i Lärobok
