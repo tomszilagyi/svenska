@@ -250,6 +250,7 @@ barnpassning (en)                       child-minding / gyerekgondozás
 lön (en)                                wage, salary / munkabér, munkadíj, fizetés
 kunskap (en)                            knowledge / tudás, ismeret
 leende (ett)                            smile / mosoly
+hjärna (en)                             brain / agy(velő), átv.: fej, koponya, okos ember
 
 ** VERB - VERBS - IGÉK
 
@@ -355,6 +356,11 @@ hoppa jämfota                           jump with both legs / páros lábbal ug
 skaffa                                  get, obtain, get hold of / szerez, szert tesz, hoz(at)
 stämma                                  agree, correspont, tune, tally / egyezik, stimmel, összhangban van
 klara                                   take care of, get done / boldogul, megold, rendbe tesz, elintéz
+tolka                                   interpret, translate / tolmácsol, értelmez, magyaráz
+tänka                                   think, imagine, intend / gondol, képzel, szándékozik
+handla                                  buy, shop / vesz, vásárol, kereskedik, eljár
+handla om                               deal with, be about / szól vmiről, tárgyal vmit
+  [det handlar om dig]                    [rólad van szó]
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -416,6 +422,7 @@ hopplös                                 hopeless / reménytelen
 arg                                     enraged, mad, angry / mérges, dühös, haragos
 trasig                                  torn / rongyos, szakadt
 elak                                    nasty, evil, wicked, naughty / gonosz, rossz, rosszindulatú, neveletlen
+konstig                                 strange, curious, funny / különös, furcsa, szokatlan
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -585,6 +592,7 @@ Har du några råd?                       Do you have any advice?
 Spänn fast säkerhetsbältet, är du snäll!
 
 borta bra men hemma bäst                there's no place like home
+det handlar om dig                      this is about you / rólad van szó
 
 *** Några uttryck med djur
 
@@ -1474,6 +1482,17 @@ lägg in tvätten i skåp och lådor
 18. Hennes leende är vackert.
 19. Era övningar är svåra.
 20. Hennes föräldrar är unga.
+
+** p.69: Skriv om texten med ni i stället för du!
+
+Vad gör ni just nu?
+
+Just nu sitter ni (eller ligger eller står) och läser en text i er
+lärobok. Ni sitter kanske hemma i er fåtölj eller så är ni i ert
+klassrum tillsammans med era klasskamrater. Ni läser kanske tyst,
+eller er lärare kanske läser före och ni efter. Era ögon ser texten
+och er hjärna tolkar innehållet och ni tänker: "Vilken konstig text!
+Den handlar bara om possessiva pronomen!"
 
 
 * Övningar del 1
