@@ -259,6 +259,18 @@ försäkringsbolag (ett)                  insurance company / biztosító(társa
 fängelse (ett)                          prison, jail / börtön
 dagis (ett)                             day nursery, kindergarten / óvoda
 advokat (en)                            counsel, attorney, lawyer, solicitor / ügyvéd, szószóló, védő
+radhus (ett)                            row house / sorház
+änka (en)                               widow / özvegy
+glasbruk (ett)                          glassworks / üveggyár
+skål (en)                               bowl, basin / csésze, tálka
+pension (en)                            pension / nyugdíj
+bidrag (ett)                            allowance, benefit / járulék, segély
+lov (ett)                               holiday, vacation / szünet, szünidő, vakáció
+monteringshus (ett)                     prefabricated house / készház
+snickeri (ett); snickerifabrik (en)     joinery, carpentry / asztalosműhely, asztalosüzem
+affärsidé (en)                          business concept / üzleti koncepció
+inredning (en)                          equipment, furnishing / berendezés, bútorozás
+  heminredning                          home furnishing / lakberendezés
 
 ** VERB - VERBS - IGÉK
 
@@ -266,9 +278,11 @@ tala                                    speak (language) / beszél (nyelvet)
 bo                                      live (somewhere) / él (lakik)
 följa                                   follow, accompany, comply / követ
 undervisa                               teach / tanít
+lära                                    teach / tanít
 tro                                     believe / hisz
 stava                                   spell / betűz
-dela                                    cut up, split up, divide/separate into parts
+dela                                    cut up, split up, divide, share / feloszt, megoszt
+  dela ut                               give away, dispense / kioszt, osztogat
 somna                                   fall asleep / elalszik
 börja                                   begin / kezd(ődik)
 vakna                                   wake / ébred
@@ -369,6 +383,10 @@ tänka                                   think, imagine, intend / gondol, képze
 handla                                  buy, shop / vesz, vásárol, kereskedik, eljár
 handla om                               deal with, be about / szól vmiről, tárgyal vmit
   [det handlar om dig]                    [rólad van szó]
+tycka                                   think / gondol
+tycka om                                like / kedvel, szeret
+tillverka                               manufacture
+trycka                                  print, press, weigh down / nyomtat, nyom, lenyom, rányom
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -406,6 +424,7 @@ rutig                                   checked, chequered / kockás
 skär                                    light red, pink / halványpiros, rózsaszín
 ung                                     young / fiatal
 rik                                     wealthy, rich / vagyonos, gazdag
+fattig                                  poor / szegény
 vacker                                  beautiful / gyönyörű
 duktig                                  able, capable / képes (vmire)
 flitig                                  hard-working, diligent / szorgalmas
@@ -416,6 +435,7 @@ smal                                    thin, slim, narrow / vékony, keskeny
 glad                                    pleased, happy / elégedett, boldog
 trevlig                                 pleasant, likable (of person) / kellemes, kedves (személy)
 berömd                                  famed, famous, celebrated / híres, nevezetes
+känd                                    well-known / ismert, híres, neves
 stark                                   strong, durable, solid, powerful
 rolig                                   funny / szórakoztató, mulatságos, kellemes, tréfás
 säker                                   safe, sure, certain, reliable / biztos, bizonyos, megbízható
@@ -533,6 +553,7 @@ nöjd                                    satisfied / elégedett
 värd                                    worth / [vmennyit] érő, [vmilyen] értékű
 viss                                    certain / (egy) bizonyos
 mest                                    most, the most / legtöbb, többnyire
+flest                                   most / legtöbb
 minst                                   least / legkevesebb
 
 flermiljonfråga                         multi-million question
@@ -551,6 +572,7 @@ mitt på                                 on/at the middle of... / vmi. közepén
 över                                    over / felett(e)
 framför                                 before / előtt(e)
 ur                                      from, out of / -ból
+trots                                   despite, in spite of / [vmi] ellenére
 
 ** Fraser
 
@@ -602,7 +624,7 @@ Spänn fast säkerhetsbältet, är du snäll!
 borta bra men hemma bäst                there's no place like home
 det handlar om dig                      this is about you / rólad van szó
 
-*** Några uttryck med djur
+** Några uttryck med djur
 
 Stark som en björn                      Erős mint egy medve
 Listig som en räv                       Ravasz mint egy róka
@@ -611,6 +633,28 @@ Flitig som en myra                      Szorgalmas mint egy hangya
 Modig som ett lejon                     Bátor mint egy oroszlán
 Dum som en åsna                         Buta mint egy szamár
 Vig som en apa                          Fürge mint egy majom
+
+** Några tidsuttryck
+
+igår                                    yesterday / tegnap
+i förrgår                               the day before yesterday / tegnapelőtt
+förra veckan                            last week / múlt hét
+förra månaden                           last month / múlt hónap
+förra året                              last year / tavaly
+för en timme sedan                      an hour ago / egy órája
+för en minut sedan                      a minute ago / egy perce
+för tre dagar sedan                     three days ago / három napja
+för en vecka sedan                      a week ago / egy hete
+för en månad sedan                      a month ago / egy hónapja
+för ett år sedan                        a year ago / egy éve
+imorse                                  this morning / (ma) reggel
+i måndags [i måndas]                    last monday / múlt hétfőn
+i tisdags                               last tuesday / múlt kedden
+i onsdags                               last wednesday / múlt szerdán
+i vintras                               last winter / a(z elmúlt) télen
+i våras                                 last spring / a(z elmúlt) tavasszal
+i somras                                last summer / a(z elmúlt) nyáron
+i höstas                                last fall/autumn / a(z elmúlt) ősszel
 
 ** Rövidítések
 
@@ -1057,6 +1101,17 @@ en- eller ett-ord, sing. eller plural
   ... ett land, som ligger i ...
   ... två vänner, som ...
   ... två böcker, som ...
+
+** PRETERITUM (p.72)
+
+förfluten tid / dåtid / imperfekt -de
+                                     presens    preteritum
+Stam på -a                           kosta -r   kosta -de
+Stam på konsonant  Tonande           lev   -er  lev   -de
+Stam på konsonant  Tonlös: k p s t   köp   -er  köp   -te  (man kan inte säga d)
+Stam på vokal      men inte -a       bo    -r   bo    -dde (man måste förlänga d)
+
+Några verb är oregelbundna           ä     -r   var        (de saknar ofta ändelse)
 
 
 * Övningar i Lärobok
@@ -1529,6 +1584,42 @@ klassrum tillsammans med era klasskamrater. Ni läser kanske tyst,
 eller er lärare kanske läser före och ni efter. Era ögon ser texten
 och er hjärna tolkar innehållet och ni tänker: "Vilken konstig text!
 Den handlar bara om possessiva pronomen!"
+
+** p.73: Svara på frågorna!
+
+1. Ingvar Kamprad föddes i Småland. (föddes -> är född)
+2. Han slutade skolan 1941. (slutade -> slutar)
+3. Han var dyslektiker. (var -> är)
+4. Han arbetade på ett företag som tillverkade monteringsfärdiga hus.
+   (arbetade -> arbetar, tillverkade -> tillverkar)
+5. Han hade en egen firma. (hade -> har)
+6. Han sålde billiga möbler per postorder. (sålde -> säljar)
+7. Affärerna gick mycket bra. (gick -> går)
+8. Han tryckte massor av kataloger. (tryckte -> trycker)
+9. Han delade ut dem gratis till hushållen. (gjorde -> gör, delade -> dela)
+10. Ja, det har jag.
+
+Alla preteritumformer i texten:
+
+| preteritum  | presens    |
+|-------------+------------|
+| var         | är         |
+| hade        | har        |
+| föddes      | är född    |
+| slutade     | slutar     |
+| började     | börjar     |
+| arbetade    | arbetar    |
+| tillverkade | tillverkar |
+| sålde       | säljar     |
+| tjänade     | tjänar     |
+| sparade     | sparar     |
+| köpte       | köper      |
+| grundade    | grundar    |
+| öppnade     | öppnar     |
+| tryckte     | trycker    |
+| delade      | delar      |
+| visade      | visar      |
+| lärde       | lärar      |
 
 
 * Övningar del 1
