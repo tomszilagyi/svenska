@@ -387,6 +387,11 @@ tycka                                   think / gondol
 tycka om                                like / kedvel, szeret
 tillverka                               manufacture
 trycka                                  print, press, weigh down / nyomtat, nyom, lenyom, rányom
+känna                                   know, feel, sense / tud, ismer, érez, érzékel
+vilja [ville]                           want / akar, szándékozik
+skolka                                  cut class, play truant / lóg, bliccel, indokolatlanul távol marad
+kunna [kunde]                           can, know / tud, képes vmire
+tacka ja/nej                            yes/no, thank you (politely accept/decline) / köszönöm/köszönöm, nem
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -451,6 +456,7 @@ arg                                     enraged, mad, angry / mérges, dühös, 
 trasig                                  torn / rongyos, szakadt
 elak                                    nasty, evil, wicked, naughty / gonosz, rossz, rosszindulatú, neveletlen
 konstig                                 strange, curious, funny / különös, furcsa, szokatlan
+ond                                     sore, wicked, annoyed / fájó (testrész), rossz, gonosz, haragos, dühös
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -556,6 +562,7 @@ mest                                    most, the most / legtöbb, többnyire
 flest                                   most / legtöbb
 minst                                   least / legkevesebb
 
+eller hur?                              isn't it?, aren't you?, etc. / ugye?, nemde?
 flermiljonfråga                         multi-million question
 
 *** Prepositioner
@@ -623,6 +630,9 @@ Spänn fast säkerhetsbältet, är du snäll!
 
 borta bra men hemma bäst                there's no place like home
 det handlar om dig                      this is about you / rólad van szó
+
+Vad vill ni mig?                        What do you want from me?
+Det håller jag med om.                  [On that] I agree [with you].
 
 ** Några uttryck med djur
 
@@ -1389,8 +1399,8 @@ ganska nöjd med livet.
 
 ** p.61: Hos doktorn. Lyssna på bandet
 1.
-- Jo, doktorn, jag har sår(?) till magen.
-- Varsågod och sitt. Vad gör du ... ? Här?
+- Jo, doktorn, jag har(s?) ont i magen.
+- Varsågod och sitt. Vad gör du ont? Här?
 - Ajjjj! Ja, just det. Det svider hela tiden.
 - Jaha. Röker du mycket?
 2.
