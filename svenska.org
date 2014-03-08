@@ -271,6 +271,14 @@ snickeri (ett); snickerifabrik (en)     joinery, carpentry / asztalosműhely, as
 affärsidé (en)                          business concept / üzleti koncepció
 inredning (en)                          equipment, furnishing / berendezés, bútorozás
   heminredning                          home furnishing / lakberendezés
+vykort (ett)                            postcard / levelezőlap, képeslap
+rast (en)                               pause, break / szünet, pihenő
+kompis (en)                             buddy, mate [informal] / pajtás, cimbora [hétközn.]
+flöjt (en)                              flute / fuvola
+å (en: ån, åar)                         small river, stream / folyócska, patak
+ö (en: ön, öar)                         island / sziget
+strand (en, stränder)                   beach, shore / part
+berättelse (en)                         tale, narrative, story / elbeszélés, beszámoló, történet
 
 ** VERB - VERBS - IGÉK
 
@@ -392,6 +400,10 @@ vilja [ville]                           want / akar, szándékozik
 skolka                                  cut class, play truant / lóg, bliccel, indokolatlanul távol marad
 kunna [kunde]                           can, know / tud, képes vmire
 tacka ja/nej                            yes/no, thank you (politely accept/decline) / köszönöm/köszönöm, nem
+hämta                                   fetch, collect / elhoz, érte megy, begyűjt
+paddla                                  paddle / evez
+resa                                    travel, raise, put up, bring up / utazik, elutazik, (fel)emel, -állít, felkel
+simma                                   swim / úszik
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -457,6 +469,7 @@ trasig                                  torn / rongyos, szakadt
 elak                                    nasty, evil, wicked, naughty / gonosz, rossz, rosszindulatú, neveletlen
 konstig                                 strange, curious, funny / különös, furcsa, szokatlan
 ond                                     sore, wicked, annoyed / fájó (testrész), rossz, gonosz, haragos, dühös
+härlig                                  lovely, glorious, delightful, wonderful / nagyszerű, remek, pompás, gyönyörű
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1630,6 +1643,17 @@ Alla preteritumformer i texten:
 | delade      | delar      |
 | visade      | visar      |
 | lärde       | lärar      |
+
+** p.75: Svara på frågorna.
+
+1. Lissi är en flicka ( -> hennes bil, osv.)
+2. Berättelsens "jag" var 18 år gammal.
+3. Hon arbetade på Posten halva juni och hela juli.
+4. Hon tjänade tillsammans 12 500 kr.
+5. Resan startade i Karlskoga i Värmland.
+6. De hyrde kanotet. De hade deras själva tält, sovsäckar ock campingkök.
+7. De lyssnade på fåglarna, vilade på stranden, lagade mat, spelade flöjt.
+8. De lämnade bilen i Karlskoga.
 
 
 * Övningar del 1
