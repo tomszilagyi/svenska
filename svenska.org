@@ -279,6 +279,7 @@ flöjt (en)                              flute / fuvola
 ö (en: ön, öar)                         island / sziget
 strand (en, stränder)                   beach, shore / part
 berättelse (en)                         tale, narrative, story / elbeszélés, beszámoló, történet
+kastrull (en)                           saucepan / lábas, serpenyő
 
 ** VERB - VERBS - IGÉK
 
@@ -404,6 +405,12 @@ hämta                                   fetch, collect / elhoz, érte megy, beg
 paddla                                  paddle / evez
 resa                                    travel, raise, put up, bring up / utazik, elutazik, (fel)emel, -állít, felkel
 simma                                   swim / úszik
+glömma [glömde]                         forget, neglect / elfelejt, elmulaszt
+skramla                                 jingle, jangle, rattle / csörög, csörömpöl, zörög
+duka                                    lay the table / megterít (asztalt)
+snarka                                  snore / horkol, hortyog
+vända                                   turn / elfordul, megfordul, vmit el/meg/kifordít
+nå [når, nådde]                         reach / elér vmit/vmeddig
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -703,9 +710,6 @@ din jävla skitstövel ~ you fucking asshole/motherfucker
 
 
 * Grammatik
-
-är -> var
-bli -> blev
 
 ** ALFABETET (p.4)
 
@@ -1654,6 +1658,84 @@ Alla preteritumformer i texten:
 6. De hyrde kanotet. De hade deras själva tält, sovsäckar ock campingkök.
 7. De lyssnade på fåglarna, vilade på stranden, lagade mat, spelade flöjt.
 8. De lämnade bilen i Karlskoga.
+
+** p.75: Vad hörde personen på bandet? Lyssna och skriv!
+
+En dag i förra veckan satte jag på min bandspelare och spelade en
+olika ljud. Efter en stund glömde jag bort bandspelaren. På kvällen
+lyssnade jag på bandet, och då hörde jag följande. Jag hörde en person
+som hostade. Det var jag. Jag bläddrade tidningen, gick på toaletten,
+visslade, öppnade balkongdörren, började laga lunch i köket, skramlade
+med kastruller, öppnade och stängde kylskåpet, dukade, åt, diskade,
+ringde ett samtal, talade för mig själv, och gick och låg mig på
+soffan. Sedan blir det tyst i tag. Sedan hörde jag några mystiska
+ljud. Det var jag själv som snarkade. Jag spolade snapp tillbaka,
+spelade en lite musik istället.
+
+** p.76: Här är några verb ur texten, i preteritum.
+
+| presens  | preteritum | imperativ |
+|----------+------------+-----------|
+| slutar   | slutade    | sluta!    |
+| är       | var        | var!      |
+| arbetar  | arbetade   | arbeta!   |
+| sorterar | sorterade  | sortera!  |
+| hämtar   | hämtade    | hämta!    |
+| städar   | städade    | städa!    |
+| spelar   | spelade    | spela!    |
+| tjänar   | tjänade    | tjäna!    |
+| sparar   | sparade    | spara!    |
+| använder | använde    | använd!   |
+| åker     | åkte       | åk!       |
+| hyr      | hyrde      | hyr!      |
+| har      | hade       | ha!       |
+| köper    | köpte      | köp!      |
+| packar   | packade    | packa!    |
+| startar  | startade   | starta!   |
+| följar   | följde     | följa!    |
+| paddlar  | paddlade   | paddla!   |
+| stannar  | stannade   | stanna!   |
+| lyssnar  | lyssnade   | lyssna!   |
+| vilar    | vilade     | vila!     |
+| lagar    | lagade     | laga!     |
+| kokar    | kokade     | kok(a)!   |
+| grillar  | grillade   | grilla!   |
+| somnar   | somnade    | somna!    |
+| reser    | reste      | res!      |
+| badar    | badade     | bada!     |
+| simmar   | simmade    | simma!    |
+| fiskar   | fiskade    | fiska!    |
+| väntar   | väntade    | vänta!    |
+
+** p.76: En helt vanlig dag
+
+gjorde
+steg
+duschade, åt, läste
+lyssnade, pratade
+körde
+började
+åt
+slutade
+åkte, köpte
+lämnade, var
+lagade, åt, dukade
+diskade, tittade, rättade
+hjälpte, läste
+somnade
+var
+
+** p.76: Stockholm-Mora med bil
+
+Klockan 7 på morgonen lämnade jag Stockholm. Först körde jag mot
+Enköping, och sedan svängde jag in på väg 70 mot Sala. Jag åkte igenom
+Sala också, men sedan vände jag och åkte tillbaka ett par kilometer,
+till Sala silvergruva. Jag tittade på gruvan och fikade på en
+cafeteria och läste tidningen i lugn och ro. Sedan tankade jag och
+startade igen. Jag körde raka vägen och passerade Avesta, Borlänge och
+Leksand, men då var jag trött, så jag stannade och gymnastiserade lite
+och rökte en cigarrett, och sedan körde jag vidare. Klockan två nådde
+jag Mora, efter en resa på 35 mil.
 
 
 * Övningar del 1
