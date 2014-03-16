@@ -280,6 +280,16 @@ flöjt (en)                              flute / fuvola
 strand (en, stränder)                   beach, shore / part
 berättelse (en)                         tale, narrative, story / elbeszélés, beszámoló, történet
 kastrull (en)                           saucepan / lábas, serpenyő
+sömmerska (en)                          dressmaker, needlewoman, sewer / varrónő, szabónő
+verkstad (en)                           workshop / műhely, üzem, gyár
+fack (ett)                              union [inf.], profession, trade / szakszervezet [inf.], szakma, mesterség
+nykterhet (en)                          sobriety, soberness / józanság, mértékletesség, absztinencia
+nykterhetsrörelse (en)                  temperance movement / antialkoholista mozgalom
+biträde (ett)                           assistant, shop assistant / eladó, alkalmazott, segéd, kisegítő
+hembiträde (ett)                        maid / szobalány, háztartási alkalmazott
+ordförande (en)                         chairman / elnök
+verkstadsklubb (en)                     workplace union / munkahelyi szakszervezet
+förening (en)                           society, association / társaság, egyesület, szövetség
 
 ** VERB - VERBS - IGÉK
 
@@ -411,6 +421,7 @@ duka                                    lay the table / megterít (asztalt)
 snarka                                  snore / horkol, hortyog
 vända                                   turn / elfordul, megfordul, vmit el/meg/kifordít
 nå [når, nådde]                         reach / elér vmit/vmeddig
+syssla [med ngn]                        busy oneself with sg / foglalkozik, foglalatoskodik, elfoglalja magát vmivel
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -477,6 +488,9 @@ elak                                    nasty, evil, wicked, naughty / gonosz, r
 konstig                                 strange, curious, funny / különös, furcsa, szokatlan
 ond                                     sore, wicked, annoyed / fájó (testrész), rossz, gonosz, haragos, dühös
 härlig                                  lovely, glorious, delightful, wonderful / nagyszerű, remek, pompás, gyönyörű
+blyg                                    timid, shy / szégyenlős, félénk, szemérmes
+tung                                    heavy, major / nehéz, súlyos, nyomasztó, mély
+smutsig                                 muddy, filthy, dirty / piszkos, szennyes, mocskos, sáros
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
