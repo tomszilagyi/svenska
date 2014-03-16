@@ -290,6 +290,10 @@ hembiträde (ett)                        maid / szobalány, háztartási alkalma
 ordförande (en)                         chairman / elnök
 verkstadsklubb (en)                     workplace union / munkahelyi szakszervezet
 förening (en)                           society, association / társaság, egyesület, szövetség
+konditori (ett)                         café, patisserie / kávézó, cukrászda
+trottoar (en)                           pavement / járda
+tjej (en)                               girl [inf.] / csaj
+kille (en)                              fellow, guy, bloke [inf.] / csávó, pasi, srác, fickó, legény
 
 ** VERB - VERBS - IGÉK
 
@@ -422,6 +426,8 @@ snarka                                  snore / horkol, hortyog
 vända                                   turn / elfordul, megfordul, vmit el/meg/kifordít
 nå [når, nådde]                         reach / elér vmit/vmeddig
 syssla [med ngn]                        busy oneself with sg / foglalkozik, foglalatoskodik, elfoglalja magát vmivel
+betrakta                                consider, regard, look at, contemplate / (meg)szemlél, -tekint, -vizsgál, szemügyre vesz
+böra                                    should, ought to / (segédige) kell, illik, -andó/-endő
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -555,7 +561,7 @@ däremot                                 however, on the other hand
 därför                                  therefore / emiatt, ennélfogva
 efteråt                                 afterwards / azután, utána
 gärna                                   gladly, willingly / szívesen
-redan                                   already
+redan                                   already / már
 kvar                                    left (of sg, eg. space, time, etc.)
 ikväll / i kväll                        tonight / ma este
 därhemma                                back at home / odahaza
@@ -595,6 +601,9 @@ viss                                    certain / (egy) bizonyos
 mest                                    most, the most / legtöbb, többnyire
 flest                                   most / legtöbb
 minst                                   least / legkevesebb
+alldeles                                perfectly, altogether, quite, absolutely / teljesen, egészen, tökéletesen, rendkívül
+hit                                     this way, here, hither / ide
+annars                                  otherwise, else / egyébként, máskülönben
 
 eller hur?                              isn't it?, aren't you?, etc. / ugye?, nemde?
 flermiljonfråga                         multi-million question
@@ -614,6 +623,7 @@ mitt på                                 on/at the middle of... / vmi. közepén
 framför                                 before / előtt(e)
 ur                                      from, out of / -ból
 trots                                   despite, in spite of / [vmi] ellenére
+längst till vänster                     at the far left / a bal szélen
 
 ** Fraser
 
@@ -724,6 +734,7 @@ din jävla skitstövel ~ you fucking asshole/motherfucker
 
 
 * Grammatik
+
 
 ** ALFABETET (p.4)
 
@@ -1153,6 +1164,25 @@ Stam på konsonant  Tonlös: k p s t   köp   -er  köp   -te  (man kan inte sä
 Stam på vokal      men inte -a       bo    -r   bo    -dde (man måste förlänga d)
 
 Några verb är oregelbundna           ä     -r   var        (de saknar ofta ändelse)
+
+** MAN / EN / ENS (p.79)
+
+I Sverige får *man* rösta,  (subjekt)
+när *man* blir 18 år.       (subjekt)
+*Man* blir glad,            (subjekt)
+när *ens* barn kommer       (genitiv)
+och besöker *en*.           (objekt)
+
+*Man* använder man bara för subjektet;
+annars använder man *ens* och *en*.
+
+** RELATIVSATSER (p.79)
+
+           *subjekt*                               *objekt*
+De som var på festen var trevliga.     Jag känner dem som var på festen.
+Alla som var på festen var trevliga.   Du känner alla som var där.
+Någon som du känner var där.           Fråga någon som var där.
+Ingen som du känner var där.           Jag känner ingen som tänker gå på festen.
 
 
 * Övningar i Lärobok
@@ -1750,6 +1780,16 @@ startade igen. Jag körde raka vägen och passerade Avesta, Borlänge och
 Leksand, men då var jag trött, så jag stannade och gymnastiserade lite
 och rökte en cigarrett, och sedan körde jag vidare. Klockan två nådde
 jag Mora, efter en resa på 35 mil.
+
+** p.79: Man eller en?
+
+Om polisen stoppar en när man kör bil,
+måste man visa körkortet. När man är sjuk, bör
+man stanna hemma. Ingen tackar en om man går
+till jobbet, när man är sjuk.
+- Får man röka här?
+- Nej, man måste gå ut och röka.
+I Sverige går man i pension, när man fyller 65 år.
 
 
 * Övningar del 1
