@@ -294,6 +294,8 @@ konditori (ett)                         café, patisserie / kávézó, cukrászd
 trottoar (en)                           pavement / járda
 tjej (en)                               girl [inf.] / csaj
 kille (en)                              fellow, guy, bloke [inf.] / csávó, pasi, srác, fickó, legény
+sand (en)                               sand / homok
+veckopeng (en)                          weekly pocket money / heti zsebpénz
 
 ** VERB - VERBS - IGÉK
 
@@ -399,7 +401,7 @@ rynka                                   wrinkle / ráncol, redőz
 vifta                                   wave / integet, legyez
 hoppa jämfota                           jump with both legs / páros lábbal ugrik
 skaffa                                  get, obtain, get hold of / szerez, szert tesz, hoz(at)
-stämma                                  agree, correspont, tune, tally / egyezik, stimmel, összhangban van
+stämma                                  agree, correspond, tune, tally / egyezik, stimmel, összhangban van
 klara                                   take care of, get done / boldogul, megold, rendbe tesz, elintéz
 tolka                                   interpret, translate / tolmácsol, értelmez, magyaráz
 tänka                                   think, imagine, intend / gondol, képzel, szándékozik
@@ -428,6 +430,14 @@ nå [når, nådde]                         reach / elér vmit/vmeddig
 syssla [med ngn]                        busy oneself with sg / foglalkozik, foglalatoskodik, elfoglalja magát vmivel
 betrakta                                consider, regard, look at, contemplate / (meg)szemlél, -tekint, -vizsgál, szemügyre vesz
 böra                                    should, ought to / (segédige) kell, illik, -andó/-endő
+steka                                   roast, fry / süt (roston/zsírban), pirít, párol
+kasta                                   cast, throw, discard, throw away / (ki)dob, -hajít, -vet
+svära                                   curse, swear / káromkodik, szitkozódik, esküdözik vmire
+bestämma                                determine, prescribe, decide, settle / meg/elhatároz, elrendel, megállapít, kijelöl
+skrika                                  scream, call out, cry, shriek, shout / kiált, kiabál, rikolt, ordít, üvölt
+tjata                                   pester, nag / nyaggat, gyötör, korhol, zsörtölődik vkivel
+fatta                                   catch, grasp, understand / felfog, megért, megfog
+bruka                                   be in the habit of, cultivate / szokott ...-ni (segédige inf. alakú igével)
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -497,6 +507,19 @@ härlig                                  lovely, glorious, delightful, wonderful
 blyg                                    timid, shy / szégyenlős, félénk, szemérmes
 tung                                    heavy, major / nehéz, súlyos, nyomasztó, mély
 smutsig                                 muddy, filthy, dirty / piszkos, szennyes, mocskos, sáros
+sträng                                  strict, severe / szigorú, kemény, zord
+hänsynsfull                             considerate / kíméletes, figyelmes, tapintatos
+nog                                     enough, probably, of course / elég, eléggé, bizonyára [+nyomósító szóként]
+noggrann                                careful / pontos, gondos, pedáns
+rättvis                                 equitable, just, fair / igazságos, jogos, méltó
+uppriktig                               frank, candid / őszinte, nyílt, becsületes
+förstående                              understanding, sympathetic / megértő, együttérző
+stolt                                   proud / büszke
+renlig                                  clean, cleanly / tiszta, takaros, rendes
+morgonpigg                              morning alert, morning person / koránkelő, hajnali pacsirta
+beslutsam                               determined, resolute / határozott, elszánt
+nyfiken                                 curious / kíváncsi
+sparsam                                 thrifty, economical / takarékos, spórolós, beosztó
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -625,6 +648,15 @@ ur                                      from, out of / -ból
 trots                                   despite, in spite of / [vmi] ellenére
 längst till vänster                     at the far left / a bal szélen
 
+** Hjälpverb
+
+brukar
+bör
+får
+kan
+måste
+vill
+
 ** Fraser
 
 Jag tror det.                           Azt hiszem (igen).
@@ -677,6 +709,15 @@ det handlar om dig                      this is about you / rólad van szó
 
 Vad vill ni mig?                        What do you want from me?
 Det håller jag med om.                  [On that] I agree [with you].
+
+** Ordspråk
+
+Den som gräver en grop åt andra, faller själv däri.
+                                        He who digs a pit for others will fall therein.
+Som man bäddar, får man ligga!          As you make your bed, so you must lie upon it!
+Man kan aldrig lära gamla hundar att sitta.
+                                        You cannot teach an old dog new tricks.
+Äta bör man, annars dör man.            One must eat, or one dies.
 
 ** Några uttryck med djur
 
@@ -734,7 +775,6 @@ din jävla skitstövel ~ you fucking asshole/motherfucker
 
 
 * Grammatik
-
 
 ** ALFABETET (p.4)
 
@@ -1183,6 +1223,29 @@ De som var på festen var trevliga.     Jag känner dem som var på festen.
 Alla som var på festen var trevliga.   Du känner alla som var där.
 Någon som du känner var där.           Fråga någon som var där.
 Ingen som du känner var där.           Jag känner ingen som tänker gå på festen.
+
+** HJÄLPVERB + INFINITIV (p.80)
+
+|     | hjälp | (adv)  | inf    |         |
+|-----+-------+--------+--------+---------|
+| Jag | kan   | (inte) | spela  | piano.  |
+| Hon | vill  | (inte) | betala | skatt.  |
+| De  | måste |        | tvätta | kläder. |
+
+** MODALA HJÄLPVERB (p.83)
+
+| Fundament | Verb 1    | Subjekt | Adverb       | Huvudverb |
+|           | hjälpverb |         |              | infinitiv |
+|-----------+-----------+---------+--------------+-----------|
+| Du        | behöver   | -       | inte         | betala.   |
+| Jag       | måste     | -       | nog          | gå.       |
+| Hon       | får       | -       | gärna        | sjunga.   |
+| Vi        | vill      | -       | naturligtvis | komma.    |
+| Varför    | kan       | du      | inte         | ringa?    |
+| När       | måste     | vi      | -            | resa?     |
+| Imorgon   | får       | du      | -            | sova.     |
+| -         | Måste     | jag     | verkligen    | åka?      |
+| -         | Får       | han     | inte         | komma?    |
 
 
 * Övningar i Lärobok
@@ -1790,6 +1853,43 @@ till jobbet, när man är sjuk.
 - Får man röka här?
 - Nej, man måste gå ut och röka.
 I Sverige går man i pension, när man fyller 65 år.
+
+** p.82: Du har en dotter på 13 år. Vad svarar du henne?
+
+Nej, du får inte titta på det.
+Nej, du får inte göra det.
+Du behöver inte diska, om du vill inte.
+Du får inte stanna upp så längre.
+Du måste göra dina läxor varje kväll.
+Nej, du får inte börja det.
+Nej, du måste sova hemma.
+Nej, du måste inte göra det.
+Nej, du får stanna hemma, om du vill.
+
+** p.83: Skriv om meningarna!
+
+1. Jag kan spela piano.
+2. Vi måste studera svenska.
+3. Hon får inte röka.
+4. Hon behöver inte vakna tidigt.
+5. Jag måste vänta på Cecilia.
+6. Kan du tala franska?
+7. Jag vill låna telefonen.
+8. Får du gå ut ikväll?
+9. Jag kan inte somna.
+10. Behöver du inte stiga upp tidigt?
+11. Får du och din bror röka?
+12. Jag vill vara ensam.
+
+** p.83: Hur bör en lärare vara?
+
+En lärare bör vara snäll, intelligent, lugn, intresserad.
+En läkare bör vara renlig, noggrann, snabb.
+En journalist bör vara rättvis, uppriktig, beslutsam, nyfiken.
+En präst bör vara varm, förstående, glad.
+En chef bör vara duktig, stolt, ekonomisk.
+En förälder bör vara bestämd, rättvis, varm, sparsam.
+En student bör vara flitig, morgonpigg, punktlig, nyfiken.
 
 
 * Övningar del 1
