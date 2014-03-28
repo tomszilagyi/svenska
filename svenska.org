@@ -625,13 +625,14 @@ mest                                    most, the most / legtöbb, többnyire
 flest                                   most / legtöbb
 minst                                   least / legkevesebb
 alldeles                                perfectly, altogether, quite, absolutely / teljesen, egészen, tökéletesen, rendkívül
-hit                                     this way, here, hither / ide
+hit                                     this way, here, hither / ide, erre
+dit                                     that way, there, in that direction / oda, arra
 annars                                  otherwise, else / egyébként, máskülönben
 
 eller hur?                              isn't it?, aren't you?, etc. / ugye?, nemde?
 flermiljonfråga                         multi-million question
 
-*** Prepositioner
+** Prepositioner
 
 i                                       in / -ban
 på                                      on / -on, rajta
@@ -2644,5 +2645,196 @@ Motsatsen:
 7. Jo, det har jag. Nej, det har jag inte.
 8. Ja, det gör jag. Nej, det gör jag inte.
 
+** 51
 
-PP.13/29(FACIT)
+1. Elefanten är ett stort djur. Den finns i Afrika och Indien och
+   har en snabel istället för en nos.
+
+2. Vargen är ett rovdjur. Den finns i norra Sverige och ser
+   nästan ut som en hund.
+
+3. Hästen är ett husdjur. Man kan rida på den, och den gnäggar
+   ibland. Den bor i ett stall.
+
+4. Svinen/Grisen är ett annat husdjur. Den grymtar och bor i en stia.
+
+5. Ibland säger man att räven är listig. Den har rödbrun päls och
+   finns i stora delar av Sverige.
+
+6. Sebran är ett randigt djur, ränderna går aldrig ur. Den lever
+   i Afrika.
+
+7. Lejonet är Afrikas största kattdjur.
+
+8. Lodjuret är ett vilt kattdjur. Det finns i Sverige.
+
+9. Björnen ligger i ide på vintern. Den brummar och finns i norra
+   och mellersta Sverige.
+
+10. Apan är en vig släkting till människan, och den finns vild i
+   både Afrika, Sydamerika och Asien.
+
+11. Åsnan liknar en häst. Man säger att den är bäde dum och envis.
+
+12. Myran är en liten, flitig insekt. Den bor i en stack.
+
+13. Hönsen/Tuppen är en tamfågel. Den gal tidigt på morgnarna.
+
+** 52A
+
+1. ett arbete -> -n
+2. ett tal -> =
+3. en syn -> -er
+4. en fråga -> -or
+5. en gråt -> 0
+6. en sömn -> 0
+7. ett liv -> =
+8. ett byte -> -n
+9. ett köp -> =
+10. en resa -> -or
+11. en dans -> -er
+12. ett regn -> 0
+13. en sång -> -er
+14. en idrott -> -er
+15. en import -> -er
+16. en dryck -> -er
+
+** 52B
+
+1. ett arbete -> arbetar
+2. ett tal -> talar
+3. en syn -> ser
+4. en fråga -> frågar
+5. en gråt -> gråter
+6. en sömn -> somnar
+7. ett liv -> lever
+8. ett byte -> byter
+9. ett köp -> köper
+10. en resa -> reser
+11. en dans -> dansar
+12. ett regn -> regnar
+13. en sång -> sjunger
+14. en idrott -> idrottar
+15. en import -> importerar
+16. en dryck -> dricker
+
+** 53
+
+ställer, hör, menar, säger, svär, dirigerar, hyr, byter,
+gråter, går, bär, äter, skär, agerar, tar, gör
+
+** 54
+
+A:
+
+1. böjning
+2. skrivning
+3. tryckning
+4. strykning
+5. stängning
+6. skakning
+7. läsning
+8. rynkning
+9. körning
+10. rökning
+11. viftning
+12. klippning
+
+B: en
+
+C: -ar
+
+** 55A
+
+1. vårt problem, vår dotter, våra söner
+2. din husvagn, dina äpplen, ditt rum
+3. er soffa, ert arbete, era böcker
+4. mitt kök, mina vänner, min bil
+
+** 55B
+
+1. Problemet är vårt. Dottern är vår. Sönerna är våra.
+2. Husvagnen är din. Äpplena är dina. Rummet är ditt.
+3. Soffan är er. Arbetet är ert. Böckerna är era.
+4. Köket är mitt. Vännerna är mina. Bilen är min.
+
+** 56
+
+1. Är det hans piano?
+2. Det är vår katt.
+3. Det är deras dator.
+4. Hör ni min hund?
+5. Trivs du med ditt arbete?
+6. Använder ni er dammsugare?
+7. Hennes son heter David.
+8. Deras (hennes och hans) dotter heter Lotta.
+9. Vår (min mans och min) villa ligger på Brogatan.
+10. Jag tycker om ert (ditt och din mans) hus.
+
+** 57
+
+klassrum, medelåldern, samtal, tågluffar, tandläkare, ryggsäck,
+kaffepaus, tvättmaskin, badrum
+
+** 58A
+
+1. Luleå är en stad, som ligger i norra Sverige.
+2. Lisa har två morbröder, som är lärare.
+3. Ser du fågeln, som sitter där i trädet?
+4. Det här är min syster, som bor i USA nu.
+5. Min moster är gift med en trevlig man, som kommer frå Uganda.
+6. Snart kommer sommaren, som är så varm och skön.
+7. Där springer katten, som har sju ungar.
+8. Jag älskar en kvinna, som är mycket intelligent.
+
+** 58B
+
+1. kusiner
+2. farbröder
+3. moster
+4. farmor
+5. kusin
+6. farfar
+7. farbror
+8. morfar
+
+** 59
+
+cyklade, skickade, mådde, reste, jämförde, svarade, köpte, trodde,
+körde, sydde, tolkade, bodde, stängde, tryckte, klappade, bytte
+
+** 60
+
+1. Min dotter började skolan i höstas.
+2. Vad gjorde du i torsdags?
+3. Det var kallt i morse.
+4. Regnade det mycket i somras?
+5. Olle lärde sig åka skidor i vintras.
+6. Den här jackan köpte jag i lördags.
+7. I morse steg jag upp tidigt.
+8. Vi träffade varandra i våras.
+9. Vi var på konsert i onsdags kväll.
+10. Åh, vad jag var trött i måndags morse!
+
+** 61
+
+1. Kommer du nu? Lektion börjar ju om tio minuter.
+2. Jag blev sjuk för tre dagar sedan.
+3. Han föddes för tio år sedan.
+4. Min bror kommer till Sverige om sju månader.
+5. Din chef ringde för två timmar sedan.
+6. Kursen slutade för en vecka sedan.
+7. Vi äter om en kvart.
+
+** 62
+
+1. hade, har
+2. mådde, mår
+3. åker, åker
+4. bakar, bakade
+5. följde, följer
+6. drömde, drömde
+7. simmar, simmade
+
+
+PP.16/29(FACIT)
