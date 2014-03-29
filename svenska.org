@@ -628,6 +628,7 @@ alldeles                                perfectly, altogether, quite, absolutely
 hit                                     this way, here, hither / ide, erre
 dit                                     that way, there, in that direction / oda, arra
 annars                                  otherwise, else / egyébként, máskülönben
+innan                                   until, before / mielőtt
 
 eller hur?                              isn't it?, aren't you?, etc. / ugye?, nemde?
 flermiljonfråga                         multi-million question
@@ -2836,5 +2837,165 @@ körde, sydde, tolkade, bodde, stängde, tryckte, klappade, bytte
 6. drömde, drömde
 7. simmar, simmade
 
+** 63A
 
-PP.16/29(FACIT)
+1. barnlösa
+2. tanklös
+3. ärmlös
+4. kraftlös
+
+5. arbetslösa
+6. ansvarslösa
+7. svarslös
+
+** 63B
+
+1. arbetsfri
+2. barnfria
+3. ogräsfri
+4. alkoholfritt
+
+** 64
+
+1. man, man
+2. man, man
+3. ens
+4. man, en
+
+** 65
+
+1. kök
+2. tjock
+3. känd
+4. kilo
+5. tjugo
+6. kylskåp
+7. köper
+8. tjuv
+9. kyckling
+10. kött
+11. tjatar
+12. kör
+
+** 66
+
+1. När ska vi åka?
+2. Jag vill inte städa.
+3. Nu måste du sova.
+4. Får han komma?
+5. Farfar kan inte laga mat.
+6. Kan ni komma hit ikväll?
+7. Måste barnen tvätta sig nu?
+8. Brukar du aldrig snickra?
+9. Du får naturligtvis bestämma.
+10. På torsdag vill jag gärna komma.
+11. Du måste köpa potatis idag.
+12. Man bör alltid äta frukost.
+
+** 67
+
+1. får, få
+2. tänker, tänka
+3. köpte, köpa
+4. använda, använder
+5. städa, städade
+
+** 68
+
+armé brandstation fängelse ekonomisk
+räkor sträng uppriktig älskar
+
+1. ett kilo = tio hekto
+2. göra värnplikten = göra lumpen
+3. Det kostar inget. = Det är gratis.
+4. Jag trivs inte. = Jag vantrivs.
+5. restaurang = krog
+6. inte krig = fred
+7. Gevär och pistoler är vapen.
+8. sätter ihop = monterar
+9. Den som handlar i en affär är kund där.
+10. Han kommer i tid. = Han är punktlig.
+11. fackföreningen = facket
+12. Hon har inget arbete. = Hon är arbetslös.
+13. I en gruva bryter man malm ur berget.
+
+** 69
+
+1.
+2. att
+3. att
+4.
+5.
+6. att
+7. att
+8.
+9.
+10.
+11. att
+12.
+
+** 70
+
+A:
+
+1. preposition
+2. sju
+3. skidor
+4. själv
+5. skild
+6. instruktion
+7. skiner
+8. sjö
+9. sjukhus
+10. maskin
+11. lektion
+12. sjunger
+
+B:
+
+1. schema
+2. skjorta
+3. broschyr
+4. stjärna
+
+C:
+
+1. journalist
+2. dirigerar
+3. chef
+4. regissör
+
+** 71
+
+1. nyfiken
+2. allmän
+3. tungt
+4. uppriktig
+5. flitig, noggrann
+6. aktuella
+7. vemodig
+8. stolt
+9. blyg
+10. historisk
+11. hänsynsfull
+12. beslutsam
+
+** 72
+
+A:
+
+1. reparation
+2. information
+3. demonstration
+4. organisation
+5. kommunikation
+6. produktion
+7. repetition
+8. diskussion
+
+B: en
+
+C: -er
+
+
+PP.18/30(FACIT)
