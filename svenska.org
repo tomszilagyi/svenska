@@ -316,6 +316,7 @@ befäl (ett)                             (person in) command, officer(s) / paran
 utmaning (en)                           challenge / kihívás
 erfarenhet (en)                         experience / tapasztalat, jártasság, ügyesség
 logement (ett)                          barracks / legénységi szoba, lakóhelyiség
+köttfärs (en)                           ground meat / darált/vagdalt hús, fasírozott
 
 ** VERB - VERBS - IGÉK
 
@@ -470,6 +471,7 @@ skryta                                  boast, brag / dicsekszik, felvág, kérk
 välja [valde]                           choose, elect / választ, kiválaszt
 ha nytta                                benefit, find useful / hasznára/előnyére válik
 vänja [vande]                           accustom, get used to / hozzá/rá/megszokik vmit
+be                                      ask, request, beg, pray / kér, kérlel, könyörög, felkér
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -754,6 +756,16 @@ ju ..., desto ...                       the ..., the ...
   Ju närmare jag kom, desto mer nervös blev jag.
                                         The closer I got, the more nervous I became.
 inte desto mindre                       none the less
+
+Jag ska be att få...                    I'd like to ask for...
+Jag skulle vilja ha...                  I'd like to have...
+Kan jag få...?                          Can I have...?
+Jag ska ha...                           I will have...
+Skulle jag kunna få...?                 Could I get...?
+Det var bra så.                         That's all.
+Var det bra så?                         Is that all?
+Något annat?                            Anything else?
+Varsågod.                               Here you are. / You're welcome.
 
 ** Ordspråk
 
