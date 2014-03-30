@@ -296,6 +296,26 @@ tjej (en)                               girl [inf.] / csaj
 kille (en)                              fellow, guy, bloke [inf.] / csávó, pasi, srác, fickó, legény
 sand (en)                               sand / homok
 veckopeng (en)                          weekly pocket money / heti zsebpénz
+försvar (ett)                           defence, defense[US] / védelem
+  totalförsvar                            overall defence
+plikt (en)                              duty / szolgálat
+  totalförsvarsplikt                      overall defence duty / általános védelmi szolgálat
+värnplikt                               compulsory military service / sorkatonai szolgálat
+reserv (en)                             reserve / tartalék
+tjänst (en)                             job, post, duty, service / állás, tisztség, szolgálat, hivatal
+[militär]tjänstgöring                   [military] service / [sorkatonai] szolgálat
+utbildning (en)                         education, training / kiképzés, kiművelés, iskolázás
+sökande (en)                            applicant / jelentkező
+soldat (en)                             soldier / katona
+stridsvagn (en)                         tank / tank
+tillägg (ett)                           addition, supplement / kiegészítés, pótlás, toldalék, utóirat, pótlék, felár, pótdíj
+utryckning (en)                         discharge / kivonulás, leszerelés
+skräck (en)                             terror, horror, dread, fright / ijedtség, rémület, félelem
+pluton (en)                             platoon / szakasz
+befäl (ett)                             (person in) command, officer(s) / parancsnok(ság), vezénylő(k), elöljáró(k), tiszt(ek)
+utmaning (en)                           challenge / kihívás
+erfarenhet (en)                         experience / tapasztalat, jártasság, ügyesség
+logement (ett)                          barracks / legénységi szoba, lakóhelyiség
 
 ** VERB - VERBS - IGÉK
 
@@ -438,6 +458,18 @@ skrika                                  scream, call out, cry, shriek, shout / k
 tjata                                   pester, nag / nyaggat, gyötör, korhol, zsörtölődik vkivel
 fatta                                   catch, grasp, understand / felfog, megért, megfog
 bruka                                   be in the habit of, cultivate / szokott ...-ni (segédige inf. alakú igével)
+innebära                                involve, mean / tartalmaz, magában foglal, jelent, [vmivel] együtt jár
+rycka                                   pull, snatch, tug / ránt, tép, szakít, meghúz
+rycka in                                join up [for military service] / bevonul [seregbe]
+rycka ut                                be demobilized [having completed mil.service] / leszerel [seregből]
+uppstå                                  come up / keletkezik, létrejön, kerekedik, támad, indul
+mönstra                                 scrutinize, sign on [mil] / vizsgál, mustrál, besoroz(zák) [seregbe]
+ansöka                                  apply [for sg] / kérelmez, folyamodik, megpályáz, jelentkezik
+sköta                                   look after, nurse, manage, treat, operate, tend, run, deal with / ápol, gondoz, törődik, gondoskodik, ellát, intéz, kezel, vezet
+skryta                                  boast, brag / dicsekszik, felvág, kérkedik, nagyzol
+välja [valde]                           choose, elect / választ, kiválaszt
+ha nytta                                benefit, find useful / hasznára/előnyére válik
+vänja [vande]                           accustom, get used to / hozzá/rá/megszokik vmit
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -520,6 +552,10 @@ morgonpigg                              morning alert, morning person / koránke
 beslutsam                               determined, resolute / határozott, elszánt
 nyfiken                                 curious / kíváncsi
 sparsam                                 thrifty, economical / takarékos, spórolós, beosztó
+skyldig                                 in debt, owing, guilty / adós, tartozik, vétkes, bűnös, hibás
+närvarande                              present / jelenlévő, jelenlegi, mostani
+beroende                                dependent on / vmitől függő
+närmare                                 closer, nearer / közelebb
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -629,6 +665,7 @@ hit                                     this way, here, hither / ide, erre
 dit                                     that way, there, in that direction / oda, arra
 annars                                  otherwise, else / egyébként, máskülönben
 innan                                   until, before / mielőtt
+överhuvudtaget                          on the whole, at all / általában, egészében, egyáltalán
 
 eller hur?                              isn't it?, aren't you?, etc. / ugye?, nemde?
 flermiljonfråga                         multi-million question
@@ -649,6 +686,7 @@ framför                                 before / előtt(e)
 ur                                      from, out of / -ból
 trots                                   despite, in spite of / [vmi] ellenére
 längst till vänster                     at the far left / a bal szélen
+åt                                      at, to, towards, about / -nak/nek, felé
 
 ** Hjälpverb
 
@@ -711,6 +749,11 @@ det handlar om dig                      this is about you / rólad van szó
 
 Vad vill ni mig?                        What do you want from me?
 Det håller jag med om.                  [On that] I agree [with you].
+
+ju ..., desto ...                       the ..., the ...
+  Ju närmare jag kom, desto mer nervös blev jag.
+                                        The closer I got, the more nervous I became.
+inte desto mindre                       none the less
 
 ** Ordspråk
 
