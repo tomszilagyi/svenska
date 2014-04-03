@@ -317,9 +317,26 @@ utmaning (en)                           challenge / kihívás
 erfarenhet (en)                         experience / tapasztalat, jártasság, ügyesség
 logement (ett)                          barracks / legénységi szoba, lakóhelyiség
 köttfärs (en)                           ground meat / darált/vagdalt hús, fasírozott
+parti (ett)                             party / párt
+val (ett)                               choice, election / (ki)választás, alternatíva
+utlänning (en)                          foreigner, alien / külföldi (ember), idegen állampolgár
+kammare (en, kamrar, kamrarna)          chamber (of parliament) / kamara, (parlamenti) ház
+jämlikhet (en)                          equality / egyenlőség
+samling (en)                            gathering, collection, assembly / (össze)gyűjtés, gyülekezés, tömörülés, gyűjtemény, csoportosulás, tömeg
+anhängare (en)                          follower, supporter / követő, támogató
+marknad (en)                            market / piac
+ägande (ett)                            ownership, owning / tulajdon, saját
+äganderätt (en)                         right of possession / tulajdonjog
+klassamhälle (ett)                      class society / osztálytársadalom
+förbund (ett)                           association, union, society / szövetség
+landsbygd (ett)                         countryside / vidék, falu
+näringsliv (ett)                        trade/industry, business world / üzleti élet
+jämställdhet (en)                       gender equality, equal opportunities / egyenjogúság. egyenlő esélyek
+kärnkraft (en)                          nuclear power / atomenergia
 
 ** VERB - VERBS - IGÉK
 
+heta [heter, hette]                     be called/named / hívják, nevezik vkinek/vminek
 tala                                    speak (language) / beszél (nyelvet)
 bo                                      live (somewhere) / él (lakik)
 följa                                   follow, accompany, comply / követ
@@ -472,6 +489,11 @@ välja [valde]                           choose, elect / választ, kiválaszt
 ha nytta                                benefit, find useful / hasznára/előnyére válik
 vänja [vande]                           accustom, get used to / hozzá/rá/megszokik vmit
 be                                      ask, request, beg, pray / kér, kérlel, könyörög, felkér
+rösta                                   vote / választ, szavaz
+värna                                   protect / védelmez, oltalmaz, megvéd, óv
+avskaffa                                do away with, get rid of, abolish / megszüntet, eltöröl, véget vet, hatályon kívül helyez
+behålla                                 retain, keep, hold onto / megtart, fenntart, megőriz
+fundera                                 think, ponder / elgondolkozik, megfontol, fontolgat, töpreng
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -500,6 +522,8 @@ vanlig                                  usual(ly), ordinary(-ily)
 tystlåten                               taciturn / hallgatag
 dryg                                    ample, more than, over, just over / bőséges
 drygt                                   amply, over, just over / bőségesen
+knapp                                   scarce, meagre / szűkös, szegényes, csekély, korlátozott
+knappt                                  slightly less than, hardly / alighogy, nehezen, nem igen
 ordentlig                               orderly, thorough / rendes, alapos
 rejäl                                   strong, big, reliable, sure, serious, honest, substantial
 rätt                                    right (straight), fairly, rather, quite
@@ -558,6 +582,7 @@ skyldig                                 in debt, owing, guilty / adós, tartozik
 närvarande                              present / jelenlévő, jelenlegi, mostani
 beroende                                dependent on / vmitől függő
 närmare                                 closer, nearer / közelebb
+utsatt                                  vulnerable / kitett (pl. veszélynek), kihelyezett, kitűzött, meghatározott
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -587,6 +612,7 @@ icke ...                                non-... / not-...
 allmän                                  common, general
 ihop                                    together / együtt
 istället / i stället                    instead / vmi helyett
+förutom                                 apart from, aside from / kívül, kivéve, azonkívül hogy ...
 
 alltid                                  always
 nästan alltid                           almost always
@@ -767,6 +793,9 @@ Var det bra så?                         Is that all?
 Något annat?                            Anything else?
 Varsågod.                               Here you are. / You're welcome.
 
+vart fjärde år                          every four years
+Ta reda på                              Find out
+
 ** Ordspråk
 
 Den som gräver en grop åt andra, faller själv däri.
@@ -775,6 +804,7 @@ Som man bäddar, får man ligga!          As you make your bed, so you must lie 
 Man kan aldrig lära gamla hundar att sitta.
                                         You cannot teach an old dog new tricks.
 Äta bör man, annars dör man.            One must eat, or one dies.
+Tala är silver, tiga är guld.           Speech is silver, silence is golden.
 
 ** Några uttryck med djur
 
@@ -810,8 +840,9 @@ i höstas                                last fall/autumn / a(z elmúlt) ősszel
 
 ** Rövidítések
 
-osv [och så vidare]                     etc. / stb.
-jfr [jämför]                            cf. / vö.
+osv. [och så vidare]                    etc. / stb.
+jfr. [jämför]                           cf. / vö.
+dvs. [det vill säga]                    i.e. / azaz, úgymint
 OBS!                                    Attention!
 ToR [Tur och retur]                     oda-vissza/retúr
 
@@ -1303,6 +1334,17 @@ Ingen som du känner var där.           Jag känner ingen som tänker gå på f
 | Imorgon   | får       | du      | -            | sova.     |
 | -         | Måste     | jag     | verkligen    | åka?      |
 | -         | Får       | han     | inte         | komma?    |
+
+** INFINITIV MED ELLER UTAN "ATT" (p.88)
+
+Jag måste skriva till Filip.  Jag tycker /om/ *att* skriva.
+Jag vill inte gå på festen.   Hon glömmer ofta /bort/ *att* ringa hem.
+De får inte komma hit.        Jag lovar *att* komma.
+Hon kan tala fem språk.       Hon älskar *att* tala franska.
+
+Efter hjälpverb har man inte *att* före infinitiv.
+Efter några verb (speciellt verb med /partikel/) har man *att* före infinitiv.
+Man måste lära sig regeln för varje verb.
 
 
 * Övningar i Lärobok
