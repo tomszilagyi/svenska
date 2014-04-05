@@ -333,6 +333,11 @@ landsbygd (ett)                         countryside / vidék, falu
 näringsliv (ett)                        trade/industry, business world / üzleti élet
 jämställdhet (en)                       gender equality, equal opportunities / egyenjogúság. egyenlő esélyek
 kärnkraft (en)                          nuclear power / atomenergia
+föremål (ett)                           thing, object, article / tárgy, téma
+likgiltighet (en)                       indifference / közömbösség, érzéketlenség
+talang (en)                             talent / tehetség
+krig (ett)                              war / háború
+fred (en)                               peace / béke
 
 ** VERB - VERBS - IGÉK
 
@@ -494,6 +499,9 @@ värna                                   protect / védelmez, oltalmaz, megvéd,
 avskaffa                                do away with, get rid of, abolish / megszüntet, eltöröl, véget vet, hatályon kívül helyez
 behålla                                 retain, keep, hold onto / megtart, fenntart, megőriz
 fundera                                 think, ponder / elgondolkozik, megfontol, fontolgat, töpreng
+beundra                                 admire / (meg)csodál, (meg)bámul, rajong
+tråka (ut)                              tease, bug, bore / (halálra) untat, (ki)fáraszt
+avsky                                   loathe, abhor, detest / utál, undorodik, irtózik, gyűlöl
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -583,6 +591,8 @@ närvarande                              present / jelenlévő, jelenlegi, mosta
 beroende                                dependent on / vmitől függő
 närmare                                 closer, nearer / közelebb
 utsatt                                  vulnerable / kitett (pl. veszélynek), kihelyezett, kitűzött, meghatározott
+deprimerad                              depressed / lehangolt, levert
+frisk                                   healthy, well / egészséges, üde, friss, élénk
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1345,6 +1355,12 @@ Hon kan tala fem språk.       Hon älskar *att* tala franska.
 Efter hjälpverb har man inte *att* före infinitiv.
 Efter några verb (speciellt verb med /partikel/) har man *att* före infinitiv.
 Man måste lära sig regeln för varje verb.
+
+** VILKEN/VILKET (p.89)
+
+Vilken är din favoritfärg?   (en färg)
+Vilket är ditt favoritdjur?  (ett djur)
+Vilka är dina favoritfärger? (många färger)
 
 
 * Övningar i Lärobok
