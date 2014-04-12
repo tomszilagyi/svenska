@@ -340,6 +340,8 @@ krig (ett)                              war / háború
 fred (en)                               peace / béke
 stämning (en)                           feeling, mood, atmosphere / hangulat, kedv, lelkiállapot
 ögonkast (ett)                          glance, look / pillantás, tekintet
+sammanträde (ett)                       conference, meeting / megbeszélés, értekezlet, ülés
+ärende (ett)                            errand, commission, matter / ügy, dolog, megbízás, kérelem
 
 ** VERB - VERBS - IGÉK
 
@@ -504,6 +506,8 @@ fundera                                 think, ponder / elgondolkozik, megfontol
 beundra                                 admire / (meg)csodál, (meg)bámul, rajong
 tråka (ut)                              tease, bug, bore / (halálra) untat, (ki)fáraszt
 avsky                                   loathe, abhor, detest / utál, undorodik, irtózik, gyűlöl
+försöka                                 try, attempt / megkísérel, meg/kipróbál, kísérletezik, igyekszik
+framföra                                present, give, convey / átad, átnyújt, előad, elmond
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -812,6 +816,16 @@ Vi ses imorgon!                         See you tomorrow!
 Vi hörs!                                See you!
 Vi träffas ikväll!                      Meet you tonight!
 Vi säger det!                           
+
+Beklagar, men ...                       Sorry, but ...
+Får jag tala med ...                    May I talk to ...
+Det ät upptaget.                        It is busy.
+Ett ögonblick!                          Just a moment!
+Jag söker ...                           I'm looking for
+Vem kan jag hälsa från?                 
+Kan du framföra det?                    Can you convey that?
+Han sitter tyvärr i sammanträde.        Unfortunately he is in a meeting.
+Hon är tyvärr på tjänsteresa.           She is unfortunately on a business trip.
 
 ** Ordspråk
 
