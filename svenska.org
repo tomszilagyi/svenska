@@ -338,6 +338,8 @@ likgiltighet (en)                       indifference / közömbösség, érzéke
 talang (en)                             talent / tehetség
 krig (ett)                              war / háború
 fred (en)                               peace / béke
+stämning (en)                           feeling, mood, atmosphere / hangulat, kedv, lelkiállapot
+ögonkast (ett)                          glance, look / pillantás, tekintet
 
 ** VERB - VERBS - IGÉK
 
@@ -806,6 +808,11 @@ Varsågod.                               Here you are. / You're welcome.
 vart fjärde år                          every four years
 Ta reda på                              Find out
 
+Vi ses imorgon!                         See you tomorrow!
+Vi hörs!                                See you!
+Vi träffas ikväll!                      Meet you tonight!
+Vi säger det!                           
+
 ** Ordspråk
 
 Den som gräver en grop åt andra, faller själv däri.
@@ -847,6 +854,13 @@ i vintras                               last winter / a(z elmúlt) télen
 i våras                                 last spring / a(z elmúlt) tavasszal
 i somras                                last summer / a(z elmúlt) nyáron
 i höstas                                last fall/autumn / a(z elmúlt) ősszel
+
+imorgon bitti                           tomorrow (early) morning
+imorgon kväll                           tomorrow evening/night
+i övermorgon                            on the day after tomorrow
+på onsdag (morgon, kväll)               on wednesday (morning, evening/night)
+nästa onsdag                            next wednesday
+nästa vecka                             next week
 
 ** Rövidítések
 
@@ -1361,6 +1375,15 @@ Man måste lära sig regeln för varje verb.
 Vilken är din favoritfärg?   (en färg)
 Vilket är ditt favoritdjur?  (ett djur)
 Vilka är dina favoritfärger? (många färger)
+
+** VARANDRA (p.90)
+
+De älskar varandra. (Han älskar henne och hon älskar honom.)
+Vi hjälper varandra. (Jag hjälper dem och de hjälper mig.)
+Vi lånar varandras kläder. (Jag lånar hans kläder och han lånar mina.)
+
+Vi träffas på måndag! (Vi träffar varandra på måndag.)
+Vi hörs! (Vi hör av varandra.)
 
 
 * Övningar i Lärobok
