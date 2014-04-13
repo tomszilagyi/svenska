@@ -338,10 +338,20 @@ likgiltighet (en)                       indifference / közömbösség, érzéke
 talang (en)                             talent / tehetség
 krig (ett)                              war / háború
 fred (en)                               peace / béke
+maskros (en)                            dandelion / pitypang
 stämning (en)                           feeling, mood, atmosphere / hangulat, kedv, lelkiállapot
 ögonkast (ett)                          glance, look / pillantás, tekintet
 sammanträde (ett)                       conference, meeting / megbeszélés, értekezlet, ülés
 ärende (ett)                            errand, commission, matter / ügy, dolog, megbízás, kérelem
+ved (en)                                wood / tűzifa
+vedspis (en)                            woodstove / fatüzelésű tűzhely
+matsäck (en)                            packed lunch / útravaló, tarisznya, kenyérzsák
+sågverk (ett)                           sawmill / fűrésztelep, -malom
+beställning (en)                        booking, reservation / (meg)rendelés, foglalás
+mellanmål (ett)                         snack / uzsonna, tízórai, falatozás
+psalm (en)                              psalm / zsoltár
+sill (en)                               herring / hering
+rotmos (ett)                            mashed turnips / karórépapüré
 
 ** VERB - VERBS - IGÉK
 
@@ -368,6 +378,7 @@ tvätta                                  wash (chothes) / mos
 bada                                    bath / fürdik
   bada bastu                              szaunázik
 sy                                      sew / varr
+  sy om                                   varrással átalakít, átvarr, újra megvarr
 sticka                                  knit / köt
 väva                                    weave / sző
 redovisa                                show, present / bemutat
@@ -442,7 +453,7 @@ stå                                     stand / áll
 räta                                    straighten / kiegyenesít, kinyújt
 böja [böj!]                             bow, curve, bend / hajol, hajlít, görbít
 klappa                                  clap, pat, pet / tapsol, megvereget, paskol, kopog
-lägga                                   put, place, set, lay / fektet, helyez, tesz, rak
+lägga [lade]                            put, place, set, lay / fektet, helyez, tesz, rak
 knäppa                                  snap, click / csettint, pattint
 rynka                                   wrinkle / ráncol, redőz
 vifta                                   wave / integet, legyez
@@ -508,6 +519,9 @@ tråka (ut)                              tease, bug, bore / (halálra) untat, (k
 avsky                                   loathe, abhor, detest / utál, undorodik, irtózik, gyűlöl
 försöka                                 try, attempt / megkísérel, meg/kipróbál, kísérletezik, igyekszik
 framföra                                present, give, convey / átad, átnyújt, előad, elmond
+tända                                   light, ignite / meggyújt, felgyújt, bekapcsol, felkapcsol (villanyt)
+lämna                                   leave, give, hand / (ott)hagy, elhagy, hátrahagy, átenged, átad, nyújt, ad, hoz
+släcka                                  extinguish, put out, slake, quench, turn/switch off / (el/ki)olt, kikapcsol, csillapít
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -599,6 +613,8 @@ närmare                                 closer, nearer / közelebb
 utsatt                                  vulnerable / kitett (pl. veszélynek), kihelyezett, kitűzött, meghatározott
 deprimerad                              depressed / lehangolt, levert
 frisk                                   healthy, well / egészséges, üde, friss, élénk
+sysslolös                               idle, inactive / tétlen, dologtalan
+stekt                                   roast, fried / (meg)sütött, pirított, párolt, sült
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -662,6 +678,7 @@ helst                                   rather, preferably
 heller                                  nor, neither, either, also
 däremot                                 however, on the other hand
 därför                                  therefore / emiatt, ennélfogva
+därefter                                afterward, then, thereafter / (az/ez)után, miután
 efteråt                                 afterwards / azután, utána
 gärna                                   gladly, willingly / szívesen
 redan                                   already / már
@@ -680,6 +697,7 @@ envis                                   obstinate, stubborn, persistent / nyakas
 sakta                                   slowly, gently / lassan, enyhén
 framme                                  in front, out / elöl, itt, ott
   [bilen vara framme]                     [az autó előállt]
+iväg                                    away [from] / el [vhonnan]
 
 udda                                    odd / páratlan
 jämn                                    even, exact / páros, pontos(an annyi)
@@ -826,6 +844,10 @@ Vem kan jag hälsa från?
 Kan du framföra det?                    Can you convey that?
 Han sitter tyvärr i sammanträde.        Unfortunately he is in a meeting.
 Hon är tyvärr på tjänsteresa.           She is unfortunately on a business trip.
+Det kan inte hjälpas.
+
+ge sig iväg                             set off
+En dag var till ända.                   A day was over.
 
 ** Ordspråk
 
@@ -1398,6 +1420,41 @@ Vi lånar varandras kläder. (Jag lånar hans kläder och han lånar mina.)
 
 Vi träffas på måndag! (Vi träffar varandra på måndag.)
 Vi hörs! (Vi hör av varandra.)
+
+** PRETERITUMFORMEN (p.92)
+
+Preteritumformen -de för verb som slutar på -a i imperativ uttalas
+inte alltid i talspråk.
+
+Exempel:
+Han titta' på teve igår.
+Hon tala' med Pelle i förrgår.
+Han plantera' på marken.
+
+I skrift markerar man det ibland med ett '-tecken.
+
+** STARKA OCH OREGELBUNDNA VERB (p.93)
+
+| presens      | preteritum   |          |
+|--------------+--------------+----------|
+| är           | var          | oregelb. |
+| går          | gick         | oregelb. |
+| ser ut       | såg ut       | oregelb. |
+| stiger upp   | steg upp     | starkt   |
+| sätter på    | satte på     | oregelb. |
+| gör          | gjorde       | oregelb. |
+| sitter       | satt         | starkt   |
+| äter         | åt           | starkt   |
+| ger sig iväg | gav sig iväg | oregelb. |
+| måste        | måste        | oregelb. |
+| kommer       | kom          | starkt   |
+| kan          | kunde        | oregelb. |
+| ligger       | låg          | oregelb. |
+
+Många verb är oregelbundna bara i /en/ form.
+
+Man ser inte alltid på preteritumformen om ett verb är starkt eller
+oregelbundet.
 
 
 * Övningar i Lärobok
