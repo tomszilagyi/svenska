@@ -5,6 +5,7 @@ http://folkets-lexikon.csc.kth.se/folkets/folkets.en.html
 http://lexin.nada.kth.se/lang/trio/sv/index.htm
 
 http://api.sr.se/api/rss/pod/4019
+Programmet som förklarar nyheterna på ett enklare sätt.
 
 
 * Ordbok
@@ -352,6 +353,27 @@ mellanmål (ett)                         snack / uzsonna, tízórai, falatozás
 psalm (en)                              psalm / zsoltár
 sill (en)                               herring / hering
 rotmos (ett)                            mashed turnips / karórépapüré
+värk (en)                               ache / fájdalom, fájás
+terapi (en)                             therapy / terápia
+förbindelse (en)                        relations, connection / összeköttetés, kapcsolat, csatlakozás
+organ (ett)                             organ / szerv, orgánum, eszköz
+kropp (en)                              body, trunk / test, törzs
+häl (en)                                heel / sarok
+tarm (en)                               intestine / bél
+lever (en)                              liver / máj
+hjärta (ett)                            heart / szív
+njure (en)                              kidney / vese
+stjärt (en)                             tail, backside, behind, bottom / farok, hátsó, ülep, fenék, far, popsi
+huvud (ett)                             head / fej, fő, értelem, ész
+arm (en)                                arm / kar
+armbåge (en)                            elbow / könyök
+hand (en)                               hand / kéz
+hår (ett)                               hair / haj
+kind (en)                               cheek / arc
+midja (en)                              waist / derék
+finger (-ret)                           finger / ujj
+lår (ett)                               thigh / comb
+vad (en)                                calf / lábikra, vádli
 
 ** VERB - VERBS - IGÉK
 
@@ -386,7 +408,7 @@ trivas                                  enjoy, get on [well], thrive
 brädsegla                               windsurf, sailboard
 dammsuga (dammsuger)                    to vacuum clean / porszívózik
 städa                                   clean, tidy up / takarít, rendet rak
-stryka (stryker)                        iron / vasal
+stryka (stryker, strök)                 iron, rub, stroke / vasal, (meg- v. végig)simít, simogat, dörzsöl
 snickra (snickrar)                      do carpentry / asztalosmunkát végez, barkácsol
 måla                                    paint / fest
 betala                                  pay / (ki)fizet
@@ -424,7 +446,7 @@ buga                                    bow / meghajol
 kyssa [kysser] [süsszer]                kiss / (kezet) csókol
 dunka ngn i ryggen                      pound sy on the back / megveregeti a vállát
 komma ihåg ngn                          recall/remember sy / emlékszik valakire
-låta                                    sound / hangzik
+låta [lät]                              sound / hangzik
 sakna                                   miss / hiányzik (neki valaki)
 skicka                                  send, forward / küld, továbbít
 skälla [skäller]                        yelp, scold / megszid, gyaláz, pocskondiáz
@@ -522,6 +544,10 @@ framföra                                present, give, convey / átad, átnyúj
 tända                                   light, ignite / meggyújt, felgyújt, bekapcsol, felkapcsol (villanyt)
 lämna                                   leave, give, hand / (ott)hagy, elhagy, hátrahagy, átenged, átad, nyújt, ad, hoz
 släcka                                  extinguish, put out, slake, quench, turn/switch off / (el/ki)olt, kikapcsol, csillapít
+träna                                   train, practise / gyakorol, treníroz, edz
+öva                                     train, practise / gyakorol, betanul
+klämma                                  pin, squeeze / szorít, szorongat, becsíp, nyom
+förklara                                explain, declare, state / megmagyaráz, -világít, kijelent, kinyilvánít
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -615,6 +641,7 @@ deprimerad                              depressed / lehangolt, levert
 frisk                                   healthy, well / egészséges, üde, friss, élénk
 sysslolös                               idle, inactive / tétlen, dologtalan
 stekt                                   roast, fried / (meg)sütött, pirított, párolt, sült
+sömnig                                  sleepy, drowsy / álmos
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -728,6 +755,7 @@ dit                                     that way, there, in that direction / oda
 annars                                  otherwise, else / egyébként, máskülönben
 innan                                   until, before / mielőtt
 överhuvudtaget                          on the whole, at all / általában, egészében, egyáltalán
+nämligen                                namely, as, since, for / tudniillik, ugyanis, éspedig
 
 eller hur?                              isn't it?, aren't you?, etc. / ugye?, nemde?
 flermiljonfråga                         multi-million question
