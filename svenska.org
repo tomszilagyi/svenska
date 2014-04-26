@@ -52,7 +52,7 @@ frimärke (ett)                          stamp / bélyeg
 mynt (ett)                              coin / érme
 semester(en)                            holiday, vacation / szabadság
 medborgare (en)  [mé:d-borjare]         citizen / polgár
-rulltrappa -an -or                      escalator / felvonó
+rulltrappa -an -or                      escalator / mozgólépcső
 timme (en)                              hour (also lesson) / óra (tanóra is)
 tur (en)                                luck / szerencse
 medlem (en)                             member, membership / tag, tagság
@@ -379,6 +379,14 @@ sambo (en)                              partner, person with whom one lives, com
 lust (en)                               inclination, content / kedv, vágy, öröm, élvezet, gyönyör
 senap (en)                              mustard / mustár
 paraply (ett)                           umbrella / (es)ernyő
+lägenhet (en)                           flat, apartment / lakás
+förmedling (en)                         agency, mediating / közvetítés, közbenjárás, ügynökség
+mäklare (en)                            agent, broker / közvetítő, ügynök, bróker, alkusz
+dass (ett)                              privy, outhouse, john, loo [inf] / budi, klozett
+hiss (en)                               lift, elevator / lift, felvonó
+vrå (en)                                corner / sarok, szöglet, zug, rejtett v. félreeső hely
+tvättstuga (en)                         laundry room / mosókonyha
+trombon (en)                            trombone / harsona
 
 ** VERB - VERBS - IGÉK
 
@@ -882,6 +890,8 @@ Det kan inte hjälpas.
 
 ge sig iväg                             set off
 En dag var till ända.                   A day was over.
+Det gör ingenting.                      Nem tesz semmit.~Semmiség.
+lugn och ro                             csend és nyugalom
 
 ** Ordspråk
 
@@ -1499,6 +1509,61 @@ oregelbundet.
 Man kan säga *ingen* eller *inte någon*.
 *Inte någon* måste man använda, när man har flera verb i en huvudsats,
 och alltid i bisats.
+
+** RÄKNEBARA SUBSTANTIV (p.98)
+
+Artikel eller inte?
+
+Har du ...
+... telefon?
+... bastu?
+... bil?
+... jobb?
+
+Normalt har man bara en bastu, en telefon etc.
+
+Har du ...
+... en cigarrett?
+... en lexikon?
+... ett glas?
+... en kniv?
+
+Kan jag få låna/använda den/det?
+
+Har du ...
+... någon bok av PC Jersild?
+... något lexikon?
+... någon idé?
+... någon skiva med Evert Taube?
+
+Man kan ju har mer än en!
+
+** OBESTÄMDA SUBSTANTIV I FRÅGOR OCH NEGATIONER
+
+Icke räknebara substantiv:
+| Han har tid.            |
+| Har han tid?            |
+| Han har inte/ingen tid. |
+
+Normalt bara en:
+| Han har villa.            |
+| Har han villa?            |
+| Han har inte/ingen villa. |
+
+Räknebara substantiv:
+| Han har en ordbok.    | en    | ett   | flera |
+| Har han någon ordbok? | någon | något | några |
+| Han har ingen ordbok. | ingen | inget | inga  |
+
+Med ett verb:
+| Jag | har   | ingen | ordbok.   |
+| Jag | köper | inget | frimärke. |
+| Jag | har   | inga  | pengar.   |
+
+Med två verb:
+| Jag | vill    | inte | ha   | någon | ordbok.   |
+| Jag | behöver | inte | köpa | något | frimärke. |
+| Jag | vill    | inte | ha   | några | pengar.   |
 
 
 * Övningar i Lärobok
@@ -2165,6 +2230,34 @@ Han kan inte spela piano och inte spela gitarr heller.
 Han tycker inte om countrymusik och inte om jazz heller.
 Han behöver inte städa och inte bädda sängen heller.
 Han läser inte böcker och inte tidningar heller.
+
+** p.99: Artikel eller ej?
+
+1. Har du telefon?
+2. Har du en cigarrett?
+3. Han tittar på teve.
+4. Har du köpt någon dator?
+5. Hon är läkare.
+6. Har du bra jobb?
+7. Har du någon bror?
+8. Vi har en villa i Nacka.
+9. Han skriver en roman.
+10. De lyssnar på radio.
+11. Han lyssnar på en sång med Beatles.
+12. Hon har nytt jobb.
+13. Bor ni i någon stor lägenhet?
+14. Hon läser en roman av Tolstoj.
+15. Du har en fin bokhylla!
+16. Spelar du gitarr?
+17. Vi måste köpa ett bord till köket.
+18. Jag har köpt en bok av Strindberg.
+19. Det finns ingen bandspelare i klassrummet.
+20. Har du ingen nyckel?
+21. Fick du inget kvitto?
+22. Ska vi ha fisk till middag?
+23. Dricker du öl?
+24. Köp några burk tomater!
+25. Det finns inget torkskåp i tvättstugan.
 
 
 * Övningar del 1
