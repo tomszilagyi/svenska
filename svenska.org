@@ -374,6 +374,11 @@ midja (en)                              waist / derék
 finger (-ret)                           finger / ujj
 lår (ett)                               thigh / comb
 vad (en)                                calf / lábikra, vádli
+körkort (ett)                           driving licence / jogosítvány, vezetői engedély
+sambo (en)                              partner, person with whom one lives, common-law spouse / partner, élettárs
+lust (en)                               inclination, content / kedv, vágy, öröm, élvezet, gyönyör
+senap (en)                              mustard / mustár
+paraply (ett)                           umbrella / (es)ernyő
 
 ** VERB - VERBS - IGÉK
 
@@ -548,6 +553,7 @@ träna                                   train, practise / gyakorol, treníroz, 
 öva                                     train, practise / gyakorol, betanul
 klämma                                  pin, squeeze / szorít, szorongat, becsíp, nyom
 förklara                                explain, declare, state / megmagyaráz, -világít, kijelent, kinyilvánít
+skoja                                   swindle, cheat, have fun, joke / csal, szélhámoskodik, svindlizik, mókázik, tréfál, bolondozik
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1484,6 +1490,16 @@ Många verb är oregelbundna bara i /en/ form.
 Man ser inte alltid på preteritumformen om ett verb är starkt eller
 oregelbundet.
 
+** INGEN - INTE NÅGON (p.95)
+
+| en bil      | ingen bil  | inte någon bil   |
+| ett hus     | inget hus  | inte något hus   |
+| flera bilar | inga bilar | inte några bilar |
+
+Man kan säga *ingen* eller *inte någon*.
+*Inte någon* måste man använda, när man har flera verb i en huvudsats,
+och alltid i bisats.
+
 
 * Övningar i Lärobok
 
@@ -2127,6 +2143,28 @@ En präst bör vara varm, förstående, glad.
 En chef bör vara duktig, stolt, ekonomisk.
 En förälder bör vara bestämd, rättvis, varm, sparsam.
 En student bör vara flitig, morgonpigg, punktlig, nyfiken.
+
+** p.96: Använd varken...eller och berätta
+
+Hon har varken teve eller radio.
+Hon har varken öl eller whisky.
+Hon har varken salt eller peppar.
+Hon har varken grammofon eller kassettbandspelare.
+Hon har varken tid eller lust.
+Hon har varken WC eller badrum.
+Hon har varken skrivmaskin eller dator.
+Hon har varken pass eller biljetter.
+Hon har varken man eller barn.
+
+** p.96: Använd inte...heller och berätta
+
+Han talar inte spanska och inte italienska heller.
+Han dricker inte öl och inte whisky heller.
+Han har inte tid och inte lust heller.
+Han kan inte spela piano och inte spela gitarr heller.
+Han tycker inte om countrymusik och inte om jazz heller.
+Han behöver inte städa och inte bädda sängen heller.
+Han läser inte böcker och inte tidningar heller.
 
 
 * Övningar del 1
