@@ -387,6 +387,12 @@ hiss (en)                               lift, elevator / lift, felvonó
 vrå (en)                                corner / sarok, szöglet, zug, rejtett v. félreeső hely
 tvättstuga (en)                         laundry room / mosókonyha
 trombon (en)                            trombone / harsona
+termin (en)                             [school] term / terminus, félév, szemeszter
+tal (ett)                               speech, number, sum / beszéd, beszélgetés, szóbeszéd, mendemonda, szám
+förskola (en)                           preschool / előkészítő iskola, óvoda
+inriktning (en)                         alignment, concentration, direction / beállítódás, irányzat
+prägel (en)                             stamp, mark, impression / bélyeg, jelleg, jegy
+behörighet (en)                         qualification, competence, eligibility / illetékesség, jogosultság
 
 ** VERB - VERBS - IGÉK
 
@@ -547,6 +553,8 @@ be                                      ask, request, beg, pray / kér, kérlel,
 rösta                                   vote / választ, szavaz
 värna                                   protect / védelmez, oltalmaz, megvéd, óv
 avskaffa                                do away with, get rid of, abolish / megszüntet, eltöröl, véget vet, hatályon kívül helyez
+hålla                                   hold, keep, grasp, grip / (meg/be/fenn)tart
+  hålla tal                               give a speech / beszédet mond
 behålla                                 retain, keep, hold onto / megtart, fenntart, megőriz
 fundera                                 think, ponder / elgondolkozik, megfontol, fontolgat, töpreng
 beundra                                 admire / (meg)csodál, (meg)bámul, rajong
@@ -562,6 +570,8 @@ träna                                   train, practise / gyakorol, treníroz, 
 klämma                                  pin, squeeze / szorít, szorongat, becsíp, nyom
 förklara                                explain, declare, state / megmagyaráz, -világít, kijelent, kinyilvánít
 skoja                                   swindle, cheat, have fun, joke / csal, szélhámoskodik, svindlizik, mókázik, tréfál, bolondozik
+vara                                    last / tart (időben)
+erbjuda                                 offer / (fel)ajánl, kínál, mutat, nyújt, biztosít
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -610,6 +620,7 @@ hjälpsam                                helpful / segítőkész
 lat                                     lazy / lusta
 smal                                    thin, slim, narrow / vékony, keskeny
 glad                                    pleased, happy / elégedett, boldog
+ledsen [ledset, ledsna]                 sad / szomorú, bús, bánatos
 trevlig                                 pleasant, likable (of person) / kellemes, kedves (személy)
 berömd                                  famed, famous, celebrated / híres, nevezetes
 känd                                    well-known / ismert, híres, neves
@@ -656,6 +667,8 @@ frisk                                   healthy, well / egészséges, üde, fris
 sysslolös                               idle, inactive / tétlen, dologtalan
 stekt                                   roast, fried / (meg)sütött, pirított, párolt, sült
 sömnig                                  sleepy, drowsy / álmos
+snäll                                   good(-natured), kind(-hearted), nice / kedves, szíves, szívélyes, jóságos, engedelmes, jó
+bråkig                                  disorderly, noisy, unruly, troublesome / lármás, nagyhangú, kötekedő, izgága, békétlenkedő
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -770,6 +783,8 @@ annars                                  otherwise, else / egyébként, máskül�
 innan                                   until, before / mielőtt
 överhuvudtaget                          on the whole, at all / általában, egészében, egyáltalán
 nämligen                                namely, as, since, for / tudniillik, ugyanis, éspedig
+samtliga                                all / (az) összes, valamennyi, minden (jelenlévő)
+ytterligare                             further, additional / további, újabb, pótlólagos, bővebb
 
 eller hur?                              isn't it?, aren't you?, etc. / ugye?, nemde?
 flermiljonfråga                         multi-million question
@@ -947,7 +962,8 @@ nästa vecka                             next week
 osv. [och så vidare]                    etc. / stb.
 jfr. [jämför]                           cf. / vö.
 dvs. [det vill säga]                    i.e. / azaz, úgymint
-OBS!                                    Attention!
+sk, s.k. [så kallad]                    so-called / ú.n., úgynevezett
+OBS! [observera!]                       NB., Note!, Attention!
 ToR [Tur och retur]                     oda-vissza/retúr
 
 ** Káromkodások, indulatszavak
@@ -1564,6 +1580,19 @@ Med två verb:
 | Jag | vill    | inte | ha   | någon | ordbok.   |
 | Jag | behöver | inte | köpa | något | frimärke. |
 | Jag | vill    | inte | ha   | några | pengar.   |
+
+** ORDNINGSTALEN
+
+| 1. första  | 11. elfte     | 21. tjugoförsta  | 40. fyrtionde  |
+| 2. andra   | 12. tolfte    | 22. tjugoandra   | 50. femtionde  |
+| 3. tredje  | 13. trettonde | 23. tjugotredje  | 60. sextionde  |
+| 4. fjärde  | 14. fjortonde | 24. tjugofjärde  | 70. sjuttionde |
+| 5. femte   | 15. femtonde  | 25. tjugofemte   | 80. åttionde   |
+| 6. sjätte  | 16. sextonde  | 26. tjugosjätte  | 90. nittionde  |
+| 7. sjunde  | 17. sjuttonde | 27. tjugosjunde  | 100. hundrade  |
+| 8. åttonde | 18. artonde   | 28. tjugoåttonde |                |
+| 9. nionde  | 19. nittonde  | 29. tjugonionde  |                |
+| 10. tionde | 20. tjugonde  | 30. trettionde   |                |
 
 
 * Övningar i Lärobok
