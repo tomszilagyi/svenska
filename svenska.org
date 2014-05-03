@@ -393,6 +393,10 @@ förskola (en)                           preschool / előkészítő iskola, óvo
 inriktning (en)                         alignment, concentration, direction / beállítódás, irányzat
 prägel (en)                             stamp, mark, impression / bélyeg, jelleg, jegy
 behörighet (en)                         qualification, competence, eligibility / illetékesség, jogosultság
+ramsa (en)                              string of words, jingle / felsorolás, szóáradat, tiráda, gyermekvers, mondóka
+påsk (en)                               Easter / húsvét
+födelsedag (en)                         birthday / születésnap
+pingst (en)                             Whitsun / pünkösd
 
 ** VERB - VERBS - IGÉK
 
@@ -572,6 +576,10 @@ förklara                                explain, declare, state / megmagyaráz,
 skoja                                   swindle, cheat, have fun, joke / csal, szélhámoskodik, svindlizik, mókázik, tréfál, bolondozik
 vara                                    last / tart (időben)
 erbjuda                                 offer / (fel)ajánl, kínál, mutat, nyújt, biztosít
+fira                                    celebrate / (meg)ünnepel/tart/ül
+hala                                    haul, tug, pull / (be)von, vontat, (be)húz
+förekomma                               exist, occur, appear / előfordul, található, (meg)történik
+underteckna                             sign / aláír
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -669,6 +677,7 @@ stekt                                   roast, fried / (meg)sütött, pirított,
 sömnig                                  sleepy, drowsy / álmos
 snäll                                   good(-natured), kind(-hearted), nice / kedves, szíves, szívélyes, jóságos, engedelmes, jó
 bråkig                                  disorderly, noisy, unruly, troublesome / lármás, nagyhangú, kötekedő, izgága, békétlenkedő
+fyrfaldig                               fourfold, quadruple / négyszeres, négyszeri, négyes
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -754,7 +763,7 @@ framme                                  in front, out / elöl, itt, ott
 iväg                                    away [from] / el [vhonnan]
 
 udda                                    odd / páratlan
-jämn                                    even, exact / páros, pontos(an annyi)
+jämn                                    even, exact / páros, pontos(an annyi), kerek
 tyst                                    quiet, silent / csendes
 minst                                   at least / legalább
 samt                                    and (used @ end of list), as well as / és, még, valamint
@@ -785,6 +794,7 @@ innan                                   until, before / mielőtt
 nämligen                                namely, as, since, for / tudniillik, ugyanis, éspedig
 samtliga                                all / (az) összes, valamennyi, minden (jelenlévő)
 ytterligare                             further, additional / további, újabb, pótlólagos, bővebb
+övrig                                   other, remaining / megmaradó, még meglévő, hátramaradó, többi, egyéb
 
 eller hur?                              isn't it?, aren't you?, etc. / ugye?, nemde?
 flermiljonfråga                         multi-million question
@@ -815,6 +825,7 @@ får
 kan
 måste
 vill
+må
 
 ** Fraser
 
@@ -903,10 +914,12 @@ Han sitter tyvärr i sammanträde.        Unfortunately he is in a meeting.
 Hon är tyvärr på tjänsteresa.           She is unfortunately on a business trip.
 Det kan inte hjälpas.
 
-ge sig iväg                             set off
+ge sig iväg                             set off / útrakel, felkerekedik
 En dag var till ända.                   A day was over.
 Det gör ingenting.                      Nem tesz semmit.~Semmiség.
 lugn och ro                             csend és nyugalom
+Må han leva uti hundrade år!            May he live for a hundred years!
+Gratulerar på ...                       Congratulations for ...
 
 ** Ordspråk
 
@@ -965,6 +978,7 @@ dvs. [det vill säga]                    i.e. / azaz, úgymint
 sk, s.k. [så kallad]                    so-called / ú.n., úgynevezett
 OBS! [observera!]                       NB., Note!, Attention!
 ToR [Tur och retur]                     oda-vissza/retúr
+FN [Förenta Nationerna]                 UN [United Nations] / ENSZ
 
 ** Káromkodások, indulatszavak
 
