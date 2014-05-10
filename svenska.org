@@ -402,6 +402,12 @@ frack (en)                              tails, dress suit / frakk
 nejlika (en)                            clove, carnation / szegfű
 knapp|hål (ett)                         buttonhole / gomblyuk
 majestät (ett)                          majesty / felség (Ers majestät: Your Majesty / Felséged)
+kemist (en) ["semiszt"]                 chemist / kémikus
+uppfinnare (en)                         inventor / feltaláló
+förmögenhet (en)                        fortune, capital / vagyon, gazdagság, javak [átv: képességek, szellemi javak]
+evenemang (ett)                         event, occasion / esemény, (fontos) eset
+läpp (en)                               lip / ajak [på allas läppar: on everyone's lips / közszájon forog]
+ytterdörr (en)                          front door / bejárati ajtó
 
 ** VERB - VERBS - IGÉK
 
@@ -588,6 +594,11 @@ underteckna                             sign / aláír
 skynda sig ["sünda"]                    hasten, hurry / siet, iparkodik, igyekszik
 raka sig                                shave / (meg)borotválkozik
 knyta [knöt]                            tie [also fig.] / csomót köt, csomóz, (meg)köt, (össze)köt(öz)
+bilda                                   establish, found, form, constitute / képez, alakít, alapít, létrehoz
+uppgå (till)                            amount to, total / felmegy, rúg (vmennyire), elér, kitesz (vmennyit)
+sända                                   transmit, broadcast, send / (le)ad, közvetít, sugároz, küld
+hinna                                   manage, have time, reach, advance / elér, (el)jut, halad, elkészül, ráér, van ideje
+låsa                                    lock [also fig.] / (be/el/le)zár, lelakatol, bereteszel
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -929,6 +940,7 @@ Det gör ingenting.                      Nem tesz semmit.~Semmiség.
 lugn och ro                             csend és nyugalom
 Må han leva uti hundrade år!            May he live for a hundred years!
 Gratulerar på ...                       Congratulations for ...
+vara på allas läppar                    on everyone's lips / közszájon forog
 
 ** Ordspråk
 
@@ -2331,6 +2343,38 @@ Han läser inte böcker och inte tidningar heller.
 23. Dricker du öl?
 24. Köp några burk tomater!
 25. Det finns inget torkskåp i tvättstugan.
+
+** p.104: På morgonen hemma hos Carina
+
+   Jag: Berätta om dig själv, Carina! Vem är du?
+Carina: Ja, jag är 33 år och jag är assistent till personalchefen på ett stort företag.
+   Jag: Hur mycket arbetar du?
+Carina: Jag arbetar heltid.
+   Jag: Har du familj också?
+Carina: Ja, jag är gift. Min man är meteorolog, och så har vi två små flickor.
+        Sanna är 7 och Hanna är 10.
+   Jag: Men hur hinner du med både arbetet, barnen och din mann?
+Carina: Ja, det är inte så lätt alla gånger. Men flickorna trivs
+        i skolan, där och med på dagen och på eftermiddagen går de ??? på (till) fritis.
+        På måndagar, tisdagar och onsdagar hämtar jag dem där på eftermiddagen,
+        och på torsdag och på fredag hämtar min man dem.
+   Jag: Berätta om en vanlig morgon hemma oss er!
+Carina: Jaha, ja, jag vaknar vid sextiden och stiger upp och sätter på kaffe
+        till mig och min man. Sen väcker jag flickorna och lagar frukost åt dem.
+        Sanna, hon äter så sakta, så jag måste alltid skynda på henne.
+        Sten - min man - vill ha lugn och ro på morgonen. Han läser tidningen
+        eller gör i ordning alla papper, som man behöver på jobbet.
+        Sedan måste flickorna tvätta sig och borsta tänderna, bädda sängen och
+        klä på sig och kamma sig. Hanna kan själv, men Sanna måste jag hjälpa.
+        Jag kammar henne och ibland sätter jag upp håret åt henne. Vi har ofta
+        långa diskussioner om olika frisyrer. Halv åtta står Sten vid ytterdörren
+        och tittar på klockan och ropar:
+        "Skynda er! Klockan är mycket! Ska ni följa med eller inte?"
+        Han kör barnen till skolan och mig till tunnelbanan, men först måste jag
+        göra mig ordning själv. Äntligen är vi färdiga alla tre och jag låser dörren.
+        Då kommer det: "Mamma, jag glömde mina gympakläder! Vi måste ta med oss
+        gympakläder idag, sa fröken!"
+        Så är det varje morgon hemma hos oss!
 
 
 * Övningar del 1
