@@ -397,6 +397,11 @@ ramsa (en)                              string of words, jingle / felsorolás, s
 påsk (en)                               Easter / húsvét
 födelsedag (en)                         birthday / születésnap
 pingst (en)                             Whitsun / pünkösd
+fluga (en)                              bow tie, fly, fad, craze / csokornyakkendő, légy, bolondéria, hóbort, bogár
+frack (en)                              tails, dress suit / frakk
+nejlika (en)                            clove, carnation / szegfű
+knapp|hål (ett)                         buttonhole / gomblyuk
+majestät (ett)                          majesty / felség (Ers majestät: Your Majesty / Felséged)
 
 ** VERB - VERBS - IGÉK
 
@@ -580,6 +585,9 @@ fira                                    celebrate / (meg)ünnepel/tart/ül
 hala                                    haul, tug, pull / (be)von, vontat, (be)húz
 förekomma                               exist, occur, appear / előfordul, található, (meg)történik
 underteckna                             sign / aláír
+skynda sig ["sünda"]                    hasten, hurry / siet, iparkodik, igyekszik
+raka sig                                shave / (meg)borotválkozik
+knyta [knöt]                            tie [also fig.] / csomót köt, csomóz, (meg)köt, (össze)köt(öz)
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -678,6 +686,7 @@ sömnig                                  sleepy, drowsy / álmos
 snäll                                   good(-natured), kind(-hearted), nice / kedves, szíves, szívélyes, jóságos, engedelmes, jó
 bråkig                                  disorderly, noisy, unruly, troublesome / lármás, nagyhangú, kötekedő, izgága, békétlenkedő
 fyrfaldig                               fourfold, quadruple / négyszeres, négyszeri, négyes
+lycklig                                 happy, fortunate, blessed / szerencsés, boldog
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1568,7 +1577,7 @@ Har du ...
 
 Man kan ju har mer än en!
 
-** OBESTÄMDA SUBSTANTIV I FRÅGOR OCH NEGATIONER
+** OBESTÄMDA SUBSTANTIV I FRÅGOR OCH NEGATIONER (p.98)
 
 Icke räknebara substantiv:
 | Han har tid.            |
@@ -1595,7 +1604,7 @@ Med två verb:
 | Jag | behöver | inte | köpa | något | frimärke. |
 | Jag | vill    | inte | ha   | några | pengar.   |
 
-** ORDNINGSTALEN
+** ORDNINGSTALEN (p.100)
 
 | 1. första  | 11. elfte     | 21. tjugoförsta  | 40. fyrtionde  |
 | 2. andra   | 12. tolfte    | 22. tjugoandra   | 50. femtionde  |
@@ -1607,6 +1616,27 @@ Med två verb:
 | 8. åttonde | 18. artonde   | 28. tjugoåttonde |                |
 | 9. nionde  | 19. nittonde  | 29. tjugonionde  |                |
 | 10. tionde | 20. tjugonde  | 30. trettionde   |                |
+
+** REFLEXIVA VERB (p.103)
+
+jag tvättar mig
+du tvättar dig
+han tvättar sig
+hon tvättar sig
+vi tvättar oss
+ni tvättar er
+de tvättar sig
+
+| Fund   | Verb     | Subj | Refl-obj | Adverb  |
+|--------+----------+------+----------+---------|
+| Jag    | tvättar  | -    | mig      | ofta.   |
+|        | Tvättar  | du   | dig      | ofta?   |
+| När    | tvättar  | han  | sig?     |         |
+| Igår   | tvättade | vi   | oss      | inte.   |
+| Varför | tvättar  | ni   | er       | aldrig? |
+
+Observera ordföljden:
+Reflexivt objekt kommer /efter/ subjektet men /före/ satsadverbet!
 
 
 * Övningar i Lärobok
