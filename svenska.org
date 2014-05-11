@@ -408,6 +408,7 @@ förmögenhet (en)                        fortune, capital / vagyon, gazdagság,
 evenemang (ett)                         event, occasion / esemény, (fontos) eset
 läpp (en)                               lip / ajak [på allas läppar: on everyone's lips / közszájon forog]
 ytterdörr (en)                          front door / bejárati ajtó
+påtår (en)                              refill, second cup / második (még egy) csésze, utántöltés
 
 ** VERB - VERBS - IGÉK
 
@@ -941,6 +942,7 @@ lugn och ro                             csend és nyugalom
 Må han leva uti hundrade år!            May he live for a hundred years!
 Gratulerar på ...                       Congratulations for ...
 vara på allas läppar                    on everyone's lips / közszájon forog
+Kan du räcka mig saltet?                Could you pass the salt?
 
 ** Ordspråk
 
@@ -2375,6 +2377,26 @@ Carina: Jaha, ja, jag vaknar vid sextiden och stiger upp och sätter på kaffe
         Då kommer det: "Mamma, jag glömde mina gympakläder! Vi måste ta med oss
         gympakläder idag, sa fröken!"
         Så är det varje morgon hemma hos oss!
+
+** p.105: Vad svarar du?
+
+1. b
+2. j
+3. f
+4. h
+5. a
+6. k
+7. p
+8. o
+9. c
+10. i
+11. d
+12. e
+13. m
+14. g
+15. l
+16. n
+17. q
 
 
 * Övningar del 1
