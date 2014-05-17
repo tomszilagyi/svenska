@@ -409,6 +409,9 @@ evenemang (ett)                         event, occasion / esemény, (fontos) ese
 läpp (en)                               lip / ajak [på allas läppar: on everyone's lips / közszájon forog]
 ytterdörr (en)                          front door / bejárati ajtó
 påtår (en)                              refill, second cup / második (még egy) csésze, utántöltés
+undersökning (en)                       examination, investigation, survey / meg- v. kivizsgálás, vizsgálat
+kudde (en)                              pillow, cushion / párna, vánkos
+påslakan                                duvet cover / paplanhuzat
 
 ** VERB - VERBS - IGÉK
 
@@ -600,6 +603,8 @@ uppgå (till)                            amount to, total / felmegy, rúg (vmenn
 sända                                   transmit, broadcast, send / (le)ad, közvetít, sugároz, küld
 hinna                                   manage, have time, reach, advance / elér, (el)jut, halad, elkészül, ráér, van ideje
 låsa                                    lock [also fig.] / (be/el/le)zár, lelakatol, bereteszel
+påstå                                   say, state / állít, kijelent
+föredra                                 prefer, deliver, present / előnyben részesít, jobban szeret, előad, felolvas, előterjeszt
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -699,6 +704,11 @@ snäll                                   good(-natured), kind(-hearted), nice / 
 bråkig                                  disorderly, noisy, unruly, troublesome / lármás, nagyhangú, kötekedő, izgága, békétlenkedő
 fyrfaldig                               fourfold, quadruple / négyszeres, négyszeri, négyes
 lycklig                                 happy, fortunate, blessed / szerencsés, boldog
+orolig                                  worried, restless / aggódó, nyugtalan
+otrolig                                 incredible, unbelievable / hihetetlen, képtelen
+lätt                                    light, slight, easy, gentle / könnyű, könnyed, enyhe, gyenge
+öppet                                   open / nyitott, nyílt
+stängt                                  closed / zárt, zárva lévő
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -782,6 +792,7 @@ sakta                                   slowly, gently / lassan, enyhén
 framme                                  in front, out / elöl, itt, ott
   [bilen vara framme]                     [az autó előállt]
 iväg                                    away [from] / el [vhonnan]
+medan                                   while, whereas / mialatt, miközben, amíg
 
 udda                                    odd / páratlan
 jämn                                    even, exact / páros, pontos(an annyi), kerek
@@ -1651,6 +1662,17 @@ de tvättar sig
 
 Observera ordföljden:
 Reflexivt objekt kommer /efter/ subjektet men /före/ satsadverbet!
+
+** ADVERB -t (p.106)
+
+| Hon sover djupt.     | Hur sover hon?   | Hon sover väldigt djupt.        | Hur djupt sover hon? |
+| Hon sjunger falskt.  | Hur sjunger hon? | Hon sjunger hemskt falskt.      | Hur falskt?          |
+| De lever farligt.    | Hur lever de?    | De lever ganska+ farligt.       | Hur farligt?         |
+| Vi tänker intensivt. | Hur tänker vi?   | Vi tänker verkligen+ intensivt. | Hur intensivt?       |
+
+Adverb bestämmer verb, adjektiv, adverb och svarar ofta på frågan *Hur?*
+
++Alla adverb slutar inte på *-t*, t.ex. verkligen, ganska, lite.
 
 
 * Övningar i Lärobok
