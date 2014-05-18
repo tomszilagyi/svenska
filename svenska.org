@@ -411,7 +411,20 @@ ytterdörr (en)                          front door / bejárati ajtó
 påtår (en)                              refill, second cup / második (még egy) csésze, utántöltés
 undersökning (en)                       examination, investigation, survey / meg- v. kivizsgálás, vizsgálat
 kudde (en)                              pillow, cushion / párna, vánkos
-påslakan                                duvet cover / paplanhuzat
+påslakan (ett)                          duvet cover / paplanhuzat
+lussekatt (en)                          Lucia bun / Luca-napi zsemle
+skjuts (en)                             shove, push, lift / (el)szállítás, fuvarozás, vitel
+linne (ett)                             linen, vest / (len)vászon, ágynemű, fehérnemű, alsóruha, női ing
+glitter (-ret)                          glistening, glitter, tinsel / csillogás, csillogó dísz, csillám
+stjärngosse (en)                        star boy (Lucia boy attendant)
+mössa (en)                              hat, cap / sapka, diáksapka
+fniss (ett)                             giggle / kuncogás, nevetgélés
+stoj (ett)                              uproar, noise / zsivaj, zaj(ongás), lárma
+överraskning (en)                       surprise / meglepetés
+våning (en)                             flat, floor / lakás, emelet
+aula (en)                               lecture hall, assembly hall / aula, díszterem
+vaktmästare (en)                        janitor, waiter / hivatalsegéd, pedellus, felügyelő, pincér
+tärna (en)                              attendant, bridesmaid / hajadon, leányzó, nyoszolyólány
 
 ** VERB - VERBS - IGÉK
 
@@ -605,6 +618,11 @@ hinna                                   manage, have time, reach, advance / elé
 låsa                                    lock [also fig.] / (be/el/le)zár, lelakatol, bereteszel
 påstå                                   say, state / állít, kijelent
 föredra                                 prefer, deliver, present / előnyben részesít, jobban szeret, előad, felolvas, előterjeszt
+dofta                                   smell (pleasant) / (kellemesen) illatozik
+brygga                                  make, produce, brew / készít, főz, kotyvaszt
+hyssja                                  hush, shush / (le/rá)pisszeg, pisszegéssel elhallgattat
+fnittra                                 titter, giggle / kuncog, nevetgél
+gäspa                                   yawn / ásít
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -709,6 +727,11 @@ otrolig                                 incredible, unbelievable / hihetetlen, k
 lätt                                    light, slight, easy, gentle / könnyű, könnyed, enyhe, gyenge
 öppet                                   open / nyitott, nyílt
 stängt                                  closed / zárt, zárva lévő
+förvånad                                surprised, astonished, amazed / csodálkozó, elképedt, meglepett
+förvånansvärt                           surprisingly / meglepően, meglepő módon
+överraskande                            surprisingly / meglepően, meglepő módon
+våldsamt                                tremendously, fiercely, vehemently / borzasztóan, hevesen, szörnyen
+trög                                    sluggish, slow / renyhe, tunya, lomha, rest, lassú, nehézkes
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -747,6 +770,7 @@ ibland                                  sometimes
 sällan                                  seldom, rarely
 aldrig                                  never
 genast                                  immediately / azonnal
+strax                                   at once, directly / rögtön, azonnal, mindjárt, közvetlenül, szorosan
 
 ganska                                  fairly, somewhat, rather, quite
 visst                                   certainly, probably
@@ -771,6 +795,7 @@ helst                                   rather, preferably
 ändå                                    still, yet
 heller                                  nor, neither, either, also
 däremot                                 however, on the other hand
+emellertid                              however, though / mégis, mindamellett, mindazonáltal
 därför                                  therefore / emiatt, ennélfogva
 därefter                                afterward, then, thereafter / (az/ez)után, miután
 efteråt                                 afterwards / azután, utána
@@ -827,6 +852,7 @@ nämligen                                namely, as, since, for / tudniillik, ug
 samtliga                                all / (az) összes, valamennyi, minden (jelenlévő)
 ytterligare                             further, additional / további, újabb, pótlólagos, bővebb
 övrig                                   other, remaining / megmaradó, még meglévő, hátramaradó, többi, egyéb
+överallt                                everywhere / mindenhol
 
 eller hur?                              isn't it?, aren't you?, etc. / ugye?, nemde?
 flermiljonfråga                         multi-million question
@@ -1674,6 +1700,20 @@ Adverb bestämmer verb, adjektiv, adverb och svarar ofta på frågan *Hur?*
 
 +Alla adverb slutar inte på *-t*, t.ex. verkligen, ganska, lite.
 
+** ADVERB (p.108)
+
+| Man är där.                        | Man går eller åker dit.      |
+|                                    |                              |
+| Ute är det mörkt och kallt.        | De kan gå ut.                |
+| Inne hos Millan är det varmt.      | De går in i aulan.           |
+| Där bor deras lärare.              | De ska få skjuts dit.        |
+| Klockan sju är de framme i Farsta. | Han kommer fram klockan sju. |
+| Eleverna stannar uppe hela natten. | De åker hiss upp.            |
+| Hon är hemma på dagarna.           | Eleverna får gå hem.         |
+| De väntar där nere.                | De går ner till bilen.       |
+| Hon ska vara borta i en vecka.     | De åker bort nästa vecka.    |
+| Ska du stanna här?                 | Kom hit!                     |
+
 
 * Övningar i Lärobok
 
@@ -2419,6 +2459,32 @@ Carina: Jaha, ja, jag vaknar vid sextiden och stiger upp och sätter på kaffe
 15. l
 16. n
 17. q
+
+** p.108: Skriv rätt form av adverbet!
+
+Kommer du hem till mig imorgon?
+Varför kommer inte hissen ner?
+Den står där uppe.
+Kom in!
+När är vi framme?
+Bor du här?
+Han ska stanna borta i ett år.
+När ska du åka dit?
+Är det kallt där ute?
+Hon bor nere på bottenvåningen.
+Kommer vi inte fram snart?
+Jag vill inte gå upp för alla trappor.
+Kommer du hit ikväll?
+De är inte hemma ikväll.
+Du får inte gå ut ikväll.
+Hur länge ska du vara borta?
+Du kan vänta här inne.
+Där står han ju!
+Jag måste gå hem nu.
+Gå fram till tavlan!
+Hur står det till nere i Malmö?
+Åk inte hit!
+Du måste stiga upp nu!
 
 
 * Övningar del 1
