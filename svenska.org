@@ -427,6 +427,19 @@ vaktmästare (en)                        janitor, waiter / hivatalsegéd, pedell
 tärna (en)                              attendant, bridesmaid / hajadon, leányzó, nyoszolyólány
 landsman (en)                           compatriot, fellow countryman / honfitárs, földi
 tag (ett)                               grip [also fig.] / fogás [átv. is]
+fält (ett)                              field [also fig.] / mező, szántóföld, síkság, tér, terület
+nöjesfält (ett)                         amusement park, pleasure ground / vidámpark, vurstli
+karusell (ett)                          carousel, roundabout, merry-go-round / körhinta, ringlispil
+berg-och-dalbana (en)                   roller coaster, big dipper / hullámvasút
+stånd (ett)                             stall, booth, stand, state, condition, height, level / bódé, stand, állapot, helyzet, állás, magasság, szint
+pilkastning (en)                        arrow casting / célbadobás, nyíldobálás
+skylt (en)                              plate, signboard, signpost / (cég-, cím-, név-, szám-)tábla, cégér, pajzs
+anda (en)                               breath, atmosphere, spirit / lélegzet, lehelet, lélek
+godhet (en)                             goodness, benevolence, kindness / jóság, szívélyesség, jó minőség
+lott (en)                               draw, fate, lottery ticket, share, part / sors, sorsjegy, lottószelvény, rész(esedés), parcella
+minne (ett)                             memory, mind, remembrance, memento, keepsake / emlékezet, memória, emlékezés, maradék, emléktárgy
+öde (ett)                               fate, destiny / sors, végzet, véletlen, viszontagság, balszerencse
+vals (en)                               waltz / valcer, keringő
 
 ** VERB - VERBS - IGÉK
 
@@ -626,6 +639,12 @@ hyssja                                  hush, shush / (le/rá)pisszeg, pisszegé
 fnittra                                 titter, giggle / kuncog, nevetgél
 gäspa                                   yawn / ásít
 göra om                                 redo, change, do over, make over, remake / még egyszer csinál, megismétel, változtat, átdolgoz
+spå [spådde, spått]                     predict, foretell, prophesy / jósol, jövendöl
+utnyttja                                make use of, exploit / használ, kihasznál, felhasznál, kiaknáz, hasznosít
+märka                                   label, mark, notice, observe / megjelöl, megjegyez, észrevesz, felismer
+pröva                                   try (out) / (ki)próbál
+minnas [minnes]                         recall, remember / (vissza)emlékezik, emlékezetben tart
+tveka                                   hesitate, falter, boggle / habozik, tétovázik, ingadozik, vonakodik
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -736,6 +755,11 @@ förvånansvärt                           surprisingly / meglepően, meglepő m
 våldsamt                                tremendously, fiercely, vehemently / borzasztóan, hevesen, szörnyen
 trög                                    sluggish, slow / renyhe, tunya, lomha, rest, lassú, nehézkes
 omedelbar                               direct, immediate / közvetlen, azonnali
+allvarlig                               serious, grave, solemn / komoly, szigorú, veszélyes, súlyos
+förmögen                                wealthy, affluent / vagyonos, jómódú, tehetős
+plötslig                                sudden / hirtelen, gyors, váratlan
+plötsligt                               suddenly / hirtelen, gyorsan, váratlanul
+hygglig                                 decent, friendly, nice, reasonable / barátságos, kedves, szívélyes, tisztességes, humánus, méltányos, elég jó
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -766,15 +790,6 @@ allmän                                  common, general
 ihop                                    together / együtt
 istället / i stället                    instead / vmi helyett
 förutom                                 apart from, aside from / kívül, kivéve, azonkívül hogy ...
-
-alltid                                  always
-nästan alltid                           almost always
-ofta                                    often
-ibland                                  sometimes
-sällan                                  seldom, rarely
-aldrig                                  never
-genast                                  immediately / azonnal
-strax                                   at once, directly / rögtön, azonnal, mindjárt, közvetlenül, szorosan
 
 ganska                                  fairly, somewhat, rather, quite
 visst                                   certainly, probably
@@ -987,6 +1002,8 @@ Gratulerar på ...                       Congratulations for ...
 vara på allas läppar                    on everyone's lips / közszájon forog
 Kan du räcka mig saltet?                Could you pass the salt?
 
+hålla andan                             hold one's breath / visszatartja/fojtja a lélegzetét
+
 ** Ordspråk
 
 Den som gräver en grop åt andra, faller själv däri.
@@ -1035,6 +1052,16 @@ i övermorgon                            on the day after tomorrow
 på onsdag (morgon, kväll)               on wednesday (morning, evening/night)
 nästa onsdag                            next wednesday
 nästa vecka                             next week
+
+alltid                                  always
+nästan alltid                           almost always
+ofta                                    often
+ibland                                  sometimes
+sällan                                  seldom, rarely
+aldrig                                  never
+genast                                  immediately / azonnal
+strax                                   at once, directly / rögtön, azonnal, mindjárt, közvetlenül, szorosan
+då och då                               occasionally, periodically, sometimes / olykor-olykor, néhanapján
 
 ** Rövidítések
 
