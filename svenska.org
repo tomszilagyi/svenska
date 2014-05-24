@@ -425,6 +425,8 @@ våning (en)                             flat, floor / lakás, emelet
 aula (en)                               lecture hall, assembly hall / aula, díszterem
 vaktmästare (en)                        janitor, waiter / hivatalsegéd, pedellus, felügyelő, pincér
 tärna (en)                              attendant, bridesmaid / hajadon, leányzó, nyoszolyólány
+landsman (en)                           compatriot, fellow countryman / honfitárs, földi
+tag (ett)                               grip [also fig.] / fogás [átv. is]
 
 ** VERB - VERBS - IGÉK
 
@@ -623,6 +625,7 @@ brygga                                  make, produce, brew / készít, főz, ko
 hyssja                                  hush, shush / (le/rá)pisszeg, pisszegéssel elhallgattat
 fnittra                                 titter, giggle / kuncog, nevetgél
 gäspa                                   yawn / ásít
+göra om                                 redo, change, do over, make over, remake / még egyszer csinál, megismétel, változtat, átdolgoz
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -732,6 +735,7 @@ förvånansvärt                           surprisingly / meglepően, meglepő m
 överraskande                            surprisingly / meglepően, meglepő módon
 våldsamt                                tremendously, fiercely, vehemently / borzasztóan, hevesen, szörnyen
 trög                                    sluggish, slow / renyhe, tunya, lomha, rest, lassú, nehézkes
+omedelbar                               direct, immediate / közvetlen, azonnali
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -853,6 +857,8 @@ samtliga                                all / (az) összes, valamennyi, minden (
 ytterligare                             further, additional / további, újabb, pótlólagos, bővebb
 övrig                                   other, remaining / megmaradó, még meglévő, hátramaradó, többi, egyéb
 överallt                                everywhere / mindenhol
+underförstådd                           implied, implicit / bennefoglalt, beleértett, beleértődő, burkolt, kimondatlan
+försiktig                               careful, prudent / óvatos, elővigyázatos
 
 eller hur?                              isn't it?, aren't you?, etc. / ugye?, nemde?
 flermiljonfråga                         multi-million question
@@ -1713,6 +1719,44 @@ Adverb bestämmer verb, adjektiv, adverb och svarar ofta på frågan *Hur?*
 | De väntar där nere.                | De går ner till bilen.       |
 | Hon ska vara borta i en vecka.     | De åker bort nästa vecka.    |
 | Ska du stanna här?                 | Kom hit!                     |
+
+** FRAMTID (p.110)
+
+Svenska verb har ingen speciell form (futurum) för att uttrycka
+framtid. Här följer exempel på hur man uttrycker framtid.
+
+med *tänker*
+
+| Han tänker öppna en restaurang. | Ungefär: Han planerar... |
+| Vad tänker du göra ikväll?      | Vad är dina planer?      |
+
+med *ska*
+
+| De ska hjälpa till.       | Det är bestämt.             |
+| Vad ska du göra i morgon? | Har du planerat något?      |
+| Ska vi sluta nu?          | Ofta vid omedelbar framtid. |
+| Vad ska vi göra?          | Ofta vid frågor.            |
+
+med *kommer att*
+
+| Det kommer svenskarna att tycka om. | Det tror Ali. Ett slags prognos. |
+| Det kommer nog att regna imorgon.   | Vi bestämmer inte över regnet.   |
+
+med *presens*
+
+| Vad gör du imorgon?      | Plus tidmarkör = imorgon, t.ex. |
+| Kommer du med? (imorgon) | Tiden kan vara underförstådd.   |
+
+
+*Ska* har även andra användningar än framtid:
+Pojkar *ska* inte gråta!
+Du *ska* inte vara ledsen.
+Jag *ska* sluta röka.
+
+Många som lär sig svenska använder *ska* för mycket.
+Var försiktig med *ska* som markör för framtid!
+*Ska* är ofta = måste.
+Använd hellre *presensformen* eller *kommer att*!
 
 
 * Övningar i Lärobok
