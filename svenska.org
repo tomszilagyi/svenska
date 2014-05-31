@@ -440,6 +440,8 @@ lott (en)                               draw, fate, lottery ticket, share, part 
 minne (ett)                             memory, mind, remembrance, memento, keepsake / emlékezet, memória, emlékezés, maradék, emléktárgy
 öde (ett)                               fate, destiny / sors, végzet, véletlen, viszontagság, balszerencse
 vals (en)                               waltz / valcer, keringő
+viskning (en)                           whisper (fig. gossip) / suttogás, susogás, sugdolózás
+rop (ett)                               shout, call, cry / kiáltás
 
 ** VERB - VERBS - IGÉK
 
@@ -645,6 +647,7 @@ märka                                   label, mark, notice, observe / megjelö
 pröva                                   try (out) / (ki)próbál
 minnas [minnes]                         recall, remember / (vissza)emlékezik, emlékezetben tart
 tveka                                   hesitate, falter, boggle / habozik, tétovázik, ingadozik, vonakodik
+beställa                                book, reserve, order / (meg)rendel, (le)foglal, megállapodik, csináltat, elintéz
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1784,6 +1787,27 @@ Många som lär sig svenska använder *ska* för mycket.
 Var försiktig med *ska* som markör för framtid!
 *Ska* är ofta = måste.
 Använd hellre *presensformen* eller *kommer att*!
+
+** PRESENS OM FRAMTID (p.112)
+
+Vad gör du imorgon?
+Kommer du med? (Då = imorgon)
+Den börjar visst klockan åtta.
+Jag ringer dig vid sjudraget.
+Jag beställer biljetter. (Imorgon)
+Janne kommer också. (På filmen imorgon)
+
+I svenskan använder man mycket ofta verbets r-form för framtid. Man
+måste förstås ha ett tidsuttryck med (eller underförstått).
+
+*Tidsprepositionen för framtid*
+
+| om          | i       | på         |
+|-------------+---------+------------|
+| om en timme | imorgon | på onsdag  |
+| om en kvart | ikväll  | på torsdag |
+| om en vecka | i höst  | på fredag  |
+| om en stund | i påsk  | på lördag  |
 
 
 * Övningar i Lärobok
