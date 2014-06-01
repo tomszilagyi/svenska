@@ -442,6 +442,10 @@ minne (ett)                             memory, mind, remembrance, memento, keep
 vals (en)                               waltz / valcer, keringő
 viskning (en)                           whisper (fig. gossip) / suttogás, susogás, sugdolózás
 rop (ett)                               shout, call, cry / kiáltás
+brasa (en)                              bonfire, fire / tűz, láng, kandallótűz, örömtűz
+morgondag (en)                          tomorrow (fig. future) / holnap (átv. is)
+uppehåll (ett)                          break, dry (weather) / megszakítás, félbeszakítás, szünet, száraz időjárás
+grad (en)                               degree, rank, grade / fok, rang, rangjelzés, rend, rendfokozat
 
 ** VERB - VERBS - IGÉK
 
@@ -648,6 +652,10 @@ pröva                                   try (out) / (ki)próbál
 minnas [minnes]                         recall, remember / (vissza)emlékezik, emlékezetben tart
 tveka                                   hesitate, falter, boggle / habozik, tétovázik, ingadozik, vonakodik
 beställa                                book, reserve, order / (meg)rendel, (le)foglal, megállapodik, csináltat, elintéz
+kila                                    run, hurry / rohan, fut, szalad, nyargal
+gräva                                   dig / ás, váj, túr, kutat, keresgél, turkál, kiás, előkapar
+kratta                                  rake / gereblyéz
+plocka                                  pick, gather / szed, tép, szakít, gyűjt, keres, kopaszt
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -763,6 +771,9 @@ förmögen                                wealthy, affluent / vagyonos, jómód�
 plötslig                                sudden / hirtelen, gyors, váratlan
 plötsligt                               suddenly / hirtelen, gyorsan, váratlanul
 hygglig                                 decent, friendly, nice, reasonable / barátságos, kedves, szívélyes, tisztességes, humánus, méltányos, elég jó
+måttlig                                 moderate / mérsékelt, mértékletes, mértéktartó
+halvklar                                half cloudy / félig felhős v. borult
+ihjäl                                   to death / halálra (arbeta ihjäl sig - halálra dolgozza magát)
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -807,6 +818,7 @@ ju                                      of course, why
 jamen, men                              why [expresses annoyance or surprise]
 ojdå                                    nicsak
 förresten                               by the way / egyébként
+nåja, nåväl                             oh well
 kul                                     cool, fun
 särskilt                                particularly, especially
 alltså                                  in other words, that is to say
@@ -2580,6 +2592,21 @@ Gå fram till tavlan!
 Hur står det till nere i Malmö?
 Åk inte hit!
 Du måste stiga upp nu!
+
+** p.114: Ur papperskorgen
+
+Kära Sune!
+
+Tack för ditt brev! Det var så vackert och romantiskt. Jag blev så
+glad! Men du ska inte skriva hem till mig för min man kanske kan hitta
+det då. Därför får du adressen till mitt arbete. Förresten kan vi
+kanske gå och äta lunch tillsammans? Har du tid på fredag? Du kan
+ringa till mitt jobb också, till exempel mellan 1 och 2, för då har
+jag lunch.
+
+Jag saknar dig!
+Kyssar från
+din Mimmi
 
 
 * Övningar del 1
