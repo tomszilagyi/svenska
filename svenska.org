@@ -446,6 +446,7 @@ brasa (en)                              bonfire, fire / tűz, láng, kandallót�
 morgondag (en)                          tomorrow (fig. future) / holnap (átv. is)
 uppehåll (ett)                          break, dry (weather) / megszakítás, félbeszakítás, szünet, száraz időjárás
 grad (en)                               degree, rank, grade / fok, rang, rangjelzés, rend, rendfokozat
+löfte (ett)                             promise, vow / ígéret, fogadalom
 
 ** VERB - VERBS - IGÉK
 
@@ -656,6 +657,11 @@ kila                                    run, hurry / rohan, fut, szalad, nyargal
 gräva                                   dig / ás, váj, túr, kutat, keresgél, turkál, kiás, előkapar
 kratta                                  rake / gereblyéz
 plocka                                  pick, gather / szed, tép, szakít, gyűjt, keres, kopaszt
+lova                                    promise / ígér, megígér, megfogad
+avlägga                                 make, give [a testimony], pass [an exam] / letesz, lerak, levet
+hälla                                   pour / önt, kiönt, tölt, ömlik, zuhog
+banta                                   lose weight / fogy, lefogy, fogyókúrát tart, koplal
+klippa sig                              cut (hair), get a haircut / levág(at)ja a haját
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1821,6 +1827,28 @@ måste förstås ha ett tidsuttryck med (eller underförstått).
 | om en vecka | i höst  | på fredag  |
 | om en stund | i påsk  | på lördag  |
 
+** ska + INFINITIV (p.115)
+
+påstående:
+| Jag ska gå nu.       | Det är min avsikt.          |
+| Jag ska börja banta! | Jag vill det mycket starkt. |
+
+fråga:
+| Vad ska du göra imorgon? | Vad har du för planer? |
+| Vad ska vi göra nu?      | Ofta omedelbar framtid |
+
+Var försiktiga med *ska*! Ni brukar använda *ska* för mycket!
+Det är ofta bättre med *tänker* eller *kommer att* eller bara *presens*!
+
+| (hjälp)verb + INFINITIV | verb + att + INFINITIV      |
+|-------------------------+-----------------------------|
+| jag slutar (att) sjunga | jag lovar att sjunga        |
+| jag behöver sjunga      | jag kommer att sjunga       |
+| jag brukar sjunga       | jag försöker (att) sjunga   |
+| jag tänker sjunga       | jag älskar att sjunga       |
+| jag ska sjunga          | jag tycker om att sjunga    |
+| jag vill sjunga         | jag glömmer bort att sjunga |
+
 
 * Övningar i Lärobok
 
@@ -2607,6 +2635,13 @@ jag lunch.
 Jag saknar dig!
 Kyssar från
 din Mimmi
+
+** p.116: Nyårslöften
+
+Signe:  jag ska sluta röka
+Berra:  jag ska anmäla mig till en kurs i spanska, och så ska jag försöka banta
+Rune:   jag ska plugga mera, och så ska börja jogga igen, dricka lite mindre
+Yvonne: jag ska försöka besvara alla brev, och så ska jag tapetsera om mitt badrum
 
 
 * Övningar del 1
