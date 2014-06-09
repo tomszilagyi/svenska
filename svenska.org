@@ -447,6 +447,10 @@ morgondag (en)                          tomorrow (fig. future) / holnap (átv. i
 uppehåll (ett)                          break, dry (weather) / megszakítás, félbeszakítás, szünet, száraz időjárás
 grad (en)                               degree, rank, grade / fok, rang, rangjelzés, rend, rendfokozat
 löfte (ett)                             promise, vow / ígéret, fogadalom
+fyrverkeri (ett)                        fireworks / tűzijáték
+syn (en)                                eyesight, vision / látás, látvány
+annons (en)                             advert, advertisement, ad / hirdetés, hirdetmény
+löpande band (ett)                      conveyor belt / futószalag
 
 ** VERB - VERBS - IGÉK
 
@@ -662,6 +666,7 @@ avlägga                                 make, give [a testimony], pass [an exam
 hälla                                   pour / önt, kiönt, tölt, ömlik, zuhog
 banta                                   lose weight / fogy, lefogy, fogyókúrát tart, koplal
 klippa sig                              cut (hair), get a haircut / levág(at)ja a haját
+sura                                    sulk / duzzog, rosszkedvű, morcoskodik
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -780,6 +785,8 @@ hygglig                                 decent, friendly, nice, reasonable / bar
 måttlig                                 moderate / mérsékelt, mértékletes, mértéktartó
 halvklar                                half cloudy / félig felhős v. borult
 ihjäl                                   to death / halálra (arbeta ihjäl sig - halálra dolgozza magát)
+nedsatt                                 reduced, impaired / leszállított, csökkentett, meggyengült
+löpande                                 continuing / futó, folyó, futólagos, folytatólagos
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1083,6 +1090,10 @@ aldrig                                  never
 genast                                  immediately / azonnal
 strax                                   at once, directly / rögtön, azonnal, mindjárt, közvetlenül, szorosan
 då och då                               occasionally, periodically, sometimes / olykor-olykor, néhanapján
+
+häromdagen                              the other day / a minap
+häromkvällen                            the other night
+häromveckan                             the other week
 
 ** Rövidítések
 
@@ -1849,6 +1860,17 @@ Det är ofta bättre med *tänker* eller *kommer att* eller bara *presens*!
 | jag ska sjunga          | jag tycker om att sjunga    |
 | jag vill sjunga         | jag glömmer bort att sjunga |
 
+** BISATSORDFÖLJD (p.117)
+
+| Subjunktion | Subjekt | (Satsadverb) | Verb    | Annat         |
+|-------------+---------+--------------+---------+---------------|
+| när         | han     | -            | får     | mat           |
+| när         | han     | -            | träffar | nya människor |
+| när         | vi      | -            | är      | borta         |
+| när         | du      | -            | vilar   | dig           | 
+
+Subjektet står alltid före verbet i bisats!
+  
 
 * Övningar i Lärobok
 
