@@ -451,6 +451,9 @@ fyrverkeri (ett)                        fireworks / tűzijáték
 syn (en)                                eyesight, vision / látás, látvány
 annons (en)                             advert, advertisement, ad / hirdetés, hirdetmény
 löpande band (ett)                      conveyor belt / futószalag
+tips (ett)                              tip, tip-off / tipp, fogadás, tippelés, totó
+slips (en)                              tie / nyakkendő
+kasse (en)                              sack, bag / háló, szatyor
 
 ** VERB - VERBS - IGÉK
 
@@ -667,6 +670,8 @@ hälla                                   pour / önt, kiönt, tölt, ömlik, zuh
 banta                                   lose weight / fogy, lefogy, fogyókúrát tart, koplal
 klippa sig                              cut (hair), get a haircut / levág(at)ja a haját
 sura                                    sulk / duzzog, rosszkedvű, morcoskodik
+koppla av                               relax, sit back / kikapcsol, kikapcsolódik, pihen
+sucka                                   sigh / sóhajt
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -787,6 +792,10 @@ halvklar                                half cloudy / félig felhős v. borult
 ihjäl                                   to death / halálra (arbeta ihjäl sig - halálra dolgozza magát)
 nedsatt                                 reduced, impaired / leszállított, csökkentett, meggyengült
 löpande                                 continuing / futó, folyó, futólagos, folytatólagos
+skön                                    pretty, beautiful / szép, gyönyörű, remek
+gullig                                  cute, sweet, dear / édes, kedves, aranyos
+blek                                    wan, pale / sápadt, halvány, fakó
+blöt                                    wet, soggy / nedves, (át)ázott, vizes, esős
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1871,6 +1880,25 @@ Det är ofta bättre med *tänker* eller *kommer att* eller bara *presens*!
 
 Subjektet står alltid före verbet i bisats!
   
+** PERFEKT (p.119)
+
+har + ...t
+har + ...tt  (efter betonad vokal)
+har + ...it  (starka verb)
+
+Formen som slutar på -t kallas för *supinum*.
+
+| Pontus har precis handlat. | Dvs. idag, och resultatet kan man se: alla varor. |
+| Han har tvättat håret.     | Man kan se resultatet: Håret är blött/rent.       |
+| Gudrun har städat.         | Resultat: Lägenheten är ren och fin.              |
+| Han har köpt mat.          | Man ser: Han har en kasse med mat i handen.       |
+| Hon har gjort slut.        | Därför är hon deprimerad.                         |
+| Pernilla har mått dåligt.  | Därför ser hon blek ut.                           |
+| Jag har inte ätit.         | Resultat: Jag är hungrig.                         |
+
+Man är intresserad av *resultatet* och *inte* av *tiden*. Man *nämner inte tiden*.
+Perfekt är ett *presenstempus* -- har badat -- resultatet *finns/syns/märks nu*.
+
 
 * Övningar i Lärobok
 
@@ -2664,6 +2692,25 @@ Signe:  jag ska sluta röka
 Berra:  jag ska anmäla mig till en kurs i spanska, och så ska jag försöka banta
 Rune:   jag ska plugga mera, och så ska börja jogga igen, dricka lite mindre
 Yvonne: jag ska försöka besvara alla brev, och så ska jag tapetsera om mitt badrum
+
+** p.119: Skriva supinumformen till följande verb!
+
+| handlar | handlat |
+| köper   | köpt    |
+| städar  | städat  |
+| röker   | rökt    |
+| mår     | mått    |
+| bor     | bott    |
+| lär     | lärt    |
+| glömmer | glömt   |
+| går     | gått    |
+| lånar   | lånat   |
+| träffar | träffat |
+| läser   | läst    |
+| skriver | skrivit |
+| kommer  | kommit  |
+| äter    | ätit    |
+| dricker | druckit |
 
 
 * Övningar del 1
