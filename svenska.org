@@ -458,6 +458,12 @@ docka (en)                              puppet, dummy, doll / (kirakati v. ját�
 välling (en)                            gruel / tejbedara, kása, zabkása, tejleves, daraleves, lisztleves
 filt (en)                               rug, blanket, felt / takaró, pléd, filc
 redovisning (en)                        account(s), accountancy / könyvelés
+bär (ett)                               berry / bogyó
+blåbär (ett)                            blueberry / (fekete) áfonya
+stig (en)                               path / ösvény, gyalogút
+håll (ett)                              way, direction, distance, stitch / irány, oldal, távolság
+lingon (ett)                            lingonberry / vörös áfonya
+svamp (en)                              fungus, sponge / gomba, szivacs, spongya
 
 ** VERB - VERBS - IGÉK
 
@@ -680,6 +686,8 @@ jollra                                  babble / gügyög, gőgicsél, fecseg, c
 sätta på                                put (switch) on / rá- v. feltesz, felrak
 rapa                                    belch, burp / böfög
 passa på                                take the chance, tend / odafigyel, vigyáz, ügyel vkire/vmire
+växa                                    grow / nő, növekedik
+mogna                                   ripen, mature / érik, érlelődik, beérik
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -805,6 +813,7 @@ gullig                                  cute, sweet, dear / édes, kedves, arany
 blek                                    wan, pale / sápadt, halvány, fakó
 blöt                                    wet, soggy / nedves, (át)ázott, vizes, esős
 mätt                                    full, satisfied / jóllakott, eltelt
+vattnig                                 watery / vizes, nagy víztartalmú, híg, felhígított, vizenyős
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -835,6 +844,7 @@ allmän                                  common, general
 ihop                                    together / együtt
 istället / i stället                    instead / vmi helyett
 förutom                                 apart from, aside from / kívül, kivéve, azonkívül hogy ...
+förut                                   before / azelőtt, korábban
 
 ganska                                  fairly, somewhat, rather, quite
 visst                                   certainly, probably
@@ -883,6 +893,7 @@ framme                                  in front, out / elöl, itt, ott
   [bilen vara framme]                     [az autó előállt]
 iväg                                    away [from] / el [vhonnan]
 medan                                   while, whereas / mialatt, miközben, amíg
+längs                                   alongside, along / hosszában, mentén, mellett
 
 udda                                    odd / páratlan
 jämn                                    even, exact / páros, pontos(an annyi), kerek
@@ -1125,6 +1136,8 @@ FN [Förenta Nationerna]                 UN [United Nations] / ENSZ
 
 ** Káromkodások, indulatszavak
 
+jösses! - heavens! (mild exclamation)
+usch! - ugh, ooh, shucks (expression of distaste)
 fan, fy fan, fan också - francba/fenébe (is)
 skit - szar
 jävla - fokozás (~ bloody, damned, goddamned)
@@ -2728,6 +2741,16 @@ Yvonne: jag ska försöka besvara alla brev, och så ska jag tapetsera om mitt b
 | kommer  | kommit  |
 | äter    | ätit    |
 | dricker | druckit |
+
+** p.121: Vad kan man se eller märka för resultat av perfektuttrycken?
+
+| Det har regnat.                           | Bären smakar lite vattnigt.         |
+| De har plockat mycket bär.                | De måste gå tillbaka till bilen.    |
+| Vi har glömt maten hemma!                 | Då måste vi äta blåbär till lunch.  |
+| Någon har varit här och plockat!          | Det finns nästan ingenting kvar.    |
+| Jag har ätit för mycket!                  | Jag mår illa.                       |
+| Vi har varit ute och gått i flera timmar. | Vi är jättehungrig.                 |
+| Det har gått många här!                   | Vi måste leta efter bär annanstans. |
 
 
 * Övningar del 1
