@@ -454,6 +454,10 @@ löpande band (ett)                      conveyor belt / futószalag
 tips (ett)                              tip, tip-off / tipp, fogadás, tippelés, totó
 slips (en)                              tie / nyakkendő
 kasse (en)                              sack, bag / háló, szatyor
+docka (en)                              puppet, dummy, doll / (kirakati v. játék)baba, bábu
+välling (en)                            gruel / tejbedara, kása, zabkása, tejleves, daraleves, lisztleves
+filt (en)                               rug, blanket, felt / takaró, pléd, filc
+redovisning (en)                        account(s), accountancy / könyvelés
 
 ** VERB - VERBS - IGÉK
 
@@ -672,6 +676,10 @@ klippa sig                              cut (hair), get a haircut / levág(at)ja
 sura                                    sulk / duzzog, rosszkedvű, morcoskodik
 koppla av                               relax, sit back / kikapcsol, kikapcsolódik, pihen
 sucka                                   sigh / sóhajt
+jollra                                  babble / gügyög, gőgicsél, fecseg, csacsog, locsog
+sätta på                                put (switch) on / rá- v. feltesz, felrak
+rapa                                    belch, burp / böfög
+passa på                                take the chance, tend / odafigyel, vigyáz, ügyel vkire/vmire
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -796,6 +804,7 @@ skön                                    pretty, beautiful / szép, gyönyörű,
 gullig                                  cute, sweet, dear / édes, kedves, aranyos
 blek                                    wan, pale / sápadt, halvány, fakó
 blöt                                    wet, soggy / nedves, (át)ázott, vizes, esős
+mätt                                    full, satisfied / jóllakott, eltelt
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1898,6 +1907,14 @@ Formen som slutar på -t kallas för *supinum*.
 
 Man är intresserad av *resultatet* och *inte* av *tiden*. Man *nämner inte tiden*.
 Perfekt är ett *presenstempus* -- har badat -- resultatet *finns/syns/märks nu*.
+
+** OLIKA ANVÄNDNINGAR AV PERFEKT (p.120)
+
+| Nu har det gått sju månader.                  | fram till nu                                 |
+| Lilla Linnea har förändrat allt hemma.        | ett faktum, tiden ointressant                |
+| När hon har ätit, måste jag byta på henne.    | händer varje dag, det kan också vara framtid |
+| När hon har somnat, kan jag göra något annat. | varje dag eller också framtid                |
+| Linnea har också vaknat.                      | just precis nu, resultat: hon är vaken       |
 
 
 * Övningar i Lärobok
