@@ -464,6 +464,17 @@ stig (en)                               path / ösvény, gyalogút
 håll (ett)                              way, direction, distance, stitch / irány, oldal, távolság
 lingon (ett)                            lingonberry / vörös áfonya
 svamp (en)                              fungus, sponge / gomba, szivacs, spongya
+mark (en)                               land, ground, territory / talaj, föld(birtok), terep, terület
+tomt (en)                               site, plot / telek, házhely, kert, udvar
+läger (ett)                             camp / tábor [slå läger: tábort üt]
+askkopp (en)                            ashtray / hamutartó
+näsduk (en)                             handkerchief / zsebkendő
+rest (en)                               rest, remainder / maradék, maradvány
+tuss (en)                               wad / kis csomó, gombolyag, (papír)galacsin
+dammtuss (en)                           dust bunny / porcica
+mässling (en)                           measles / kanyaró
+bukett (en)                             bouquet, bunch of flowers / (virág)csokor
+(jul)klapp (en)                         Christmas present (inf.) / karácsonyi ajándék
 
 ** VERB - VERBS - IGÉK
 
@@ -653,7 +664,7 @@ knyta [knöt]                            tie [also fig.] / csomót köt, csomóz
 bilda                                   establish, found, form, constitute / képez, alakít, alapít, létrehoz
 uppgå (till)                            amount to, total / felmegy, rúg (vmennyire), elér, kitesz (vmennyit)
 sända                                   transmit, broadcast, send / (le)ad, közvetít, sugároz, küld
-hinna                                   manage, have time, reach, advance / elér, (el)jut, halad, elkészül, ráér, van ideje
+hinna [hann, hunnit]                    manage, have time, reach, advance / elér, (el)jut, halad, elkészül, ráér, van ideje
 låsa                                    lock [also fig.] / (be/el/le)zár, lelakatol, bereteszel
 påstå                                   say, state / állít, kijelent
 föredra                                 prefer, deliver, present / előnyben részesít, jobban szeret, előad, felolvas, előterjeszt
@@ -688,6 +699,12 @@ rapa                                    belch, burp / böfög
 passa på                                take the chance, tend / odafigyel, vigyáz, ügyel vkire/vmire
 växa                                    grow / nő, növekedik
 mogna                                   ripen, mature / érik, érlelődik, beérik
+skada                                   hurt, injure, damage, impair, harm / kárt/bajt okoz, árt, károsít, (meg)rongál, (meg)sebesít, (meg/fel)sért
+skrämma                                 terrify, alarm, scare, intimidate, frighten / (meg)ijeszt/rémít/riaszt, megfélemlít
+slå [slagit]                            hit, beat, knock, strike, smite / üt, ver, csap, önt, tölt, dob, vet, rúg
+stjäla [stulit]                         steal / (el)lop
+ligga [låg, legat]                      lie, be situated / fekszik, tartózkodik vhol, van
+orka                                    can, be able to, have the energy to / bír, tud, képes
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -814,6 +831,8 @@ blek                                    wan, pale / sápadt, halvány, fakó
 blöt                                    wet, soggy / nedves, (át)ázott, vizes, esős
 mätt                                    full, satisfied / jóllakott, eltelt
 vattnig                                 watery / vizes, nagy víztartalmú, híg, felhígított, vizenyős
+giftig                                  poisonous / mérges, mérgezett, mérgező
+fridlyst                                protected / védett
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -845,6 +864,7 @@ ihop                                    together / együtt
 istället / i stället                    instead / vmi helyett
 förutom                                 apart from, aside from / kívül, kivéve, azonkívül hogy ...
 förut                                   before / azelőtt, korábban
+undan                                   away, out of the way / el, félre, -tól/től, alól, elől
 
 ganska                                  fairly, somewhat, rather, quite
 visst                                   certainly, probably
@@ -868,6 +888,7 @@ snart                                   soon, shortly / nemsoká, hamarosan
 dessutom                                besides, moreover, in addition, furthermore
 helst                                   rather, preferably
 ändå                                    still, yet
+ännu                                    yet, still, even
 heller                                  nor, neither, either, also
 däremot                                 however, on the other hand
 emellertid                              however, though / mégis, mindamellett, mindazonáltal
@@ -2751,6 +2772,87 @@ Yvonne: jag ska försöka besvara alla brev, och så ska jag tapetsera om mitt b
 | Jag har ätit för mycket!                  | Jag mår illa.                       |
 | Vi har varit ute och gått i flera timmar. | Vi är jättehungrig.                 |
 | Det har gått många här!                   | Vi måste leta efter bär annanstans. |
+
+** p.125: Rätt verbform!
+
+Det har jag aldrig sagt.
+Hon har aldrig trott på tomten.
+Vad gjorde du igår?
+Har klockan slagit tolv ännu?
+När fick du den?
+Vem har suttit på min stol?
+Vem har legat i min säng?
+Någon har stulit min plånbok!
+Igår låg jag hela dagen.
+Den här sjalen har jag fått av min man.
+Har du ätit middag ännu?
+Var var du för en timme sedan?
+När lade du dig igår?
+Har du ställt in smöret i kylen?
+De har inte gjort läxorna!
+Det har jag vetat hela tiden.
+Har posten kommit?
+Såg du filmen på teve igår?
+Har du haft mässling?
+Hon tog min kärlek och försvann!
+Hur många brev skrev du förra veckan?
+Har du varit i Paris?
+Det stod i tidningen i förrgår.
+De flög till Rom igår.
+Han gav henne en bukett rosor.
+Hon levde på 1700-talet.
+Han dog 1968.
+När steg du upp i morse?
+Har du sett /Borta med vinden/?
+Jag hörde inte vad han sade.
+Det var natt. Kyrkklockan slog tolv.
+Jag åt en underbar middag igår.
+Hur många gånger har du flugit?
+Vem har tagit min penna?
+Jag har stått och väntat i en halvtimme.
+
+*Verbformar* (tillsammans med "Efter jullovet"):
+
+| infinitiv | presens  | supinum   | perfekt  |
+|-----------+----------+-----------+----------|
+| säga      | säger    | sade      | sagt     |
+| tro       | tror     | trodde    | trott    |
+| göra      | gör      | gjorde    | gjort    |
+| slå       | slår     | slog      | slagit   |
+| få        | får      | fick      | fått     |
+| sitta     | sitter   | satt      | suttit   |
+| ligga     | ligger   | låg       | legat    |
+| stjäla    | stjäl    | stal      | stulit   |
+| ligga     | ligger   | låg       | legat    |
+| äta       | äter     | åt        | ätit     |
+| vara      | är       | var       | varit    |
+| lägga     | lägger   | lade      | lagt     |
+| ställa    | ställer  | ställde   | ställt   |
+| veta      | vet      | visste    | vetat    |
+| komma     | kommer   | kom       | kommit   |
+| se        | ser      | såg       | sett     |
+| ha        | har      | hade      | haft     |
+| ta(ga)    | tar      | tog       | tagit    |
+| skriva    | skriver  | skrev     | skrivit  |
+| stå       | står     | stod      | stått    |
+| flyga     | flyger   | flög      | flugit   |
+| ge        | ger      | gav       | gett     |
+| leva      | lever    | levde     | levt     |
+| dö        | dör      | dog       | dött     |
+| stiga     | stiger   | steg      | stigit   |
+| säga      | säger    | sade      | sagt     |
+| hälsa     | hälsar   | hälsade   | hälsat   |
+| tänka     | tänker   | tänkte    | tänkt    |
+| tycka     | tycker   | tyckte    | tyckt    |
+| hinna     | hinner   | hann      | hunnit   |
+| läsa      | läser    | läste     | läst     |
+| känna     | känner   | kände     | känt     |
+| stanna    | stannar  | stannade  | stannat  |
+| börja     | börjar   | började   | börjat   |
+| ringa     | ringer   | ringde    | ringt    |
+| titta     | tittar   | tittade   | tittat   |
+| tröttna   | tröttnar | tröttnade | tröttnat |
+| orka      | orkar    | orkade    | orkat    |
 
 
 * Övningar del 1
