@@ -475,6 +475,9 @@ dammtuss (en)                           dust bunny / porcica
 mässling (en)                           measles / kanyaró
 bukett (en)                             bouquet, bunch of flowers / (virág)csokor
 (jul)klapp (en)                         Christmas present (inf.) / karácsonyi ajándék
+brorsa (en)                             brother (inf.) / testvér (hétk.)
+utrustning (en)                         equipment / felszerelés, berendezés, szerelvény
+datautrustning (en)                     computer equipment, hardware / hardver
 
 ** VERB - VERBS - IGÉK
 
@@ -705,6 +708,7 @@ slå [slagit]                            hit, beat, knock, strike, smite / üt, 
 stjäla [stulit]                         steal / (el)lop
 ligga [låg, legat]                      lie, be situated / fekszik, tartózkodik vhol, van
 orka                                    can, be able to, have the energy to / bír, tud, képes
+etablera                                establish / berendez(kedik), létesít, felállít, alapít, elkezd
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1144,6 +1148,7 @@ då och då                               occasionally, periodically, sometimes 
 häromdagen                              the other day / a minap
 häromkvällen                            the other night
 häromveckan                             the other week
+nuförtiden                              nowadays / mostanában, mostanság, manapság
 
 ** Rövidítések
 
@@ -1949,6 +1954,17 @@ Perfekt är ett *presenstempus* -- har badat -- resultatet *finns/syns/märks nu
 | När hon har ätit, måste jag byta på henne.    | händer varje dag, det kan också vara framtid |
 | När hon har somnat, kan jag göra något annat. | varje dag eller också framtid                |
 | Linnea har också vaknat.                      | just precis nu, resultat: hon är vaken       |
+
+** TIDSPREPOSITIONER (p.127)
+
+Jag har *inte* träffat honom *på* länge.
+Jag har väntat *i* en timme snart.
+Det skulle visst komma *om* någon kvart.
+Han slutade *för* flera år *sedan*.
+På hur länge har man *inte* gjort något?
+*Hur länge?* Hur lång period?
+*När* kommer tåget?
+*Hur länge sedan* var det?
 
 
 * Övningar i Lärobok
@@ -2853,6 +2869,35 @@ Jag har stått och väntat i en halvtimme.
 | titta     | tittar   | tittade   | tittat   |
 | tröttna   | tröttnar | tröttnade | tröttnat |
 | orka      | orkar    | orkade    | orkat    |
+
+** p.127: Skriv fortsättningen på meningarna!
+
+- Ska vi gå på bio ikväll?
+- Ja, gärna. Jag har inte gått dit på flera månader.
+
+- Varför var hon så arg?
+- Jo, jag har inte diskat kastrullerna.
+
+- När träffade du honom?
+- Jag träffade honom för flera år sedan.
+
+- Har du skrivit till moster Agnes nyligen?
+- Nej, jag har inte gjort det på länge.
+
+- Har du bott här länge?
+- Jag har bott här i hela mitt liv.
+
+- Blir du färdig snart?
+- Jag är klar om några minuter.
+
+- Har du väntat länge?
+- Ja, jag har väntat i en timme snart.
+
+- När åker vi?
+- Vi skulle visst åka om några timmar.
+
+- När var du där senast?
+- Jag var där senast för tre dagar sedan.
 
 
 * Övningar del 1
