@@ -478,6 +478,8 @@ bukett (en)                             bouquet, bunch of flowers / (virág)csok
 brorsa (en)                             brother (inf.) / testvér (hétk.)
 utrustning (en)                         equipment / felszerelés, berendezés, szerelvény
 datautrustning (en)                     computer equipment, hardware / hardver
+pensionär (en)                          pensioner / nyugdíjas
+röst (en)                               voice, vote / hang, szó, szavazat
 
 ** VERB - VERBS - IGÉK
 
@@ -709,6 +711,9 @@ stjäla [stulit]                         steal / (el)lop
 ligga [låg, legat]                      lie, be situated / fekszik, tartózkodik vhol, van
 orka                                    can, be able to, have the energy to / bír, tud, képes
 etablera                                establish / berendez(kedik), létesít, felállít, alapít, elkezd
+vägra                                   refuse, decline / megtagad, elutasít, visszautasít, vonakodik
+tåla                                    endure, tolerate / eltűr, elvisel, kibír, kiáll, megenged
+kolla                                   see, watch, look at, check / (rá)néz, csekkol
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -837,6 +842,9 @@ mätt                                    full, satisfied / jóllakott, eltelt
 vattnig                                 watery / vizes, nagy víztartalmú, híg, felhígított, vizenyős
 giftig                                  poisonous / mérges, mérgezett, mérgező
 fridlyst                                protected / védett
+misstänksam                             suspicious, distrustful / gyanakvó, bizalmatlan
+nödvändig                               necessary / szükséges, elengedhetetlen
+besvärlig                               hard, troublesome, difficult / fáradságos, terhes, nehéz, bajos
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -873,6 +881,7 @@ undan                                   away, out of the way / el, félre, -tól
 ganska                                  fairly, somewhat, rather, quite
 visst                                   certainly, probably
 egentligen                              actually, really / igazából, valójában
+verkligen                               really, truly, indeed / valóban, igazán, valójában, ténylegesen
 förstås                                 of course
 javisst                                 of course, certainly
 då                                      then
@@ -882,6 +891,7 @@ tja                                     well (indicates doubt)
 ju                                      of course, why
 jamen, men                              why [expresses annoyance or surprise]
 ojdå                                    nicsak
+åja                                     ó igen, na igen, hát persze
 förresten                               by the way / egyébként
 nåja, nåväl                             oh well
 kul                                     cool, fun
@@ -919,6 +929,8 @@ framme                                  in front, out / elöl, itt, ott
 iväg                                    away [from] / el [vhonnan]
 medan                                   while, whereas / mialatt, miközben, amíg
 längs                                   alongside, along / hosszában, mentén, mellett
+framlänges                              forwards / előre
+baklänges                               backwards, in reverse / hátra
 
 udda                                    odd / páratlan
 jämn                                    even, exact / páros, pontos(an annyi), kerek
@@ -1965,6 +1977,35 @@ På hur länge har man *inte* gjort något?
 *Hur länge?* Hur lång period?
 *När* kommer tåget?
 *Hur länge sedan* var det?
+
+** BISATSER / INDIREKT TAL (p.129)
+
+(underordnade anföringssatser och frågesatser)
+
+| Subj | Anföringsverb | Subjunktion / | Subj    | Sats-  | Verb    |                      |
+|      |               | Frågeord      |         | adverb |         |                      |
+|------+---------------+---------------+---------+--------+---------+----------------------|
+|      | säger         | att           | det     |        | kostar  | 216 kr.              |
+|      | säger         | att           | han     | inte   | vet.    |                      |
+|      | tror          | att           | jag     | inte   | vill    | komma.               |
+| Han  | undrar        | var           | du      |        | bor.    |                      |
+|      | frågar        | vart          | du      |        | ska     | åka.                 |
+|      | undrar        | om            | du      |        | vill    | sitta i andra klass. |
+|      | frågar        | om            | hon     | inte   | har     | tid i kväll.         |
+|      | vill veta     | när           | affären |        | öppnar. |                      |
+
+*Subjunktioner* kallas ibland för *bisatsord* eller *bisatsinledare*.
+*Frågeordet* är också en *bisatsinledare*. De inleder alltså *bisatsen*.
+
+Ordföljden i en *bisats* är alltid densamma:
+| bisatsord | subjekt | satsadverb | verb | + resten |
+
+Jämför med ordföljden i *huvudsats*:
+| fundament | verb | subjekt | satsadverb | + resten |
+
+Problemet för många är att satsadverbet kommer före första verbet i bisatser.
+Satsadverbet är ofta *inte*.
+I (b)isatser kommer (i)nte (f)öre (f)örsta verbet (*biff*-regeln).
 
 
 * Övningar i Lärobok
