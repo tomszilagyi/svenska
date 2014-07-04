@@ -1,0 +1,85 @@
+#+TITLE: Svenska verb
+#+OPTIONS: ^:{}
+
+Teckenförklaringar för T (typ):
+- S stark
+- O oregelbundet
+
+| infinitiv | presens    | supinum   | perfekt  | T | betydelse                        |
+|-----------+------------+-----------+----------+---+----------------------------------|
+| be        | ber        | bad       | bett     | O | beg, ask, request                |
+| behålla   | behåller   | behöll    | behållit | S | retain, keep                     |
+| bita      | biter      | bet       | bitit    | S | bite                             |
+| bjuda     | bjuder     | bjöd      | bjudit   | S | invite, offer, ask               |
+| bliva     | blir       | blev      | blivit   | O | become, get, be                  |
+| bryta     | bryter     | bröt      | brutit   | S | break                            |
+| bära      | bär        | bar       | burit    | S | carry, wear                      |
+| böra      | bör        | borde     | bort     | O | ought to, should                 |
+| börja     | börjar     | började   | börjat   |   |                                  |
+| dra       | drar       | drog      | drogit   | O | draw, pull, haul, leave, go      |
+| dricka    | dricker    | drack     | druckit  | S | drink                            |
+| dö        | dör        | dog       | dött     | O | die                              |
+| finnas    | finns      | fanns     | funnits  | S | am, is, are                      |
+| flyga     | flyger     | flög      | flugit   | S | fly                              |
+| flyta     | flyter     | flöt      | flutit   | S | flow, float                      |
+| fortsätta | fortsätter | fortsatte | fortsatt | O | continue, go/keep/carry on       |
+| frysa     | fryser     | frös      | frusit   | S | freeze                           |
+| få        | får        | fick      | fått     | O | may, get, can, have, receive     |
+| förstå    | förstår    | förstod   | förstått | O | understand                       |
+| ge        | ger        | gav       | gett     | O | give                             |
+| gråta     | gråter     | grät      | gråtit   | S | cry, weep                        |
+| gå        | går        | gick      | gått     | O | go, walk, run, progress, leave   |
+| göra      | gör        | gjorde    | gjort    | O | do, make                         |
+| ha        | har        | hade      | haft     | O | have, possess, be provided with  |
+| heta      | heter      | hette     | hetat    | O | be called (named), be said to be |
+| hinna     | hinner     | hann      | hunnit   | S | reach, advance, manage           |
+| hälsa     | hälsar     | hälsade   | hälsat   |   |                                  |
+| hålla     | håller     | höll      | hållit   | S | grasp, hold, grip, keep          |
+| knyta     | knyter     | knöt      | knutit   | S | tie                              |
+| komma     | kommer     | kom       | kommit   | O | come, arrive, will, going to     |
+| krypa     | kryper     | kröp      | krupit   | S | creep, crawl                     |
+| kunna     | kan        | kunde     | kunnat   | O | can, know                        |
+| känna     | känner     | kände     | känt     |   |                                  |
+| leva      | lever      | levde     | levt     |   |                                  |
+| ligga     | ligger     | låg       | legat    | O | lie, be situated                 |
+| lägga     | lägger     | la(de)    | lagt     | O | put, place, set, lay             |
+| läsa      | läser      | läste     | läst     |   |                                  |
+| låta      | låter      | lät       | låtit    | S | sound                            |
+| orka      | orkar      | orkade    | orkat    |   |                                  |
+| rida      | rider      | red       | ridit    | S | ride                             |
+| ringa     | ringer     | ringde    | ringt    |   |                                  |
+| ryta      | ryter      | röt       | rutit    | S | bellow, roar                     |
+| se        | ser        | såg       | sett     | O | see, look, notice, view, watch   |
+| sitta     | sitter     | satt      | suttit   | S | be seated, sit, be               |
+| sjunga    | sjunger    | sjöng     | sjungit  | S | sing                             |
+| sjunka    | sjunker    | sjönk     | sjunkit  | S | go down, sink, fall, drop        |
+| skina     | skiner     | sken      | skinit   | S | shine, glare, gleam, blaze       |
+| skrika    | skriker    | skrek     | skrikit  | S | scream, cry, shriek, shout       |
+| skriva    | skriver    | skrev     | skrivit  | S | write                            |
+| skära     | skär       | skar      | skurit   | S | jar, cleave, grate, carve, cut   |
+| slå       | slår       | slog      | slagit   | O | hit, beat, knock, strike, smite  |
+| sova      | sover      | sov       | sovit    | O | sleep, be asleep                 |
+| spricka   | spricker   | sprack    | spruckit | S | crack, fracture, split           |
+| springa   | springer   | sprang    | sprungit | S | run                              |
+| stanna    | stannar    | stannade  | stannat  |   |                                  |
+| stiga     | stiger     | steg      | stigit   | S | walk, step, tread, rise          |
+| stjäla    | stjäl      | stal      | stulit   | S | steal                            |
+| stryka    | stryker    | strök     | strukit  | S | rub, stroke, iron, cut out       |
+| ställa    | ställer    | ställde   | ställt   |   |                                  |
+| stå       | står       | stod      | stått    | O | stand, stop, be                  |
+| svida     | svider     | sved      | svidit   | S | smart, sting                     |
+| svika     | sviker     | svek      | svikit   | S | fail                             |
+| säga      | säger      | sa(de)    | sagt     | O | say                              |
+| sälja     | säljer     | sålde     | sålt     | O | sell                             |
+| ta(ga)    | tar        | tog       | tagit    | O | take, grab, bring, touch         |
+| titta     | tittar     | tittade   | tittat   |   |                                  |
+| tro       | tror       | trodde    | trott    |   |                                  |
+| tröttna   | tröttnar   | tröttnade | tröttnat |   |                                  |
+| tycka     | tycker     | tyckte    | tyckt    |   |                                  |
+| tänka     | tänker     | tänkte    | tänkt    |   |                                  |
+| vara      | är         | var       | varit    | O | be                               |
+| veta      | vet        | visste    | vetat    | O | know                             |
+| vilja     | vill       | ville     | velat    | O | want                             |
+| välja     | väljer     | valde     | valt     | O | choose, elect, go for, opt, pick |
+| vänja     | vänjer     | vande     | vant     | O | accustom                         |
+| äta       | äter       | åt        | ätit     | S | eat                              |
