@@ -4044,5 +4044,170 @@ B: en
 
 C: -er
 
+** 73
 
-PP.18/30(FACIT)
+| rider    | red    |
+| biter    | bet    |
+| skiner   | sken   |
+| skriker  | skrek  |
+| skriver  | skrev  |
+| stiger   | steg   |
+| svider   | sved   |
+| sviker   | svek   |
+| dricker  | drack  |
+| spricker | sprack |
+| springer | sprang |
+| hinner   | hann   |
+| finns    | fanns  |
+| sitter   | satt   |
+| flyger   | flög   |
+| flyter   | flöt   |
+| fryser   | frös   |
+| ryter    | röt    |
+| bryter   | bröt   |
+| stryker  | strök  |
+| knyter   | knöt   |
+| kryper   | kröp   |
+| bjuder   | bjöd   |
+| sjunger  | sjöng  |
+| sjunker  | sjönk  |
+| gråter   | grät   |
+| låter    | lät    |
+| håller   | höll   |
+| behåller | behöll |
+| bär      | bar    |
+| skär     | skar   |
+| stjäl    | stal   |
+
+** 74
+
+1. Lejonet röt ilsket när vi kom fram mot det.
+2. Vi flög till Spanien i somras.
+3. Igår skrev jag tre brev.
+4. Börje var så ledsen att han grät.
+5. Finns det några snälla barn här?
+6. Idag skiner solen.
+7. Musiken låter bra, tycker jag.
+8. Jag rider på min häst varje morgon före arbetet.
+9. Mats stod och strök några nytvättade skjortor.
+10. Drack du upp all mjölken som jag gav dig?
+11. Om du skyndar dig hinner du till klockan åtta.
+12. I lördags bjöd jag mina grannar på middag.
+13. Vi kastar inte bort den här boken. Vi behåller den.
+
+** 75/A
+
+| presens    | preteritum |
+|------------+------------|
+| står       | stod       |
+| förstår    | förstod    |
+| ger        | gav        |
+| ber        | bad        |
+| dör        | dog        |
+| får        | fick       |
+| går        | gick       |
+| ser        | såg        |
+| blir       | blev       |
+| kommer     | kom        |
+| sover      | sov        |
+| drar       | drog       |
+| slår       | slog       |
+| tar        | tog        |
+| ligger     | låg        |
+| heter      | hette      |
+| vet        | visste     |
+| vill       | ville      |
+| kan        | kunde      |
+| fortsätter | fortsatte  |
+| bör        | borde      |
+| gör        | gjorde     |
+| har        | hade       |
+| lägger     | la(de)     |
+| säger      | sa(de)     |
+| säljer     | sålde      |
+| väljer     | valde      |
+| vänjer     | vande      |
+
+** 75/B
+
+1. Vad dog din farmor av?
+2. Jag förstår inte vad du menar.
+3. Kan du lägga boken här?
+4. Nu går vi hem!
+5. Vad stod det i tidningen igår?
+6. Sov gott i natt!
+7. Pappa gav mig en hund i julas.
+8. De valde en ny president 1994.
+9. Varför ligger du inte i sängen och sover?
+10. Vad hette du innan du bytte namn?
+
+** 76
+
+1. Kurt har ingen bil.
+2. (det går inte att byta)
+3. (det går inte att byta)
+4. Har du inga apelsiner?
+5. Igår drack jag inget kaffe.
+6. (det går inte att byta)
+7. Han äter ingen mat.
+8. (det går inte att byta)
+9. (det går inte att byta)
+
+** 77
+
+1. Anita har ingen bil och ingen cykel heller.
+   Anita har varken bil eller cykel.
+
+2. Lillen kan inte läsa och inte skriva heller.
+   Lillen kan varken läsa eller skriva.
+
+3. Lasse behöver inte laga mat och inte diska heller.
+   Lasse behöver varken laga mat eller diska.
+
+4. I Sverige finns inga lejon och inga tigrar heller.
+   I Sverige finns varken lejon eller tigrar.
+
+5. Här växer inga apelsiner och inga citroner heller.
+   Här växer varken apelsiner eller citroner.
+
+** 78
+
+1. femtioandra
+2. tjugotredje
+3. hundraförsta
+4. sjuttiosjunde
+5. fyrtiofemte
+6. tvåhundraåttonde
+7. femhundraelfte
+8. trehundratolfte
+9. sextiofjärde
+10. åttionionde
+11. nittioförsta
+12. sjuttiosjätte
+
+** 79
+
+1. bäddbar
+2. drickbart
+3. tänkbart
+4. bärbara
+5. sårbar
+6. användbara
+
+** 80
+
+1. dessutom
+2. hissar, halar
+3. riksdagen
+4. varar
+5. födelsedag
+6. obligatoriskt
+7. beklagar
+8. lov
+9. mäklare
+10. bostadsrätt
+11. organ
+12. framföra
+
+
+PP.20/30(FACIT)
