@@ -480,6 +480,7 @@ utrustning (en)                         equipment / felszerelés, berendezés, s
 datautrustning (en)                     computer equipment, hardware / hardver
 pensionär (en)                          pensioner / nyugdíjas
 röst (en)                               voice, vote / hang, szó, szavazat
+solsken (ett)                           sunshine / napsütés
 
 ** VERB - VERBS - IGÉK
 
@@ -714,6 +715,7 @@ etablera                                establish / berendez(kedik), létesít, 
 vägra                                   refuse, decline / megtagad, elutasít, visszautasít, vonakodik
 tåla                                    endure, tolerate / eltűr, elvisel, kibír, kiáll, megenged
 kolla                                   see, watch, look at, check / (rá)néz, csekkol
+fly                                     flee / elmenekül, elfut, megfutamodik, tovatűnik, elröppen
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -845,6 +847,10 @@ fridlyst                                protected / védett
 misstänksam                             suspicious, distrustful / gyanakvó, bizalmatlan
 nödvändig                               necessary / szükséges, elengedhetetlen
 besvärlig                               hard, troublesome, difficult / fáradságos, terhes, nehéz, bajos
+tydlig                                  clear, legible / tiszta, érthető
+artig                                   courteous, polite / udvarias, előzékeny, tisztelettudó
+slarvig                                 careless, negligent, untidy, sloppy / hanyag, gondatlan, rendetlen, trehány
+rar                                     rare, nice, cute, dear, sweet / ritka, kedves, édes, csinos, helyes, elragadó
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -4209,5 +4215,155 @@ C: -er
 11. organ
 12. framföra
 
+** 81
 
-PP.20/30(FACIT)
+1. Du måste skynda dig.
+2. Jag ska snart klä på mig.
+3. Står hon och tvättar sig?
+4. Vi känner oss så glada idag.
+5. De satte sig i soffan.
+6. Han rakade sig i morse.
+7. Ni måste ställa er i kön.
+8. Barnen tvättade sig noga.
+9. Ska du och jag gifta oss?
+10. Viktoria ska förlova sig.
+
+** 82
+
+1. Hur känner du dig idag?
+2. Nu måste ni skynda er.
+3. Du kan tvätta dig i köket.
+4. Kungaparet gifte sig i Storkyrkan 1976.
+5. Varför kammar de sig aldrig?
+6. Snart måste jag göra mig i ordning.
+7. Ska vi sätta oss i vardagsrummet?
+8. Han lade sig på golvet.
+
+** 83
+
+1. reser hem
+2. klipper ur
+3. klär på
+4. skriver om
+5. sätter in
+6. delar av
+7. delar ut
+8. ställer in
+9. kommer ihåg
+10. kommer fram
+11. hittar på
+12. ser ut
+
+** 84/A
+
+1. Du måste tala tydligt.
+2. Hon tackade artigt.
+3. De skriver slarvigt.
+4. Han sjunger vackert.
+5. Bilen var hemskt dyr.
+6. Den där boken är väldigt rolig.
+
+** 84/B
+
+1. Är lejon farliga för människor? Det du säger låter farligt.
+2. Vattnet är djupt här. Det lilla barnet sov djupt.
+3. Hon log rart. Mina barn är så rara.
+4. Han skrattade våldsamt. Från aulan hördes våldsamma applåder.
+5. Vilka stora öron han har! Gapa stort! sa tandläkaren.
+6. Det doftade härligt från köket. Igår var det en härlig dag.
+
+** 85
+
+1. Vi ska åka till Göteborg i morgon och stanna där i en vecka.
+2. Nu måste du stiga upp ur sängen.
+3. Det var en lång resa, men nu är vi äntligen hemma.
+4. Jag är så förkyld att jag måste stanna hemma.
+5. Hissen gick ända upp till tolfte våningen.
+6. Tack för i kväll. Nu går jag hem och lägger mig.
+7. Varsågod och stig in och sitt ner i soffan.
+8. Jag trivdes inte alls i Stockholm, så jag vill aldrig mer åka dit.
+9. Jag är född i Ronneby, men där bodde jag bara i ett år.
+
+** 86
+
+1. I morgon tror jag att det kommer att vara solsken.
+2. Jag ska åka till Österrike i nästa väcka.
+3. Du kommer att minnas den här dagen när du blir gammal.
+4. Tror du att det kommer att bli nyval nästa år?
+5. Jag lovar att jag ska ta det lugnt i kväll.
+6. Vem kommer att dö först av oss?
+7. Röken kommer att försvinna snart.
+
+** 87
+
+1. varm
+2. ljus
+3. allvarlig
+4. mörk
+5. smutsig
+6. lycklig
+7. kylig
+8. olycklig
+9. hög
+10. lång
+11. tyst
+12. svår
+13. äkta
+14. god
+15. ensam
+16. trött
+17. förmögen
+18. förälskad
+19. kär
+20. fattig
+21. sjuk
+
+** 88
+
+1. skrev, skriva
+2. göra, gjorde
+3. passar, passade
+4. stämde, stämmer
+5. Se, såg, ser
+6. fly, flydde
+7. sålde, Sälj, säljer
+8. finnas, finns
+9. hjälpa, hjälper
+10. flyttar, flyttar, flyttar
+
+** 89
+
+kuNGen, måTTlig, bestäLLer, haNDen, egeNtligen, eNsam, föräLskad,
+hyGGlig, guLd, restauraNG, streJk, reSten
+
+** 90
+
+1. =
+2. -n
+3. -er
+4. =
+5. -er
+6. -er
+7. -er
+8. -or
+9. =
+10. -ar
+11. =
+12. -or
+13. =
+14. -er
+15. -er
+16. =
+17. =
+18. -er
+19. -er
+20. -n
+21. =
+22. -ar
+23. -er
+24. -or
+25. =
+26. -er
+
+
+PP.22/31(FACIT)

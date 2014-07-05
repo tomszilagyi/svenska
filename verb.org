@@ -66,6 +66,7 @@ Teckenförklaringar för T (typ):
 | stjäla    | stjäl      | stal      | stulit   | S | steal                            |
 | stryka    | stryker    | strök     | strukit  | S | rub, stroke, iron, cut out       |
 | ställa    | ställer    | ställde   | ställt   |   |                                  |
+| stämma    | stämmer    | stämde    | stämt    |   | agree, correspond, be in tune    |
 | stå       | står       | stod      | stått    | O | stand, stop, be                  |
 | svida     | svider     | sved      | svidit   | S | smart, sting                     |
 | svika     | sviker     | svek      | svikit   | S | fail                             |
