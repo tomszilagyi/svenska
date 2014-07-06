@@ -16,7 +16,7 @@ Teckenförklaringar för T (typ):
 | bära      | bär        | bar       | burit    | S | carry, wear                      |
 | böra      | bör        | borde     | bort     | O | ought to, should                 |
 | börja     | börjar     | började   | börjat   |   |                                  |
-| dra       | drar       | drog      | drogit   | O | draw, pull, haul, leave, go      |
+| dra       | drar       | drog      | dragit   | O | draw, pull, haul, leave, go      |
 | dricka    | dricker    | drack     | druckit  | S | drink                            |
 | dö        | dör        | dog       | dött     | O | die                              |
 | finnas    | finns      | fanns     | funnits  | S | am, is, are                      |
@@ -70,6 +70,7 @@ Teckenförklaringar för T (typ):
 | stå       | står       | stod      | stått    | O | stand, stop, be                  |
 | svida     | svider     | sved      | svidit   | S | smart, sting                     |
 | svika     | sviker     | svek      | svikit   | S | fail                             |
+| svärja    | svär       | svor      | svurit   | S | swear                            |
 | säga      | säger      | sa(de)    | sagt     | O | say                              |
 | sälja     | säljer     | sålde     | sålt     | O | sell                             |
 | ta(ga)    | tar        | tog       | tagit    | O | take, grab, bring, touch         |
@@ -80,6 +81,7 @@ Teckenförklaringar för T (typ):
 | tänka     | tänker     | tänkte    | tänkt    |   |                                  |
 | vara      | är         | var       | varit    | O | be                               |
 | veta      | vet        | visste    | vetat    | O | know                             |
+| vila      | vilar      | vilade    | vilat    |   | rest, relax                      |
 | vilja     | vill       | ville     | velat    | O | want                             |
 | välja     | väljer     | valde     | valt     | O | choose, elect, go for, opt, pick |
 | vänja     | vänjer     | vande     | vant     | O | accustom                         |

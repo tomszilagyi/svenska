@@ -481,6 +481,7 @@ datautrustning (en)                     computer equipment, hardware / hardver
 pensionär (en)                          pensioner / nyugdíjas
 röst (en)                               voice, vote / hang, szó, szavazat
 solsken (ett)                           sunshine / napsütés
+spik (en)                               nail / szög, szeg
 
 ** VERB - VERBS - IGÉK
 
@@ -716,6 +717,14 @@ vägra                                   refuse, decline / megtagad, elutasít, 
 tåla                                    endure, tolerate / eltűr, elvisel, kibír, kiáll, megenged
 kolla                                   see, watch, look at, check / (rá)néz, csekkol
 fly                                     flee / elmenekül, elfut, megfutamodik, tovatűnik, elröppen
+mumla                                   mumble / mormog, motyog, mormol, dörmög
+muttra                                  mutter / mormog, motyog, morog
+ryta                                    bellow, roar / ordít, bőg, bömböl, üvölt
+trampa                                  tread, step (on) / (rá)lép, tapos, tipor, gázol
+värka                                   ache, hurt / fáj, sajog
+betona                                  stress, accentuate, emphasize / hangsúlyoz, kiemel, aláhúz
+förkorta                                shorten, abbreviate / (le)rövidít, megkurtít, egyszerűsít
+fängsla                                 imprison, captivate, fascinate / bebörtönöz, elfog, rabul ejt
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -851,6 +860,9 @@ tydlig                                  clear, legible / tiszta, érthető
 artig                                   courteous, polite / udvarias, előzékeny, tisztelettudó
 slarvig                                 careless, negligent, untidy, sloppy / hanyag, gondatlan, rendetlen, trehány
 rar                                     rare, nice, cute, dear, sweet / ritka, kedves, édes, csinos, helyes, elragadó
+ilsken                                  angry / dühös, dühöngő, tomboló
+förtvivlad                              heartbroken, disconsolate, helpless / kétségbeesett, reménytelen, kétségbeejtő
+motsträvig                              obstinate, reluctant / makrancos, dacos, ellenszegülő, ellenkező
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -4365,5 +4377,230 @@ hyGGlig, guLd, restauraNG, streJk, reSten
 25. =
 26. -er
 
+** 91
 
-PP.22/31(FACIT)
+1. pratade
+2. mumlar
+3. sjunga
+4. skrek
+5. klagade
+6. visslade
+7. tala
+8. muttrar
+9. diskuterar
+10. berätta
+11. röt
+12. suckade
+13. viska
+14. grät
+
+** 92/A
+
+1. lovar
+2. tackar
+3. intervjuar
+4. väljer
+5. tjänar
+6. sysslar
+7. rapporterar
+8. värker
+9. förekommer
+10. provar
+11. beställer
+12. utbildar
+13. förmedlar
+14. betonar
+15. förkortar
+16. diskuterar
+17. händer
+18. förbinder
+19. fängslar
+20. svär
+21. masserar
+22. bygger
+23. kan
+24. önskar
+
+** 92/B
+
+1. -n
+2. =
+3. -er
+4. =
+5. -er
+6. -or
+7. -er
+8. =
+9. -er
+10. =
+11. -ar
+12. -ar
+13. -ar
+14. -ar
+15. -ar
+16. -er
+17. -r
+18. -r
+19. -r
+20. -ar
+21. =
+22. -er
+23. -er
+24. =
+
+** 93
+
+1. Vi ska äta middag när du kommer hem.
+2. Han tar alltid med sig ett paraply när han går ut.
+3. Jag lovar att jag ska sluta röka.
+4. När man kör bil måste man vara nykter.
+5. Hon sa att hon skulle skjutsa mig hem.
+6. Ni kan gå och lägga er om ni är trötta.
+7. Jag vet att du ljuger.
+8. Jag ringer dig när jag vet besked.
+9. När du går och handlar måste du köpa vetemjöl.
+10. Ta en smörgås om du är hungrig!
+
+** 94
+
+1. mått
+2. ringt
+3. vattnat
+4. åkt
+5. kontrollerat
+6. känt
+7. trott
+8. sett
+9. fått
+10. cyklat
+11. kört
+12. glömt
+13. läst
+14. gått
+15. lyssnat
+16. stått
+17. bytt
+18. lånat
+19. hjälpt
+20. serverat
+21. lärt
+22. bott
+23. tvekat
+24. märkt
+25. vilat
+26. tyckt
+27. fyllt
+28. bett
+
+** 95
+
+1. ridit
+2. bitit
+3. skinit
+4. skrikit
+5. skrivit
+6. stigit
+7. svidit
+8. svikit
+9. druckit
+10. spruckit
+11. sprungit
+12. hunnit
+13. funnits
+14. suttit
+15. flugit
+16. flutit
+17. frusit
+18. rutit
+19. brutit
+20. strukit
+21. knutit
+22. krupit
+23. bjudit
+24. sjungit
+25. sjunkit
+26. gråtit
+27. låtit
+28. hållit
+29. behållit
+30. burit
+31. skurit
+32. stulit
+
+** 96
+
+1. Karin har åkt till Spanien.
+2. Har Karin åkt till Spanien?
+3. Hur många gånger har Karin åkt till Spanien?
+4. Vad har du gjort nu?
+5. Har du läst tidningen idag?
+6. Båda sönerna har blivit snickare.
+7. Den här filmen har jag sett tre gånger.
+8. Har du inte gjort läxan?
+9. Varför har du målat om köket igen?
+10. Nu har vi skrivit färdigt.
+
+** 97
+
+1. plockade, har plockat
+2. har kört, körde
+3. har försökt, försökte
+4. har sprungit, sprang
+5. har läst, har läst
+6. har bott, bodde
+7. fick, har fått
+
+** 98
+
+1. stått
+2. förstått
+3. gett
+4. bett
+5. dött
+6. fått
+7. gått
+8. sett
+9. blivit
+10. kommit
+11. sovit
+12. dragit
+13. slagit
+14. tagit
+15. legat
+16. hetat
+17. vetat
+18. velat
+19. kunnat
+20. fortsatt
+21. bort
+22. gjort
+23. haft
+24. lagt
+25. sagt
+26. sålt
+27. valt
+28. vant
+
+** 99
+
+1. Jag ringer dig i tio minuter.
+2. Eva har jag inte sett på tre månader.
+3. Nu har jag stått och väntat på dig i tre kvart.
+4. Jag slutade skolan för fem år sedan.
+5. Kommer du om en timme?
+6. Filmen håller på i nästan två timmar.
+7. TV-programmet börjar om en kvart.
+8. Äggen ska koka i fyra minuter.
+9. Vi träffades för en månad sedan.
+10. Vi har känt honom i över ett år.
+11. Han har inte sovit på två dygn.
+
+** 100
+
+1. Ivan säger att han inte kan tala svenska.
+2. Jag undrade varför du inte kom till kursen igår.
+3. Jag lovar att jag aldrig ska ljuga för dig.
+4. Ingen frågade mig om jag kunde följa med till landet.
+5. Mormor sa att hon inte ville åka baklänges på tåget.
+6. Jag tror inte att det blir regn i morgon.
+7. Jag vet inte om jag kan komma ikväll.
