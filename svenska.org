@@ -482,6 +482,8 @@ pensionär (en)                          pensioner / nyugdíjas
 röst (en)                               voice, vote / hang, szó, szavazat
 solsken (ett)                           sunshine / napsütés
 spik (en)                               nail / szög, szeg
+tillökning (en)                         addition (esp. to family) / megnövelés, gyarapítás, szaporítás, gyarapodás, szaporulat
+led (en)                                joint, way / ízület, íz, tag, irány, út, útvonal
 
 ** VERB - VERBS - IGÉK
 
@@ -725,6 +727,7 @@ värka                                   ache, hurt / fáj, sajog
 betona                                  stress, accentuate, emphasize / hangsúlyoz, kiemel, aláhúz
 förkorta                                shorten, abbreviate / (le)rövidít, megkurtít, egyszerűsít
 fängsla                                 imprison, captivate, fascinate / bebörtönöz, elfog, rabul ejt
+skola [ska, skulle, skolat]             shall, will, have to, must / jövőidő, szándék, felszólítás, feltételes/kétkedő
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -745,7 +748,7 @@ egen                                    own
 avlång                                  oblong, rectangular, oval / hosszúkás, téglalap, elnyújtott
 mulen                                   overcast / felhős
 mörk                                    dark / sötét
-fast                                    permanent, fixed, firm, solid
+fast                                    permanent, fixed, firm, solid; (al)though / állandó(an), szilárd(an), erős(en), kemény(en); (ha)bár, ámbár, noha
 fortfarande                             still, continuous(ly)
 ursprunglig                             original / eredeti
 ursprungligen                           originally / eredetileg
@@ -949,6 +952,7 @@ medan                                   while, whereas / mialatt, miközben, am�
 längs                                   alongside, along / hosszában, mentén, mellett
 framlänges                              forwards / előre
 baklänges                               backwards, in reverse / hátra
+enbart                                  only, alone, solely / csakis, csupán, kizárólag, egyes-egyedül
 
 udda                                    odd / páratlan
 jämn                                    even, exact / páros, pontos(an annyi), kerek
@@ -2957,6 +2961,62 @@ Jag har stått och väntat i en halvtimme.
 
 - När var du där senast?
 - Jag var där senast för tre dagar sedan.
+
+** p.131: Hur såg brevet ut, som Anna-Karin hade fått från Malin?
+
+Stockholm i April
+
+Hej Anna-Karin!
+
+Vi har inte träffat på länge. Jag hoppas ni mår bra allihop!
+
+Har ni redan fått tillökning i familjen? Eller vet du redan om att
+det kommer att vara en pojke eller en flicka?
+
+Vi tänker komma dit och besöker er före eller efter midsommar, om det
+inte händer något på jobbet. Kanske vi får att bo hos er?
+
+Förresten, hur mår din mamma och pappa? Jag önskar dem att vara frisk!
+
+Jag är intresserad i skatter, kriminalitet och några andra frågor som
+drabbar livet i Malmö. Kan du berätta om det? Jag är orolig för att
+det finns för mycket brott och ens livet är inte så säkert där.
+
+Vi tänker att miljön är mycket viktig. Vi undrar om era uppfattningar
+om det.
+
+Vi hoppas att vi kan träffa snart och tala om alla frågor. Hälsa Olof
+så mycket!
+
+En stor kram från
+Malin och Alan
+
+** p.132: Ändra från direkt till indirekt!
+
+Anna undrar om när kursen börjar.
+Benny frågar om Björn kommer på tisdag.
+Charlotta bestämmer att hon inte tycker om öl.
+Daniel vill veta att hur mycket klockan är.
+Emma undrar om varför himlen är blå.
+Folke undrar om varför bilen inte startar.
+Gunne undrar om var hans nycklar är.
+Håkan vill veta om han får röka.
+Ida säger att hon tror på sommaren.
+Johnny undrar om Torsten spelar fotboll.
+Karolina berättar att hon aldrig läser böcker.
+Linus säger att hans mormor inte tycker om teve.
+Madeleine frågar om när tåget kommer.
+Niklas vill veta att hur man går till Centralen.
+Olga säger att frågan är för svår.
+Patrik frågar om vad utrikesministern heter.
+Rita frågar om var Systemet ligger.
+Staffan ryter att hissen är alltid trasig.
+Tina frågar om hon kan få gå ut.
+Ulf undrar om hur vädret blir i morgon.
+Viktoria bestämmer att hon ska bli drottning.
+Yngve undrar om Kiruna är världens största stad.
+Åsa vill veta om när filmen slutar.
+Örjan frågar om övningen inte är färdig snart.
 
 
 * Övningar del 1

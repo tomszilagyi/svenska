@@ -54,6 +54,7 @@ Teckenförklaringar för T (typ):
 | sjunga    | sjunger    | sjöng     | sjungit  | S | sing                             |
 | sjunka    | sjunker    | sjönk     | sjunkit  | S | go down, sink, fall, drop        |
 | skina     | skiner     | sken      | skinit   | S | shine, glare, gleam, blaze       |
+| skola     | ska        | skulle    | skolat   | O | shall, will, have to, must, ...  |
 | skrika    | skriker    | skrek     | skrikit  | S | scream, cry, shriek, shout       |
 | skriva    | skriver    | skrev     | skrivit  | S | write                            |
 | skära     | skär       | skar      | skurit   | S | jar, cleave, grate, carve, cut   |
