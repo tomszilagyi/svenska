@@ -484,6 +484,9 @@ solsken (ett)                           sunshine / napsütés
 spik (en)                               nail / szög, szeg
 tillökning (en)                         addition (esp. to family) / megnövelés, gyarapítás, szaporítás, gyarapodás, szaporulat
 led (en)                                joint, way / ízület, íz, tag, irány, út, útvonal
+närhet (en)                             neighbourhood, vicinity / közelség (vminek a közelében)
+tvärgata (en)                           crossroad, cross-street / keresztutca, mellékutca
+hållplats (en)                          tram stop, bus stop / megálló(hely) (busz, stb.)
 
 ** VERB - VERBS - IGÉK
 
@@ -963,6 +966,9 @@ nära                                    close to, almost / közel, majdnem
 ner                                     down / le(nt)
 höger                                   right / jobb
 vänster                                 left / bal
+rakt fram                               straight on, straight ahead / egyenesen előre
+runt hörnet                             around the corner / a sarok mögött, a sarkon túl
+här omkring                             around here / errefelé, itt a környéken
 mitt i                                  amid, midst / közte, közepette
 förbi                                   past / túl rajta
 utanför                                 outside of / kívüle
@@ -2029,6 +2035,20 @@ Problemet för många är att satsadverbet kommer före första verbet i bisatse
 Satsadverbet är ofta *inte*.
 I (b)isatser kommer (i)nte (f)öre (f)örsta verbet (*biff*-regeln).
 
+** Ingen - inte någon (p.134)
+
+*Ingen* eller *inte någon* betyder samma sak.
+
+Man använder ofta *ingen* i /huvudsats/ och om det finns /ett/
+verb. Finns det /två/ verb eller fler måste man använda *inte
+någon*. (Se stycket 76.)
+
+I /bisats/ måste man alltid använda *inte någon*, för *inte* måste ju
+stå /före/ första verbet (biff-regeln).
+
+/Exempel:/ Hon har ingen telefon. (huvudsats)
+Hon säger att hon inte har någon telefon. (bisats)
+
 
 * Övningar i Lärobok
 
@@ -3017,6 +3037,29 @@ Viktoria bestämmer att hon ska bli drottning.
 Yngve undrar om Kiruna är världens största stad.
 Åsa vill veta om när filmen slutar.
 Örjan frågar om övningen inte är färdig snart.
+
+** p.134: Förvandla direkt tal till indirekt!
+
+1. Hon säger att hon inte har någon mjölk hemma.
+2. Hon säger att hon inte har någon lust att gå på bio.
+3. Hon säger att hon inte har något smör hemma.
+4. Hon säger att hon inte har några kläder att ta på sig!
+5. Hon säger att hon inte har någon lust att gå med.
+6. Hon säger att hon inte känner några i Stockholm.
+7. Hon säger att hon inte har några cigarretter kvar.
+8. Hon säger att hon inte har något behov av pengar.
+9. Hon säger att hon inte har några problem just nu.
+10. Hon säger att hon inte har några syskon.
+11. Hon säger att hon inte har något pass.
+12. Hon säger att hon inte behöver någon advokat.
+13. Hon säger att hon inte tjänar några pengar på att undervisa.
+14. Hon säger att hon inte säger något!
+15. Hon säger att hon inte får något bidrag.
+16. De säger att de inte har några barn.
+17. De säger att de inte har någon lektion idag.
+18. De säger att de inte behöver något paraply.
+19. Hon säger att det inte finns något intressant på teve.
+20. Hon säger att det inte står något pris i annonsen.
 
 
 * Övningar del 1

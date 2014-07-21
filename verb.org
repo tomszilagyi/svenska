@@ -34,7 +34,7 @@ Teckenförklaringar för T (typ):
 | heta      | heter      | hette     | hetat    | O | be called (named), be said to be |
 | hinna     | hinner     | hann      | hunnit   | S | reach, advance, manage           |
 | hälsa     | hälsar     | hälsade   | hälsat   |   |                                  |
-| hålla     | håller     | höll      | hållit   | S | grasp, hold, grip, keep          |
+| hålla     | håller     | höll      | hållit   | S | grasp, hold, grip, keep, stop    |
 | knyta     | knyter     | knöt      | knutit   | S | tie                              |
 | komma     | kommer     | kom       | kommit   | O | come, arrive, will, going to     |
 | krypa     | kryper     | kröp      | krupit   | S | creep, crawl                     |
