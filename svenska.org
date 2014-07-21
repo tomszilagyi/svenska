@@ -3061,6 +3061,25 @@ Yngve undrar om Kiruna är världens största stad.
 19. Hon säger att det inte finns något intressant på teve.
 20. Hon säger att det inte står något pris i annonsen.
 
+** p.135: Skriv svar till frågorna! Använd konstruktionen "Därför att..."!
+
+Varför är du så trött? Därför att jag inte har sovit i natt.
+Varför är du så arg? Därför att jag har grälade med min fru i morse.
+Varför flyttar du inte? Därför att hyran är låg.
+Varför går inte klockan? Därför att batteriet är slut.
+Varför skrattar du? Därför att det är roligt.
+Varför skiljer hon sig inte? Därför att barnen är små.
+Varför gråter du? Därför att jag är sorgligt.
+Varför ler du? Därför att jag tänker på en sak.
+Varför får du inte komma med? Därför att det är sent.
+Varför fryser du? Därför att jag inte mår bra.
+Varför skakar du på huvudet? Därför att jag inte tror dig.
+Varför skrattar du inte? Därför att det inte är roligt.
+Varför vill du inte komma med? Därför att jag inte har någon lust.
+Varför kommer du för sent? Därför att bussen inte kom.
+Varför kan du inte somna? Därför att det är varmt.
+Varför vill du byta kurs? Därför att det är för svårt.
+
 
 * Övningar del 1
 
