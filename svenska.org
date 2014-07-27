@@ -494,6 +494,11 @@ kavaj (en)                              dress jacket, coat / zakó, öltönykab�
 byxben (ett)                            trouser leg, leg of trouser / nadrágszár
 personal (en)                           personnel, staff / személyzet
 brännboll (en)                          rounders / métajáték, nemzetesdi (labdajáték)
+aning (en)                              suspicion, idea, presentiment, notion / sejtés, sejtelem, előérzet, elképzelés, fogalom
+plommonstop (ett) [plúmonsztup]         bowler hat / keménykalap
+väderlek (en)                           weather / időjárás
+väderleksrapport (en)                   weather report / időjárásjelentés
+åsikt (en)                              opinion, view / nézet, vélemény
 
 ** VERB - VERBS - IGÉK
 
@@ -744,6 +749,7 @@ putsa                                   polish, preen, finish / (meg)tisztít, t
 ramla                                   fall / (le)esik, (le)zuhan, összeomlik, (átv) meghiúsul
 spilla                                  spill / (ki/le)önt, kiloccsant, le/elszór, leejt
 tappa                                   drop, lose / le/elejt, elveszít
+verka                                   seem, work / látszik, mutatkozik, hat, hatással van, működik, munkálkodik
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -884,6 +890,7 @@ förtvivlad                              heartbroken, disconsolate, helpless / k
 motsträvig                              obstinate, reluctant / makrancos, dacos, ellenszegülő, ellenkező
 fruktansvärd                            terrible, horrible / félelmetes, rettenetes, borzasztó
 vissen                                  withered / hervadt, fonnyadt, elszáradt, aszott
+häftig                                  violent, impetuous, heated, smart, trendy / heves, erős, hirtelen, szenvedélyes, indulatos
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -968,8 +975,8 @@ framme                                  in front, out / elöl, itt, ott
 iväg                                    away [from] / el [vhonnan]
 medan                                   while, whereas / mialatt, miközben, amíg
 längs                                   alongside, along / hosszában, mentén, mellett
-framlänges                              forwards / előre
-baklänges                               backwards, in reverse / hátra
+framlänges                              forwards / előre(felé)
+baklänges                               backwards, in reverse / hátra(felé), vissza(felé), hanyatt, háttal
 enbart                                  only, alone, solely / csakis, csupán, kizárólag, egyes-egyedül
 
 udda                                    odd / páratlan
@@ -2112,6 +2119,25 @@ Hon sade att hon mådde bra. (dåtid)
 Han säger att han har varit i Paris. (nu)
 Han sade att han hade varit i Paris. (då)
 
+** TYCKER / TROR (p.140)
+
+Jag tycker (att) han är gullig.
+Jag tycker (att) de är i vägen.
+Jag tyckte (att) hans hår doftade så gott.
+Det är *min åsikt*.
+
+Jag tror inte (att) han vill komma på festen.
+Hur går det på mötet, tror du?
+Jag trodde (att) du var sjuk.
+Man *vet* inte, man är *inte säker*.
+
+*Tempusharmoni*
+
+| tror att han kommer  | tycker att han är        |
+| trodde att han bodde | tyckte att håret doftade |
+
+Man utelämnar ofta "att" efter tycker och tror.
+
 
 * Övningar i Lärobok
 
@@ -3166,6 +3192,32 @@ Varför vill du byta kurs? Därför att det är för svårt.
     Men när hon kom, ville han inte gå hem, för han har på och tillverkade en båt.
     Hon har tvungen och väntat tills han hade snickrat den färdigt. De var inte hemma
     före än klockan fem. Då var de lika trötta både två.
+
+** p.140: Välj mellan tycker och tror!
+
+Jag tycker att Berit är gullig.
+Tror du att det kommer att regna imorgon?
+Tror du att Fridolf kommer?
+Tycker du att Maggan är duktig?
+Jag tror att de gifter sig snart.
+Jag tycker att Klas är snäll.
+Tror du att Sverige vinner?
+Jag tycker att det finns för mycket sport i teve.
+Jag tycker att du ska sluta röka!
+Jag tror Ulla är sjuk.
+Jag tror att tåget går 8.12.
+Jag tycker att det var trevligt igår.
+Jag tycker Angelika är snygg.
+Jag tror Anki gick till jobbet igår.
+Jag tycker att det finns för lite kultur i teve.
+Tror du att han vaknar snart?
+Jag tycker att Sverige är dyrt.
+Jag tror att det finns 100000 sjöar i Sverige.
+Jag tycker att de flesta svenskar älskar drottningen.
+Jag tycker att svenska politiker är ganska ärliga.
+Jag tror att Volvo är Sveriges största företag.
+Jag tycker att svenska naturen är vacker.
+Jag tror att det här kan vara nu.
 
 
 * Övningar del 1
