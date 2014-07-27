@@ -487,6 +487,13 @@ led (en)                                joint, way / ízület, íz, tag, irány,
 närhet (en)                             neighbourhood, vicinity / közelség (vminek a közelében)
 tvärgata (en)                           crossroad, cross-street / keresztutca, mellékutca
 hållplats (en)                          tram stop, bus stop / megálló(hely) (busz, stb.)
+fläck (en)                              spot, bruise, mark / folt, szégyenfolt, jegy
+  smutsfläck, fettfläck, oljefläck        smear or stain of dirt, fat, oil / kosz-, zsír-, olajfolt v. pecsét
+krage (en)                              collar / gallér, hajtóka
+kavaj (en)                              dress jacket, coat / zakó, öltönykabát
+byxben (ett)                            trouser leg, leg of trouser / nadrágszár
+personal (en)                           personnel, staff / személyzet
+brännboll (en)                          rounders / métajáték, nemzetesdi (labdajáték)
 
 ** VERB - VERBS - IGÉK
 
@@ -731,6 +738,12 @@ betona                                  stress, accentuate, emphasize / hangsúl
 förkorta                                shorten, abbreviate / (le)rövidít, megkurtít, egyszerűsít
 fängsla                                 imprison, captivate, fascinate / bebörtönöz, elfog, rabul ejt
 skola [ska, skulle, skolat]             shall, will, have to, must / jövőidő, szándék, felszólítás, feltételes/kétkedő
+föreställa                              depict, portray, represent / ábrázol, bemutat
+krypa                                   creep, crawl / csúszik, mászik, kúszik
+putsa                                   polish, preen, finish / (meg)tisztít, tisztogat, simít, csiszol, (át)javít
+ramla                                   fall / (le)esik, (le)zuhan, összeomlik, (átv) meghiúsul
+spilla                                  spill / (ki/le)önt, kiloccsant, le/elszór, leejt
+tappa                                   drop, lose / le/elejt, elveszít
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -869,6 +882,8 @@ rar                                     rare, nice, cute, dear, sweet / ritka, k
 ilsken                                  angry / dühös, dühöngő, tomboló
 förtvivlad                              heartbroken, disconsolate, helpless / kétségbeesett, reménytelen, kétségbeejtő
 motsträvig                              obstinate, reluctant / makrancos, dacos, ellenszegülő, ellenkező
+fruktansvärd                            terrible, horrible / félelmetes, rettenetes, borzasztó
+vissen                                  withered / hervadt, fonnyadt, elszáradt, aszott
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -959,6 +974,7 @@ enbart                                  only, alone, solely / csakis, csupán, k
 
 udda                                    odd / páratlan
 jämn                                    even, exact / páros, pontos(an annyi), kerek
+ena [en av två]                         one [indicative of the opposite] / egy, az egyik
 tyst                                    quiet, silent / csendes
 minst                                   at least / legalább
 samt                                    and (used @ end of list), as well as / és, még, valamint
@@ -1561,7 +1577,7 @@ en gång *i timmen*
 fyra gånger *i minuten*
 en gång *i sekunden*
 
-** DEN / DET / HAN / HON / DE
+** DEN / DET / HAN / HON / DE (p.62)
 
 Vad är det (här)? Det är en elefant! Den bor i Afrika.   (syftar på elefanten)
 Vad är det (där)? Det är ett lejon.  Är det farligt?     (syftar på lejonet)
@@ -2048,6 +2064,53 @@ stå /före/ första verbet (biff-regeln).
 
 /Exempel:/ Hon har ingen telefon. (huvudsats)
 Hon säger att hon inte har någon telefon. (bisats)
+
+** PLUSKVAMPERFEKT (p.137)
+
+*hade + supinum*
+
+Pluskvamperfekt använder man ofta för att berätta vad man hade gjort
+före en viss tidpunkt i förfluten tid.
+
+/Exempel:/
+
+Häromdagen mötte jag Rutger. Han hade precis köpt en ny bil.
+- Hej, Rutger, har du en ny bil?
+- Ja, jag har just köpt den!
+
+Igår träffade jag Astrid. Hon hade sett en jättebra film, sade hon.
+- Hej, Astrid. Vad du ser glad ut!
+- Ja, jag har sett en jättebra film!
+
+Förra veckan pratade jag med Siri. Hon hade just kommit hem från Grekland.
+- Men Siri, vad brun du är!
+- Ja, jag har varit i Grekland. Jag har precis kommit hem!
+
+** TEMPUSKONGRUENS: HUVUDSATS + BISATS (p.138)
+
+*Samma tempus* i båda satserna betyder att två saker händer
+*samtidigt* eller *direkt efter* varandra.
+
+/Exempel:/
+När jag kommer hem byter jag kläder. (presens i båda satserna)
+Jag fotograferade Birgit när hon simmade. (preteritum i båda satserna)
+
+Om huvudsatsen har *presens* och bisatsen *perfektum*, eller om
+huvudsatsen har *preteritum* och bisatsen *pluskvamperfektum*, betyder
+det, att den ena handlingen är *slut*, när den andra börjar.
+
+/Exempel:/
+Jag borstar tänderna när jag har ätit. (Först äter jag. Sedan borstar jag tänderna.)
+Jag borstade tänderna när jag hade ätit. (Först åt jag. Sedan borstade jag tänderna.)
+
+Observera att huvudsatsen och bisatsen oftast har samma tid, dvs. nutid eller dåtid.
+
+/Exempel:/
+Hon säger att hon mår bra. (nutid)
+Hon sade att hon mådde bra. (dåtid)
+
+Han säger att han har varit i Paris. (nu)
+Han sade att han hade varit i Paris. (då)
 
 
 * Övningar i Lärobok
@@ -3079,6 +3142,30 @@ Varför vill du inte komma med? Därför att jag inte har någon lust.
 Varför kommer du för sent? Därför att bussen inte kom.
 Varför kan du inte somna? Därför att det är varmt.
 Varför vill du byta kurs? Därför att det är för svårt.
+
+** p.137: Lyssna på texten och svara på frågorna!
+
+1. Annette jobbar på dagis.
+2. Hon trivs bra.
+3. Det är olika. Det beror till exempel på barnens ålder.
+4. Idag började hon redan klockan åtta.
+5. Då hade daghemmet redan varit öppet en timme.
+6. Där hade kommit tio barn.
+7. Klockan åtta åt de frukost tillsammans.
+8. Barnen hinner inte äta innan att gå till dagis.
+9. Hon hade bara druckit en kopp kaffe hemma.
+10. Hon satte sig med sexåringarna och diskuterade en film som de hade sätt tillsammans.
+11. Sedan gick de ut allihop.
+12. Det tar naturligtvis lång tid innan alla ungarna klä på sig.
+13. De spelade brännboll med de stora barnen.
+14. De pratade om sjukdomar, för de hade två barn som hade fått vattkoppor
+15. De övade några sånger och ringleker som de skulle kunna till midsommar.
+16. De skulle hade fått hemspråksträning
+17. Hon slutade klockan fyra, och då fanns det fortfarande fem barn kvar.
+18. Först skulle hon gå och hemta Patrik, hennes egen unge som går på ett annat dagis.
+    Men när hon kom, ville han inte gå hem, för han har på och tillverkade en båt.
+    Hon har tvungen och väntat tills han hade snickrat den färdigt. De var inte hemma
+    före än klockan fem. Då var de lika trötta både två.
 
 
 * Övningar del 1
