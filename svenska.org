@@ -499,6 +499,9 @@ plommonstop (ett) [plúmonsztup]         bowler hat / keménykalap
 väderlek (en)                           weather / időjárás
 väderleksrapport (en)                   weather report / időjárásjelentés
 åsikt (en)                              opinion, view / nézet, vélemény
+synd (en)                               pity, sin, sins / bűn, vétek, kár, sajnálatos dolog
+macka (en)                              sandwich [inf] / szendvics, vajas kenyér
+lås (ett)                               lock / zár
 
 ** VERB - VERBS - IGÉK
 
@@ -597,6 +600,7 @@ vinka                                   wave / int, integet
 tralla                                  sing, warble / dúdolgat, dudorászik
 applådera                               applaud, clap / (meg)tapsol
 stå                                     stand / áll
+  stå på                                  be on, be going on, be switched on / megy, folyamatban van, be van kapcsolva
 räta                                    straighten / kiegyenesít, kinyújt
 böja [böj!]                             bow, curve, bend / hajol, hajlít, görbít
 klappa                                  clap, pat, pet / tapsol, megvereget, paskol, kopog
@@ -750,6 +754,7 @@ ramla                                   fall / (le)esik, (le)zuhan, összeomlik,
 spilla                                  spill / (ki/le)önt, kiloccsant, le/elszór, leejt
 tappa                                   drop, lose / le/elejt, elveszít
 verka                                   seem, work / látszik, mutatkozik, hat, hatással van, működik, munkálkodik
+bry                                     care / törődik, gondot fordít vmire, érdeklődik vmi iránt
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -777,9 +782,9 @@ ursprungligen                           originally / eredetileg
 vanlig                                  usual(ly), ordinary(-ily)
 tystlåten                               taciturn / hallgatag
 dryg                                    ample, more than, over, just over / bőséges
-drygt                                   amply, over, just over / bőségesen
+drygt                                   amply, over, just over / bőven, bőségesen
 knapp                                   scarce, meagre / szűkös, szegényes, csekély, korlátozott
-knappt                                  slightly less than, hardly / alighogy, nehezen, nem igen
+knappt                                  slightly less than, hardly / alig, alighogy, nehezen, nem igen
 ordentlig                               orderly, thorough / rendes, alapos
 rejäl                                   strong, big, reliable, sure, serious, honest, substantial
 rätt                                    right (straight), fairly, rather, quite
@@ -974,10 +979,13 @@ framme                                  in front, out / elöl, itt, ott
   [bilen vara framme]                     [az autó előállt]
 iväg                                    away [from] / el [vhonnan]
 medan                                   while, whereas / mialatt, miközben, amíg
+innan                                   before, until / mielőtt, míg
 längs                                   alongside, along / hosszában, mentén, mellett
 framlänges                              forwards / előre(felé)
 baklänges                               backwards, in reverse / hátra(felé), vissza(felé), hanyatt, háttal
 enbart                                  only, alone, solely / csakis, csupán, kizárólag, egyes-egyedül
+gjord [av ngn]                          made [of sg] / megcsinált, -tett, elkészített, elintézett
+vore (--> vara)                         were / lenne, volna
 
 udda                                    odd / páratlan
 jämn                                    even, exact / páros, pontos(an annyi), kerek
@@ -1148,6 +1156,7 @@ vara på allas läppar                    on everyone's lips / közszájon forog
 Kan du räcka mig saltet?                Could you pass the salt?
 
 hålla andan                             hold one's breath / visszatartja/fojtja a lélegzetét
+en sak i taget                          one thing at a time / egyszerre egy dolog
 
 ** Ordspråk
 
@@ -3218,6 +3227,18 @@ Jag tycker att svenska politiker är ganska ärliga.
 Jag tror att Volvo är Sveriges största företag.
 Jag tycker att svenska naturen är vacker.
 Jag tror att det här kan vara nu.
+
+** p.142: Gör bisatser med medan och innan!
+
+1. Medan jag dricker te, läser jag på dagens post.
+2. Medan jag duschar, sjunger jag.
+3. Medan jag sitter på tåget, läser jag tidningen.
+4. Innan jag går hem, handlar jag mat.
+5. Innan jag äter, tvätter jag händerna.
+6. Innan jag dricker kaffe, diskar jag.
+7. Medan vi tittar på teve, diskuterar vi programmet.
+8. Innan jag går och lägger mig, kontrollerar jag alla lås.
+9. Innan jag somnar, läser jag en bok.
 
 
 * Övningar del 1
