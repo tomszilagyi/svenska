@@ -18,6 +18,7 @@ Teckenförklaringar för T (typ):
 | börja     | börjar     | började   | börjat   |   |                                  |
 | dra       | drar       | drog      | dragit   | O | draw, pull, haul, leave, go      |
 | dricka    | dricker    | drack     | druckit  | S | drink                            |
+| dyka      | dyker      | dök       | dykt     | O | dive                             |
 | dö        | dör        | dog       | dött     | O | die                              |
 | finnas    | finns      | fanns     | funnits  | S | am, is, are                      |
 | flyga     | flyger     | flög      | flugit   | S | fly                              |
@@ -42,6 +43,7 @@ Teckenförklaringar för T (typ):
 | känna     | känner     | kände     | känt     |   |                                  |
 | leva      | lever      | levde     | levt     |   |                                  |
 | ligga     | ligger     | låg       | legat    | O | lie, be situated                 |
+| lyfta     | lyfter     | lyfte     | lyft     | O | raise, take off, draw, withdraw  |
 | lägga     | lägger     | la(de)    | lagt     | O | put, place, set, lay             |
 | läsa      | läser      | läste     | läst     |   |                                  |
 | låta      | låter      | lät       | låtit    | S | sound                            |
@@ -85,5 +87,6 @@ Teckenförklaringar för T (typ):
 | vila      | vilar      | vilade    | vilat    |   | rest, relax                      |
 | vilja     | vill       | ville     | velat    | O | want                             |
 | välja     | väljer     | valde     | valt     | O | choose, elect, go for, opt, pick |
+| vända     | vänder     | vände     | vänt     | O | turn                             |
 | vänja     | vänjer     | vande     | vant     | O | accustom                         |
 | äta       | äter       | åt        | ätit     | S | eat                              |

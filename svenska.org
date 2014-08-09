@@ -434,6 +434,7 @@ berg-och-dalbana (en)                   roller coaster, big dipper / hullámvas�
 stånd (ett)                             stall, booth, stand, state, condition, height, level / bódé, stand, állapot, helyzet, állás, magasság, szint
 pilkastning (en)                        arrow casting / célbadobás, nyíldobálás
 skylt (en)                              plate, signboard, signpost / (cég-, cím-, név-, szám-)tábla, cégér, pajzs
+vägskylt (en)                           road sign / útjelző tábla, közlekedési tábla
 anda (en)                               breath, atmosphere, spirit / lélegzet, lehelet, lélek
 godhet (en)                             goodness, benevolence, kindness / jóság, szívélyesség, jó minőség
 lott (en)                               draw, fate, lottery ticket, share, part / sors, sorsjegy, lottószelvény, rész(esedés), parcella
@@ -502,6 +503,13 @@ väderleksrapport (en)                   weather report / időjárásjelentés
 synd (en)                               pity, sin, sins / bűn, vétek, kár, sajnálatos dolog
 macka (en)                              sandwich [inf] / szendvics, vajas kenyér
 lås (ett)                               lock / zár
+moln (ett)                              cloud / felhő
+höjd (en)                               height, altitude, elevation, hill, mound / magasság, tetőfok, magaslat, halom, domb, hegy
+gård, bondgård (en)                     farm, (country) estate / farm, birtok, major, tanya, parasztgazdaság
+svett (en)                              sweat, perspiration / izzadság, veríték, verejték
+stängsel (ett) [stängslet]              fence / kerítés, sövény, rács, akadály, korlát
+besvär (ett)                            trouble, inconvenience, difficulty / fáradság, vesződség, zavarás, kellemetlenség, nehézség, baj
+orsak (en)                              cause, ground / ok, indítóok, indíték
 
 ** VERB - VERBS - IGÉK
 
@@ -755,6 +763,17 @@ spilla                                  spill / (ki/le)önt, kiloccsant, le/elsz
 tappa                                   drop, lose / le/elejt, elveszít
 verka                                   seem, work / látszik, mutatkozik, hat, hatással van, működik, munkálkodik
 bry                                     care / törődik, gondot fordít vmire, érdeklődik vmi iránt
+tävla                                   compete / versenyez, verseng, mérkőzik
+heja                                    support, cheer, greet / lelkesít, biztat, odakiált
+rusa                                    rush, dash / rohan, száguld, robog, iparkodik, siet
+lyfta                                   raise, take off, draw, withdraw / (fel)emel, felvesz, (fel)emelkedik, (fel)száll
+öka                                     increase, gain, grow, boost / gyarapít, növel, emel, fokoz
+glänsa                                  shine, glisten, glitter / fénylik, ragyog, csillog, (átv) tündököl, kitűnik
+täcka                                   cover, blank out, cloak, conceal / (el)fed, (be/le)takar, (be/le)borít, bevon, fedez
+dyka [dök, dykt]                        dive / lebukik, le- v. alámerül, lecsap
+klättra                                 climb / mászik, kúszik, kapaszkodik
+lyckas                                  succeed, manage to / sikerül [véghezvinni vmit]
+orsaka                                  cause, bring, make / okoz, szerez
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -896,6 +915,13 @@ motsträvig                              obstinate, reluctant / makrancos, dacos
 fruktansvärd                            terrible, horrible / félelmetes, rettenetes, borzasztó
 vissen                                  withered / hervadt, fonnyadt, elszáradt, aszott
 häftig                                  violent, impetuous, heated, smart, trendy / heves, erős, hirtelen, szenvedélyes, indulatos
+erfaren                                 practised, experienced / tapasztalt, gyakorlott
+dimmig                                  foggy / ködös
+molnfri                                 cloudless / felhőtlen
+molnig                                  cloudy / felhős
+strålande                               brilliant, radiant / sugárzó, fénylő, ragyogó
+tät                                     tight, close / szoros, sűrű, tömör, tömített, jómódú, vagyonos
+darrig                                  trembly, shaky, jittery / reszkető(s)
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -986,6 +1012,7 @@ baklänges                               backwards, in reverse / hátra(felé), 
 enbart                                  only, alone, solely / csakis, csupán, kizárólag, egyes-egyedül
 gjord [av ngn]                          made [of sg] / megcsinált, -tett, elkészített, elintézett
 vore (--> vara)                         were / lenne, volna
+vilse                                   lost, wrong / tévúton, tévútra, tévesen
 
 udda                                    odd / páratlan
 jämn                                    even, exact / páros, pontos(an annyi), kerek
@@ -3239,6 +3266,68 @@ Jag tror att det här kan vara nu.
 7. Medan vi tittar på teve, diskuterar vi programmet.
 8. Innan jag går och lägger mig, kontrollerar jag alla lås.
 9. Innan jag somnar, läser jag en bok.
+
+** p.143: När vi flög vilse
+
+Klockan var tio i sex och det var fortfarande dimmigt, när vi kom till
+flygfältet. Vi hade chartrat en Piper 10 och skulle flyga från Bromma
+till Anderstorp, min bror, min pojkvän och jag. Min bror skulle tävla
+i Formel 1 där, och min kille och jag skulle heja på honom.
+
+Piloten var en karl i 60-årsåldern. Han såg mycket erfaren ut. Han och
+min bror satte sig i förarsäterna och jag och min kille där bak. Vi
+rullade ut på startbanan, piloten ökade farten, planet rusade fram och
+vi lyfte.
+
+Snart såg vi hela Stockholm under oss, tomma gator, hustak och
+kyrktorn, fönster som glänste i morgonsolen. Så passerade vi
+Södertälje och satte kurs söderut. Vädret var utmärkt, molnfri himmel
+och strålande sol. Men i höjd med Norrköping började det bli molnigt,
+och när vi närmade oss Jönköping, var himlen täckt av tjocka moln och
+vi såg ingenting. Piloten började bli nervös. Han hade nämligen aldrig
+flugit på instrument förut och hade inget sådant certifikat, fast det
+visst jag inte då.
+
+Vi fick radiokontakt med kontrolltornet i Jönköping, men piloten vill
+inte landa där. "Vi ska ju till Anderstorp!" sa han. "Jag går ner
+under molnen. Ni kan leta efter Anderstorp! Vi kanske hittar någon
+väg, så kan du försöka läsa på vägskyltarna!"
+
+Han dök och flög tätt över marken. Vi såg bondgårdar och skogar och
+sjöar och en fabrik, som kanske var Gislaveds Gummifabrik, men sedan
+såg vi bara skogar och skogar, tills vi plötsligt flög ut över en lång
+sandstrand. "Hjälp! Vi flyger ut över havet!" ropade jag. "Var fan är
+vi?" skrek min bror.
+
+Piloten blev blek. Vi hade nästan ingen bensin kvar. Han vände och
+flög tillbaka samma väg. Äntligen såg vi ett flygfält! Det var tomt
+och kontrolltornet svarade inte, men vi landade där ändå.  Piloten
+torkade svetten ur pannan, medan vi klättrade ur planet på darriga
+ben.
+
+Vi hade landat på ett militärflygfält. Där fanns inte en människa, och
+allt var stängt, men vi lämnade piloten och lyckades klättra över
+stängslet och ta oss fram till en väg. Där hade vi tur och kunde
+stoppa en taxi. När vi kom fram till Anderstorp, hade vi kört 10
+mil. Vi kom två timmar för sent, och biltävlingarna hade redan börjat
+på flygfältet där.
+
+"Jaså, där kommer ni!" skrek våra vänner, när de fick syn på oss. "Vad
+vi har varit oroliga för er!" Min mamma hade ringt klockan 10, och när
+vi inte hade kommit fram, ringde hon till Bromma flygfält, och
+därifrån slog de larm över hela Sverige. Ja, vilken massa besvär vi
+hade orsakat.
+
+Då såg vi plötsligt ett sportflygplan på väg in mot flygfältet, en
+liten tvåmotorig Piper! "Här får du inte landa! Flygfältet är stängt!
+Vi har motortävlingar här!" ropade kontrolltornet. "Jag måste landa!
+Jag har ingen bensin kvar!" grät piloten. Det var förstås samma pilot,
+som vi hade flugit med. Äntligen hade han hittat Anderstorp!
+
+Naturligtvis måste bilarna lämna banan, och piloten kunde landa och
+stiga ut och tanka planet. "Så där!" sa han, "det gick ju bra i alla
+fall! När ska vi åka tillbaka igen?" Men då hade vi fått nog. "Nej
+tack!" sa vi, "vi tar tåget hem!"
 
 
 * Övningar del 1
