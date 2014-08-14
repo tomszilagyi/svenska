@@ -28,6 +28,7 @@ Teckenförklaringar för T (typ):
 | få        | får        | fick      | fått     | O | may, get, can, have, receive     |
 | förstå    | förstår    | förstod   | förstått | O | understand                       |
 | ge        | ger        | gav       | gett     | O | give                             |
+| glida     | glider     | gled      | glidit   | S | slide, slip, glide               |
 | gråta     | gråter     | grät      | gråtit   | S | cry, weep                        |
 | gå        | går        | gick      | gått     | O | go, walk, run, progress, leave   |
 | göra      | gör        | gjorde    | gjort    | O | do, make                         |

@@ -427,7 +427,7 @@ vaktmästare (en)                        janitor, waiter / hivatalsegéd, pedell
 tärna (en)                              attendant, bridesmaid / hajadon, leányzó, nyoszolyólány
 landsman (en)                           compatriot, fellow countryman / honfitárs, földi
 tag (ett)                               grip [also fig.] / fogás [átv. is]
-fält (ett)                              field [also fig.] / mező, szántóföld, síkság, tér, terület
+fält (ett)                              field [also fig.], ground / mező, szántóföld, síkság, tér, terület
 nöjesfält (ett)                         amusement park, pleasure ground / vidámpark, vurstli
 karusell (ett)                          carousel, roundabout, merry-go-round / körhinta, ringlispil
 berg-och-dalbana (en)                   roller coaster, big dipper / hullámvasút
@@ -510,6 +510,20 @@ svett (en)                              sweat, perspiration / izzadság, verít�
 stängsel (ett) [stängslet]              fence / kerítés, sövény, rács, akadály, korlát
 besvär (ett)                            trouble, inconvenience, difficulty / fáradság, vesződség, zavarás, kellemetlenség, nehézség, baj
 orsak (en)                              cause, ground / ok, indítóok, indíték
+längdåkning (en)                        cross-country / tájfutás, terepfutás, hosszútávú sífutás
+andelslägenhet (en)                     condominium (flat, apartment) / (társasházi) lakás
+pjäxa (en)                              boot / (sí v. sport) bakancs
+tröja (en)                              sweater / szvetter, pulóver, pólóing, jégering, alsóing, atlétatrikó
+spår (ett)                              rail, track, trace, print, sign, mark / nyom, kerékvágás, csapás, vágány, sínpár, pálya
+uppförsbacke (en)                       uphill slope / emelkedő
+nedförsbacke (en)                       downhill slope, descent / lejtő
+anka (en)                               duck / kacsa
+tystnad (en)                            silence / csend(esség), hallgatás
+kors (ett)                              cross, crucifix / kereszt
+kork (en)                               cork / dugó
+buske (en)                              bush / bokor, cserje, bozót
+hjälte (en)                             hero / hős
+ficka (en)                              pocket, slot / zseb, rekesz
 
 ** VERB - VERBS - IGÉK
 
@@ -774,6 +788,12 @@ dyka [dök, dykt]                        dive / lebukik, le- v. alámerül, lecs
 klättra                                 climb / mászik, kúszik, kapaszkodik
 lyckas                                  succeed, manage to / sikerül [véghezvinni vmit]
 orsaka                                  cause, bring, make / okoz, szerez
+glida [gled, glidit]                    slide, slip, glide / (le)csúszik, (le)siklik
+sparka                                  kick / rúg, megrúg, belerúg, rugdalózik, rugdos
+blunda                                  shut one's eyes, (fig) pretend not to notice / behunyja a szemét, szundít, szundikál, (átv) szemet huny
+hamna                                   land, end up / kiköt, révbe jut, végzi
+spotta                                  spit / köp, köpköd, köpdös
+klappa                                  clap, pet, pat, beat / tapsol, megvereget, -paskol, -simogat, ver, üt, kopog
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -922,6 +942,11 @@ molnig                                  cloudy / felhős
 strålande                               brilliant, radiant / sugárzó, fénylő, ragyogó
 tät                                     tight, close / szoros, sűrű, tömör, tömített, jómódú, vagyonos
 darrig                                  trembly, shaky, jittery / reszkető(s)
+stadig                                  steady, firm, stable / szilárd, tartós, állandó, szolid, megfontolt, zömök, vastag, erős
+proffsig                                professional (inf) / profi
+rasande                                 furious, awfully, terribly / tomboló, dühöngő, őrjöngő, szörnyen, borzasztóan
+sur                                     sour, sulky / savanyú, fanyar (átv. is), savas, rosszkedvű, morcos, mogorva
+våt                                     wet (usually with water) / nedves, vizes, nyirkos
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -986,6 +1011,7 @@ emellertid                              however, though / mégis, mindamellett, 
 därför                                  therefore / emiatt, ennélfogva
 därefter                                afterward, then, thereafter / (az/ez)után, miután
 efteråt                                 afterwards / azután, utána
+utåt                                    outward(s) / (ki)felé
 gärna                                   gladly, willingly / szívesen
 redan                                   already / már
 kvar                                    left (of sg, eg. space, time, etc.)
@@ -1009,10 +1035,13 @@ innan                                   before, until / mielőtt, míg
 längs                                   alongside, along / hosszában, mentén, mellett
 framlänges                              forwards / előre(felé)
 baklänges                               backwards, in reverse / hátra(felé), vissza(felé), hanyatt, háttal
+framåt                                  ahead, forward / előre, tovább
+bakåt                                   backward(s), to the rear / hátra(felé), visszafelé
 enbart                                  only, alone, solely / csakis, csupán, kizárólag, egyes-egyedül
 gjord [av ngn]                          made [of sg] / megcsinált, -tett, elkészített, elintézett
 vore (--> vara)                         were / lenne, volna
 vilse                                   lost, wrong / tévúton, tévútra, tévesen
+kors                                    crossways / keresztbe
 
 udda                                    odd / páratlan
 jämn                                    even, exact / páros, pontos(an annyi), kerek
@@ -1184,6 +1213,7 @@ Kan du räcka mig saltet?                Could you pass the salt?
 
 hålla andan                             hold one's breath / visszatartja/fojtja a lélegzetét
 en sak i taget                          one thing at a time / egyszerre egy dolog
+med rasande fart                        at breakneck speed / óriási v. őrült sebességgel
 
 ** Ordspråk
 
@@ -3328,6 +3358,25 @@ Naturligtvis måste bilarna lämna banan, och piloten kunde landa och
 stiga ut och tanka planet. "Så där!" sa han, "det gick ju bra i alla
 fall! När ska vi åka tillbaka igen?" Men då hade vi fått nog. "Nej
 tack!" sa vi, "vi tar tåget hem!"
+
+** p.144: Läs texten och svara på frågorna!
+
+1. Han hade åkt slalom tidigare, men inte längdåkning.
+2. Lägenheten låg uppe i Sälen, vid norska gränsen.
+3. Det var plusgrader, nämligen 5-6 grader över noll.
+4. Han hyrde skidorna.
+5. Skidorna var långa, smala saker, som nästan inte vägde någonting
+   och verkade väldigt ostadiga.
+6. Visst ja, för hon såg mycket proffsig ut.
+7. Det började bättre, än han hade väntat.
+8. Han ramlade bara en gång, efter en mycket lång nedförsbacke.
+9. Vädret var strålande: molnfri himmel, trevlig temperatur.
+10. För att han hade åkte mycket och han blev trött.
+11. Ja, snön var synbarligen djupa.
+12. Han mådde dödstrött, han var sur och han smakade blod i munnen.
+13. Tina tyckte att han var en hjälte för att härda ut skidturen.
+14. De skulle bada bastu tillsammans.
+15. Det var klart att han ville göra det.
 
 
 * Övningar del 1
