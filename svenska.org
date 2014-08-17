@@ -524,6 +524,27 @@ kork (en)                               cork / dugó
 buske (en)                              bush / bokor, cserje, bozót
 hjälte (en)                             hero / hős
 ficka (en)                              pocket, slot / zseb, rekesz
+gren (en)                               branch, field, area / ág, gally, elágazás, ágazat
+gran (en)                               spruce / lucfenyő
+talgoxe (en)                            great tit / széncinke, széncinege
+boll (en)                               ball / labda, golyó
+fjäder (en)                             feather / toll, tollazat
+Medelhavet                              Mediterranean Sea / Földközi-tenger
+art (en)                                species, type, sort, kind / faj, fajta, nem, minőség, természet
+duva (en)                               dove / galamb
+and (en, änder)                         (wild) duck / vadkacsa, kacsa, réce
+mes (en)                                titmouse / cinke, cinege
+sparv (en)                              sparrow / veréb
+hål (ett)                               hole / lyuk, nyílás, rés, szakadás, odú, fészek, (nyomorúságos) lyuk
+håla (en)                               burrow, cave, hole, den / barlang, odú, lyuk (állaté), üreg (orv. is), (átv.pej. kisváros) fészek
+känsel (en)                             feel, feeling, touch / érzékelés, érzés, tapintás, érzék
+svan (en)                               swan / hattyú
+frö (ett: fröet, frön, fröa)            germ, seed, embryo / mag, vetőmag, csíra, fajzat, magzat
+trä (ett: träet, trän, träna)           wood / fa(anyag)
+träd (ett)                              tree / (élő)fa
+godsak (en; mest i plural)              goody, candy / édesség, nyalánkság
+ämnesomsättning (en)                    metabolism / anyagcsere
+föda (en)                               fodder, food / táplálék, étel, élelem, ellátás, koszt, eleség, takarmány
 
 ** VERB - VERBS - IGÉK
 
@@ -794,6 +815,12 @@ blunda                                  shut one's eyes, (fig) pretend not to no
 hamna                                   land, end up / kiköt, révbe jut, végzi
 spotta                                  spit / köp, köpköd, köpdös
 klappa                                  clap, pet, pat, beat / tapsol, megvereget, -paskol, -simogat, ver, üt, kopog
+burra [upp]                             fluff / [fel]borzol, bolyhoz, berzenkedik
+bevara                                  protect, preserve, maintain, save / (meg)őriz, megtart, megóv, -véd
+gömma                                   conceal, hide, keep, put aside, save / elbújik, elrejtőzik, elrejt, eldug, (meg)őriz, tartogat, (jól) eltesz
+förlora                                 lose, give away, go down / elvesz(í)t, vesz(í)t, veszteséget szenved
+smälta                                  melt, smelt, dissolve, fuse / meg-, fel-, kiolvaszt, megemészt, lenyel, elvisel, megemésztődik, összeolvad
+kräva                                   demand, claim, require / (meg)követel, kíván, igényel
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -947,6 +974,7 @@ proffsig                                professional (inf) / profi
 rasande                                 furious, awfully, terribly / tomboló, dühöngő, őrjöngő, szörnyen, borzasztóan
 sur                                     sour, sulky / savanyú, fanyar (átv. is), savas, rosszkedvű, morcos, mogorva
 våt                                     wet (usually with water) / nedves, vizes, nyirkos
+svag                                    weak / gyenge, elgyöngült, bágyadt, erőtlen, engedékeny, elnéző, csekély
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -2203,6 +2231,26 @@ Man *vet* inte, man är *inte säker*.
 | trodde att han bodde | tyckte att håret doftade |
 
 Man utelämnar ofta "att" efter tycker och tror.
+
+** BISATSORDFÖLJD (igen) (p.146)
+
+| bisatsinledare | subjekt  | (adverb) | verb   | resten                |
+|----------------+----------+----------+--------+-----------------------|
+| när            | man      | -        | andas  |                       |
+| när            | det      | -        | börjar | bli kallt på hösten   |
+| när            | de       | -        | vaknar | igen                  |
+| om             | det      | (inte)   | blåser |                       |
+| om             | de       | -        | blir   | våta                  |
+| om             | vintern  | (inte)   | är     | mild                  |
+| som            | -        | -        | lever  | på insekter           |
+| som            | de       | -        | kan    | gömma sig i           |
+| eftersom       | de       | inte     | har    | någon känsel där      |
+| eftersom       | fåglarna | -        | har    | snabb ämnesomsättning |
+| trots att      | snön     | -        | ligger | tjock                 | 
+
+Bisatsordföljd: inte kommer före första (finita) verbet = *biff*-regeln
+
+När *bisatsinledaren* = *som* är subjekt, är subjektets plats i bisatsen tom.
 
 
 * Övningar i Lärobok
