@@ -140,6 +140,7 @@ stjärna (en) [_Härna]                   star [also figuratively] / csillag, sz
 sällskap (ett) [szellszka:p]            company / cég, társaság
 jordbruk (ett) [júrdbrük]               agriculture, farm / mezőgazdaság, gazdaság
 genomsnitt (ett)                        average / átlag
+allmänhet (en)                          the (general) public / az emberek általában, általánosság, egyetemesség, nyilvánosság, közönség
 åker (en) åkern, åkrar                  arable land, field / szántóföld, mező
 äng (en) ängen, ängar                   meadow / rét, legelő
 vete (ett)                              wheat / búza
@@ -261,7 +262,8 @@ fängelse (ett)                          prison, jail / börtön
 dagis (ett)                             day nursery, kindergarten / óvoda
 advokat (en)                            counsel, attorney, lawyer, solicitor / ügyvéd, szószóló, védő
 radhus (ett)                            row house / sorház
-änka (en)                               widow / özvegy
+änka (en)                               widow / özvegy(asszony)
+änkling (en)                            widower / özvegy(ember)
 glasbruk (ett)                          glassworks / üveggyár
 skål (en)                               bowl, basin / csésze, tálka
 pension (en)                            pension / nyugdíj
@@ -545,6 +547,15 @@ träd (ett)                              tree / (élő)fa
 godsak (en; mest i plural)              goody, candy / édesség, nyalánkság
 ämnesomsättning (en)                    metabolism / anyagcsere
 föda (en)                               fodder, food / táplálék, étel, élelem, ellátás, koszt, eleség, takarmány
+ungkarl (en)                            bachelor / agglegény
+ungkarlsflicka (en)                     bachelorette / vénkisasszony, garzonéletet élő nő
+hushåll (ett)                           household / háztartás
+skilsmässa (en)                         parting, divorce, separation / válás, válóper, elválás, elszakadás, búcsú
+äktenskap (ett)                         marriage, matrimony / házasság
+skillnad (en)                           distinction, divergence, difference, disparity / különbség, eltérés, különbözet
+utsträckning (en)                       extent, elongation, expansion, reach / terjedelem, kiterjedés, kinyújtás, -nyúlás, meghosszabbítás, kiterjesztés
+ägodel (en)                             property, possession, belonging / birtok(rész), tulajdon, jószág, vagyontárgy, ingóság, holmi
+part (en)                               party / fél [ügyben, perben érdekelt]
 
 ** VERB - VERBS - IGÉK
 
@@ -821,6 +832,8 @@ gömma                                   conceal, hide, keep, put aside, save / 
 förlora                                 lose, give away, go down / elvesz(í)t, vesz(í)t, veszteséget szenved
 smälta                                  melt, smelt, dissolve, fuse / meg-, fel-, kiolvaszt, megemészt, lenyel, elvisel, megemésztődik, összeolvad
 kräva                                   demand, claim, require / (meg)követel, kíván, igényel
+spricka [sprack, spruckit]              crack, fracture, split / reped, hasad, szétreped, elpattan, felhasad, kinyílik
+gälla                                   pertain to, apply, concern / érint, céloz, vonatkozik, szól [vmiről], érvényes, súlya/jelentősége van, [vminek] számít
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -975,6 +988,8 @@ rasande                                 furious, awfully, terribly / tomboló, d
 sur                                     sour, sulky / savanyú, fanyar (átv. is), savas, rosszkedvű, morcos, mogorva
 våt                                     wet (usually with water) / nedves, vizes, nyirkos
 svag                                    weak / gyenge, elgyöngült, bágyadt, erőtlen, engedékeny, elnéző, csekély
+frånskild                               divorced / elvált
+gemensam                                common, collective / közös, együttes, közösségi, kollektív
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1007,6 +1022,7 @@ istället / i stället                    instead / vmi helyett
 förutom                                 apart from, aside from / kívül, kivéve, azonkívül hogy ...
 förut                                   before / azelőtt, korábban
 undan                                   away, out of the way / el, félre, -tól/től, alól, elől
+isär                                    apart / szét, széjjel, külön
 
 ganska                                  fairly, somewhat, rather, quite
 visst                                   certainly, probably
@@ -1111,6 +1127,8 @@ ytterligare                             further, additional / további, újabb, 
 överallt                                everywhere / mindenhol
 underförstådd                           implied, implicit / bennefoglalt, beleértett, beleértődő, burkolt, kimondatlan
 försiktig                               careful, prudent / óvatos, elővigyázatos
+tillsammans                             together / együtt
+ihop                                    together / együtt
 
 eller hur?                              isn't it?, aren't you?, etc. / ugye?, nemde?
 flermiljonfråga                         multi-million question
@@ -1242,6 +1260,7 @@ Kan du räcka mig saltet?                Could you pass the salt?
 hålla andan                             hold one's breath / visszatartja/fojtja a lélegzetét
 en sak i taget                          one thing at a time / egyszerre egy dolog
 med rasande fart                        at breakneck speed / óriási v. őrült sebességgel
+det gör varken till eller (i)från       az semmit sem változtat a dolgokon; egyre megy
 
 ** Ordspråk
 
@@ -1313,6 +1332,7 @@ osv. [och så vidare]                    etc. / stb.
 jfr. [jämför]                           cf. / vö.
 dvs. [det vill säga]                    i.e. / azaz, úgymint
 sk, s.k. [så kallad]                    so-called / ú.n., úgynevezett
+t.o.m. [till och med]                   up to [and including] / sőt, még, már, ... is
 OBS! [observera!]                       NB., Note!, Attention!
 ToR [Tur och retur]                     oda-vissza/retúr
 FN [Förenta Nationerna]                 UN [United Nations] / ENSZ
