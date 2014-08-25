@@ -834,6 +834,10 @@ smälta                                  melt, smelt, dissolve, fuse / meg-, fel
 kräva                                   demand, claim, require / (meg)követel, kíván, igényel
 spricka [sprack, spruckit]              crack, fracture, split / reped, hasad, szétreped, elpattan, felhasad, kinyílik
 gälla                                   pertain to, apply, concern / érint, céloz, vonatkozik, szól [vmiről], érvényes, súlya/jelentősége van, [vminek] számít
+likna                                   resemble, look / hasonlít, [vkire] üt
+slösa                                   lavish, squander, waste / (el)pazarol, (el)tékozol, (el)fecsérel, költekezik, herdál, elpocsékol, elveszteget
+lita [på]                               rely [on] / megbízik vkiben, ráhagyatkozik vkire
+klaga [på]                              complain [of sg] / panaszkodik [vmire], siránkozik, (be)panaszol, fellebbez
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -990,6 +994,7 @@ våt                                     wet (usually with water) / nedves, vize
 svag                                    weak / gyenge, elgyöngült, bágyadt, erőtlen, engedékeny, elnéző, csekély
 frånskild                               divorced / elvált
 gemensam                                common, collective / közös, együttes, közösségi, kollektív
+blivande                                becoming, intended / leendő, jövendő(beli), esetleges
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -2271,6 +2276,26 @@ Man utelämnar ofta "att" efter tycker och tror.
 Bisatsordföljd: inte kommer före första (finita) verbet = *biff*-regeln
 
 När *bisatsinledaren* = *som* är subjekt, är subjektets plats i bisatsen tom.
+
+** ORDFÖLJD BISATS (p.148)
+
+|          |           | 1   | 2    | 3    | 4      | 5          |                           |
+|          |           | inl | subj | adv  | verb   | resten     |                           |
+|----------+-----------+-----+------+------+--------+------------+---------------------------|
+|          | en man    | som | -*   | -    | är     | rik.       | /Mannen/ är rik           |
+| Jag vill | en kvinna | som | -*   | inte | röker. |            | /Kvinnan/ röker inte      |
+| träffa   | någon     | som | jag  | -    | kan    | prata med. | /Jag/ kan prata med någon |
+|          | alla      | som | du   | inte | tycker | om.        | /Du/ tycker inte om någon |
+|----------+-----------+-----+------+------+--------+------------+---------------------------|
+|          |           |     |      |      |        |            | /Subjektet/ i kursiv stil |
+
+ * /som/ är redan subjekt
+
+** KVARLÄMNADE PREPOSITIONER (p.148)
+
+| Jag pratade om den här boken. | *Den här boken* pratade jag *om*.             |
+| Du pratade om en bok.         | *Vilken bok* pratade du *om*?                 |
+| Jag pratade om en bok.        | Här är den där boken, *som* jag pratade *om*. |
 
 
 * Övningar i Lärobok
