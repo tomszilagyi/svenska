@@ -227,7 +227,7 @@ lodjur (ett)                            lynx / hiúz
 stam (en)                               root, trunk / tő, gyökér [szótő is]
 vitlök (en)                             garlic / fokhagyma
 bastu (en) [Bada bastu!]                sauna / szauna [Take a sauna!]
-råd (ett)                               advice, council / tanács [testület is]
+råd (ett)                               advice, council, resources / tanács [testület is], mód vmire
 tur (en)                                trip / utazás, kirándulás
 säkerhetsbält (ett)                     safety belt / biztonsági öv
 näsa (en)                               nose / orr
@@ -556,6 +556,21 @@ skillnad (en)                           distinction, divergence, difference, dis
 utsträckning (en)                       extent, elongation, expansion, reach / terjedelem, kiterjedés, kinyújtás, -nyúlás, meghosszabbítás, kiterjesztés
 ägodel (en)                             property, possession, belonging / birtok(rész), tulajdon, jószág, vagyontárgy, ingóság, holmi
 part (en)                               party / fél [ügyben, perben érdekelt]
+mission (en)                            mission / küldetés, megbízás, misszió, hittérítés
+basar (en)                              bazaar, jumble sale / bazár, vásár, jótékony célú árusítás
+gudstjänst (en)                         church service / istentisztelet
+lantarbetare (en)                       farm worker, agricultural labourer / mezőgazdasági munkás
+abborre (en)                            perch / sügér, csapósügér
+skoj (ett)                              fun, joke, mischief, jest, swindle, fraud, racket / csalás, szélhámosság, svindli, humbug, móka, tréfa, csíny
+servicehus (ett)  [~pensionärshem]      [block of] service flats / idősek otthona
+färd (en)                               journey / utazás, út, repülés
+färdtjänst (en)                         transportation service for the disabled / mozgáskorlátozott szállítószolgálat
+hemtjänst (en)                          home-service / házigondozás, otthoni segítőszolgálat (időseknek)
+pensionat (ett)                         boarding house / penzió, nyugdíjasklub, napközi
+vård (en)                               care [of weak or ill people] / gondozás, ápolás, kezelés
+långvård (en)                           long-term medical care / utógondozás
+fröken (en)                             Miss / kisasszony, hajadon (kiszolgálónő v. tanítónő megszólítása is)
+förutsättning (en)                      condition, prerequisite / feltételezés, feltevés, (elő)feltétel
 
 ** VERB - VERBS - IGÉK
 
@@ -838,6 +853,15 @@ likna                                   resemble, look / hasonlít, [vkire] üt
 slösa                                   lavish, squander, waste / (el)pazarol, (el)tékozol, (el)fecsérel, költekezik, herdál, elpocsékol, elveszteget
 lita [på]                               rely [on] / megbízik vkiben, ráhagyatkozik vkire
 klaga [på]                              complain [of sg] / panaszkodik [vmire], siránkozik, (be)panaszol, fellebbez
+virka                                   crochet / horgol
+brodera                                 embroider / hímez
+gå med, gå med i                        join / csatlakozik
+pimpla                                  tipple, jig / iszogat, villantókanállal horgászik
+överta                                  take over / átvesz, magára vállal
+låna                                    borrow / kölcsönöz, kölcsönad, -kap, -vesz
+övertala                                persuade / rábeszél, rávesz, meggyőz
+våga                                    dare, risk / mer, merészel, bátorkodik, kockáztat, kockára tesz
+släppa                                  release, leave hold of, let go / elenged, elereszt, elejt, lemond, békén hagy
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -995,6 +1019,9 @@ svag                                    weak / gyenge, elgyöngült, bágyadt, e
 frånskild                               divorced / elvált
 gemensam                                common, collective / közös, együttes, közösségi, kollektív
 blivande                                becoming, intended / leendő, jövendő(beli), esetleges
+märkvärdig                              peculiar / figyelemre méltó, nevezetes, különös, sajátos, jellegzetes, kiemelkedő, kiváló
+spännande                               exciting, tense, piquant, very interesting / érdekfeszítő, lebilincselő, izgalmas
+nådig                                   merciful, gracious, clement / kegyelmes, irgalmas, elnéző
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1091,6 +1118,7 @@ gjord [av ngn]                          made [of sg] / megcsinált, -tett, elké
 vore (--> vara)                         were / lenne, volna
 vilse                                   lost, wrong / tévúton, tévútra, tévesen
 kors                                    crossways / keresztbe
+utantill                                by heart, from memory / könyv nélkül, kívülről, fejből, betéve
 
 udda                                    odd / páratlan
 jämn                                    even, exact / páros, pontos(an annyi), kerek
@@ -1134,6 +1162,8 @@ underförstådd                           implied, implicit / bennefoglalt, bele
 försiktig                               careful, prudent / óvatos, elővigyázatos
 tillsammans                             together / együtt
 ihop                                    together / együtt
+varenda [vartenda]                      every, any / mindegyik, minden, minden egyes, mindahány, valamennyi
+förnär [göra ngn ~]                     harm / árt, kárt v. bajt okoz vkinek, megbánt vkit
 
 eller hur?                              isn't it?, aren't you?, etc. / ugye?, nemde?
 flermiljonfråga                         multi-million question
@@ -1277,6 +1307,8 @@ Man kan aldrig lära gamla hundar att sitta.
 Äta bör man, annars dör man.            One must eat, or one dies.
 Tala är silver, tiga är guld.           Speech is silver, silence is golden.
 
+inte kunna göra en fluga förnär         a légynek sem tudna ártani
+
 ** Några uttryck med djur
 
 Stark som en björn                      Erős mint egy medve
@@ -1341,6 +1373,9 @@ t.o.m. [till och med]                   up to [and including] / sőt, még, már
 OBS! [observera!]                       NB., Note!, Attention!
 ToR [Tur och retur]                     oda-vissza/retúr
 FN [Förenta Nationerna]                 UN [United Nations] / ENSZ
+
+PRO [Pensionärernas Riksorganisation]   Swedish Pensioners' National Organization
+ATP [allmän tilläggspension]            general supplementary pension
 
 ** Káromkodások, indulatszavak
 
@@ -2296,6 +2331,21 @@ När *bisatsinledaren* = *som* är subjekt, är subjektets plats i bisatsen tom.
 | Jag pratade om den här boken. | *Den här boken* pratade jag *om*.             |
 | Du pratade om en bok.         | *Vilken bok* pratade du *om*?                 |
 | Jag pratade om en bok.        | Här är den där boken, *som* jag pratade *om*. |
+
+** SÅ ... ATT (p.150)
+
+*så* = gradadverbial
+
+Är vi *så* märkvärdiga *att* vi ska bli intervjuade?
+Hon blev *så* glad *att* hon började gråta!
+
+*så att* = bisatsinledare
+
+Jag har färdtjänsten *så att* jag kan hälsa på de andra.
+Jag arbetar inom PRO *så att* vi ska få högre ATP.
+
+I huvudsatsdelen beskrivs ofta ett tillstånd som *resulterar* i något
+eller är en *förutsättning* för något.
 
 
 * Övningar i Lärobok
@@ -3470,6 +3520,34 @@ tack!" sa vi, "vi tar tåget hem!"
 13. Tina tyckte att han var en hjälte för att härda ut skidturen.
 14. De skulle bada bastu tillsammans.
 15. Det var klart att han ville göra det.
+
+** p.150: Gör meningar med så att!
+
+*så att*
+
+1. Ta på dig ordentligt så att du inte blir förkyld!
+2. Ät ordentligt så att du blir stor och stark!
+3. Öva flitigt så att du lär dig ordentligt!
+4. Var tyst så att pappa inte vaknar!
+5. Arbeta mycket så att du tjäna mycket pengar!
+6. Ät inte för mycket så att du inte får ont i magen!
+7. Väck mig så att vi inte komma försent!
+8. Han dricker en kopp kaffe så att han vaknar.
+9. Hon studerar så att hon får ett bra arbete.
+10. De lägger sig tidigt så att de orkar gå upp.
+
+*så* ... *att*
+
+1. Hon var så ledsen att hon grät.
+2. Hon var så arg att hon skällde på barnen.
+3. Hon var så törstig att hon drack en liter vatten.
+4. Hon var så snabb att hon alltid kom först.
+5. Hon var så rolig att alla skrattade.
+6. Hon blev så trött att hon somnade.
+7. Hon var så pigg att hon gick upp klockan sex.
+8. Hon var så duktig att hon vann pris.
+9. Hon blev så gammal att hon trodde inte skulle orka.
+10. Hon var så lat att hon inte gjorde några läxor.
 
 
 * Övningar del 1
