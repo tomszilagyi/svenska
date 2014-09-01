@@ -571,6 +571,31 @@ vård (en)                               care [of weak or ill people] / gondozá
 långvård (en)                           long-term medical care / utógondozás
 fröken (en)                             Miss / kisasszony, hajadon (kiszolgálónő v. tanítónő megszólítása is)
 förutsättning (en)                      condition, prerequisite / feltételezés, feltevés, (elő)feltétel
+färja (en)                              ferry / komp
+färjeläge (ett)                         berth / kikötőhely
+årgång (en)                             vintage, year's issue / évjárat, évfolyam
+rishög (en)                             pile of twigs, brushwood, fig: jalopy / rőzsehalmaz, -rakás, átv: ócska, rozzant autó
+trafikförsäkring (en)                   3rd party (liability) insurance / kötelező felelősségbiztosítás (autó)
+stöldförsäkring (en)                    theft insurance / lopás elleni biztosítás
+ersättning (en)                         compensation, substitute, replacement / térítés, (kár)pótlás, helyettesítés, kártalanítás, ellenszolgáltatás
+vindruta (en)                           windscreen, windshield / szélvédő
+vindrutetorkare (en)                    wiper / ablaktörlő
+gem (ett)                               paper clip / gemkapocs, iratkapocs
+olja (en)                               oil / olaj
+varningstriangel (en)                   warning triangle / elakadásjelző háromszög
+första hjälpen [väska]                  first-aid [kit] / elsősegély[csomag]
+bogseringsrep (ett)                     towing rope / vontatókötél
+läsk (en)                               soft drink / üdítőital
+helljus (ett)                           full (main) beam, undipped headlights / fényszóró
+mötande bil (en)                        oncoming car / szembejövő autó
+besättningsman (en)                     crew member / legénység tagja
+huv (en)  [motorhuv]                    hood / kupak, sapka, fedél, fedő  [motorháztető]
+lager (ett)                             stockroom, storage, stratum, layer, bearing, laurel / raktár, készlet, réteg (átv. is), csapágy, babér
+försök (ett)                            attempt, trial, experiment / kísérlet, próba, próbálkozás
+punktering (en)                         puncture, flat / gumidefekt, (ki)pontozás, pettyezés
+steg (ett)                              step (also fig.) / lépés (átv. is), lábnyom, lépcsőfok
+motorstopp (ett)                        engine breakdown / motorhiba
+ratt (en)                               steering wheel / kormánykerék
 
 ** VERB - VERBS - IGÉK
 
@@ -862,6 +887,19 @@ låna                                    borrow / kölcsönöz, kölcsönad, -ka
 övertala                                persuade / rábeszél, rávesz, meggyőz
 våga                                    dare, risk / mer, merészel, bátorkodik, kockáztat, kockára tesz
 släppa                                  release, leave hold of, let go / elenged, elereszt, elejt, lemond, békén hagy
+besiktiga                               inspect, examine / megtekint, -szemlél, -vizsgál, szemrevételez, ellenőriz, átnéz
+sätta i gång                            get in motion, get moving, running, started / megindít, működésbe hoz
+tanka                                   fill [with petrol] / tankol [autót]
+signalera                               signal, announce, notify, honk / jelez, jelt ad, dudál
+upptäcka                                discover / felfedez, rájön vmire
+fara [for, farit]                       go / utazik, (el)megy, halad
+lossa                                   loosen, discharge (fire), unload / (meg/ki)old, (meg)lazít, kirak(odik), lead (lövést)
+fastna                                  get caught / (oda)tapad, hozzáragad, (meg/fenn/bele/el)akad, megreked
+backa                                   back, reverse / hátrál, hátrafelé v. visszafelé halad
+gunga                                   swing / hintázik, himbálódzik, ring, inog
+välta                                   overturn / felfordít, -borít, -dönt, felfordul, -borul, -dől
+le [log, lett]                          smile / mosolyog
+råka  [råka ut för en olycka]           meet, chance (happen) to, get (fall) into, find oneself in [have an accident] / találkozik, összeakad, (el)talál, véletlenül történik vele
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1022,6 +1060,13 @@ blivande                                becoming, intended / leendő, jövendő(
 märkvärdig                              peculiar / figyelemre méltó, nevezetes, különös, sajátos, jellegzetes, kiemelkedő, kiváló
 spännande                               exciting, tense, piquant, very interesting / érdekfeszítő, lebilincselő, izgalmas
 nådig                                   merciful, gracious, clement / kegyelmes, irgalmas, elnéző
+rostig                                  rusty, corroded, hoarse / rozsdás, rekedt
+begagnad                                secondhand, used / használt, másodkézből származó
+trång                                   tight, narrow / keskeny, szűk, szoros, feszes, szűkös (körülmények)
+tvungen                                 forced / kényszerített, kényszerű, szükségszerű, kényszeredett, erőltetett, mesterkélt
+sönder  [gå sönder]                     broken  [break] / szét, széjjel, össze, darabokra, apróra, ketté, tönkre  [elromlik]
+platt                                   flat, level, smooth / lapos, sekélyes, ízetlen
+stackars                                poor [expr. sympathy] / szegény, szerencsétlen
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1106,6 +1151,7 @@ sakta                                   slowly, gently / lassan, enyhén
 framme                                  in front, out / elöl, itt, ott
   [bilen vara framme]                     [az autó előállt]
 iväg                                    away [from] / el [vhonnan]
+igång                                   up-and-running, in motion / működő, mozgásban lévő
 medan                                   while, whereas / mialatt, miközben, amíg
 innan                                   before, until / mielőtt, míg
 längs                                   alongside, along / hosszában, mentén, mellett
@@ -1164,6 +1210,11 @@ tillsammans                             together / együtt
 ihop                                    together / együtt
 varenda [vartenda]                      every, any / mindegyik, minden, minden egyes, mindahány, valamennyi
 förnär [göra ngn ~]                     harm / árt, kárt v. bajt okoz vkinek, megbánt vkit
+ifall                                   if, in case / abban az esetben, ha
+dess  [ju förr dess bättre]             the  [the sooner the better]
+dags  [det är dags att gå hem]          time  [it's time to go home] / ideje vminek
+  hur dags?                               (at) what time? / mikor? mely időben?
+  i går så här dags                       tegnap ilyenkor
 
 eller hur?                              isn't it?, aren't you?, etc. / ugye?, nemde?
 flermiljonfråga                         multi-million question
@@ -1296,6 +1347,7 @@ hålla andan                             hold one's breath / visszatartja/fojtja
 en sak i taget                          one thing at a time / egyszerre egy dolog
 med rasande fart                        at breakneck speed / óriási v. őrült sebességgel
 det gör varken till eller (i)från       az semmit sem változtat a dolgokon; egyre megy
+Vart tog [han] vägen?                   What happened to [him]?
 
 ** Ordspråk
 
@@ -1376,6 +1428,7 @@ FN [Förenta Nationerna]                 UN [United Nations] / ENSZ
 
 PRO [Pensionärernas Riksorganisation]   Swedish Pensioners' National Organization
 ATP [allmän tilläggspension]            general supplementary pension
+moms                                    VAT / ÁFA
 
 ** Káromkodások, indulatszavak
 
@@ -2346,6 +2399,40 @@ Jag arbetar inom PRO *så att* vi ska få högre ATP.
 
 I huvudsatsdelen beskrivs ofta ett tillstånd som *resulterar* i något
 eller är en *förutsättning* för något.
+
+** TEMPUSHARMONI I HUVUDSATS OCH BISATS (p.152)
+
+Vi hade bestämt att vi skulle köpa en billig bil.
+("Vi köper en bil!")
+
+Vi tänkte fortsätta söderut tills pengarna tog slut.
+("Vi fortsätter, tills pengarna tar slut!")
+
+Janne tyckte inte, att det var någon idé.
+("Det är ingen idé!")
+
+Han tyckte att det inte spelade någon roll om bilen
+skramlade lite och var rostig, eftersom vi bara skulle
+använda den under semestern.
+("Det spelar ingen roll om bilen skramlar lite och är
+lite röstig, eftersom vi bara ska använda den under
+semestern!")
+
+När vi skulle åka hem, började det regna.
+("Det börjar regna!")
+
+En besättningsman vinkade åt oss att vi skulle åka ombord.
+("Åk ombord!")
+
+Men i stället fastnade backväxeln så att vi bara kunde
+åka bakåt.
+("Vi kan bara åka bakåt!")
+
+Vi blev rädda att vi skulle välta.
+("Hjälp, nu välter vi!")
+
+Till slut bestämde vi att vi skulle fortsätta trots allt.
+("Vi fortsätter!")
 
 
 * Övningar i Lärobok
@@ -3548,6 +3635,36 @@ tack!" sa vi, "vi tar tåget hem!"
 8. Hon var så duktig att hon vann pris.
 9. Hon blev så gammal att hon trodde inte skulle orka.
 10. Hon var så lat att hon inte gjorde några läxor.
+
+** p.153: Tempusharmoni -- vad sa/frågade de?
+
+A sa, att han tyckte att Volvo Amazon var en bra bil.
+B undrade vad vi skulle göra.
+C frågade om det inte var dags att köra.
+D sa att han tyckte att bilen gick bra.
+E undrade varför bilen inte startade.
+F sa att bilen var trasig.
+G frågade varför man måste ta en försäkring.
+H undrade om bilen fått plats på färjan.
+I frågade om batteriet fungerade.
+J frågade hur många växlar fanns det.
+K sa att bromsarna inte tog.
+L frågade om du verkligen kunde köra.
+M sa att han skulle bara backa in i garaget.
+N sa att ratten var lite trög.
+O frågade om han hade körkort.
+P sa att han tyckte att bilen var en rishög.
+Q sa att vi hade fått motorstopp.
+R undrade om växeln hade fastnat.
+S frågade när vi kunde hämta bilen.
+T undrade hur bakhjulet var.
+U frågade om det var punktering.
+V undrade om bensinen räckte.
+X sa att han slog av motorn.
+Z sa att bilen skramlade.
+Å frågade om du kunde sätta på lyset.
+Ä sa att han skulle prova att starta.
+Ö sa att där vi kunde parkera.
 
 
 * Övningar del 1
