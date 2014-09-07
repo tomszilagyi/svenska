@@ -596,6 +596,14 @@ punktering (en)                         puncture, flat / gumidefekt, (ki)pontoz�
 steg (ett)                              step (also fig.) / lépés (átv. is), lábnyom, lépcsőfok
 motorstopp (ett)                        engine breakdown / motorhiba
 ratt (en)                               steering wheel / kormánykerék
+akvarium (ett)                          aquarium, fish tank / akvárium
+prick (en)                              spot, dot / pont, folt(ocska), petty
+fena (en)                               fin / uszony, úszószárny
+svärd (ett)                             sword / kard
+tagg (en)                               barb, spike, thorn / tüske, tövis, (vminek a) hegy(e)
+vinge (en)                              wing / szárny, vitorla
+häst (en)                               horse / ló, paripa
+sjöhäst (en)                            seahorse / tengeri csikó (hal)
 
 ** VERB - VERBS - IGÉK
 
@@ -900,6 +908,13 @@ gunga                                   swing / hintázik, himbálódzik, ring, 
 välta                                   overturn / felfordít, -borít, -dönt, felfordul, -borul, -dől
 le [log, lett]                          smile / mosolyog
 råka  [råka ut för en olycka]           meet, chance (happen) to, get (fall) into, find oneself in [have an accident] / találkozik, összeakad, (el)talál, véletlenül történik vele
+föda                                    give birth to, give rise to, feed / szül, világra hoz, létrehoz, kelt, tenyészt
+förvandla                               change, turn into, transform / (át/meg)változtat, átalakít
+bryta [bröt, brutit]                    break / (el/le/fel/össze/meg)tör, (le/meg)szakít, megszeg
+akta                                    guard, protect, take care of, be careful with / vigyáz, ügyel, óv, kímél, értékel, becsül, fontosnak tart, tekint, vél, tart; ~ sig: őrizkedik, óvakodik
+jaga                                    hunt, chase [away] / vadászik, (ki)űz, kerget, üldöz, hajszol, kergetőzik, száguld, nyargal, rohan
+slåss [slogs, slagits]                  fight / verekedik, verekszik, küzd, harcol
+bråka                                   kick up a fuss, fight, cause trouble, make a noise / zajong, lármázik, zűrt csinál, akadékoskodik, kötekedik, veszekszik
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1001,7 +1016,7 @@ fyrfaldig                               fourfold, quadruple / négyszeres, négy
 lycklig                                 happy, fortunate, blessed / szerencsés, boldog
 orolig                                  worried, restless / aggódó, nyugtalan
 otrolig                                 incredible, unbelievable / hihetetlen, képtelen
-lätt                                    light, slight, easy, gentle / könnyű, könnyed, enyhe, gyenge
+lätt                                    light, slight, easy, gentle, readily / könnyű, könnyed, enyhe, gyenge, könnyedén
 öppet                                   open / nyitott, nyílt
 stängt                                  closed / zárt, zárva lévő
 förvånad                                surprised, astonished, amazed / csodálkozó, elképedt, meglepett
@@ -1067,6 +1082,8 @@ tvungen                                 forced / kényszerített, kényszerű, s
 sönder  [gå sönder]                     broken  [break] / szét, széjjel, össze, darabokra, apróra, ketté, tönkre  [elromlik]
 platt                                   flat, level, smooth / lapos, sekélyes, ízetlen
 stackars                                poor [expr. sympathy] / szegény, szerencsétlen
+väldig                                  huge, almighty, colossal, mountainous / hatalmas, nagy erejű, roppant, szörnyű
+ömtålig                                 fragile, delicate, easily damaged, susceptible, feeble / érzékeny, fájó(s), törékeny, gyenge, romlandó, kényes
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -2433,6 +2450,33 @@ Vi blev rädda att vi skulle välta.
 
 Till slut bestämde vi att vi skulle fortsätta trots allt.
 ("Vi fortsätter!")
+
+** ADJEKTIV I BESTÄMD FORM (p.155)
+
+*Attributivt*
+
+| fristående adjektivartikel | ADJ + adjektivändelse | SUBST - substantivändelse |
+| den                        | gröna                 | bilen                     |
+| det                        | gröna                 | huset                     |
+| de [dom]                   | gröna                 | bilarna                   |
+
+*Predikativt*: obestämd form på adjektivet
+- bilen är grön
+- huset är grönt
+- bilarna är gröna
+
+** ADJEKTIVETS FORMER (p.155)
+
+|          | obestämd form | bestämd form |
+|----------+---------------+--------------|
+| en-ord   | -             | -a           |
+| ett-ord  | -t            | -a           |
+| pluralis | -a            | -a           |
+
+Alltså:
+- Är adjektivet *obestämt* och beskriver ett *en-ord*? Gör ingenting!
+- Är adjektivet *obestämt* och beskriver ett *ett-ord*? Lägg till ett *-t*!
+- Alla andra fall: Lägg till ett *-a*!
 
 
 * Övningar i Lärobok
