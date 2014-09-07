@@ -604,6 +604,14 @@ tagg (en)                               barb, spike, thorn / tüske, tövis, (vm
 vinge (en)                              wing / szárny, vitorla
 häst (en)                               horse / ló, paripa
 sjöhäst (en)                            seahorse / tengeri csikó (hal)
+toffel (en) [tofflor; mest i plural]    slipper / papucs, házicipő
+klädsel (en) [klädseln, klädslar]       dress, clothing / öltözet, ruha
+manchesterbyxor                         corduroys / kordbársony nadrág
+stål (ett)                              steel / acél
+peruk (en)                              wig / paróka
+fruntimmer (ett, -ret)                  woman, female (pej.) / nőszemély, fehérnép
+kostym (en)                             suit / öltöny
+tangent (en)                            key / billentyű, gomb
 
 ** VERB - VERBS - IGÉK
 
@@ -915,6 +923,8 @@ akta                                    guard, protect, take care of, be careful
 jaga                                    hunt, chase [away] / vadászik, (ki)űz, kerget, üldöz, hajszol, kergetőzik, száguld, nyargal, rohan
 slåss [slogs, slagits]                  fight / verekedik, verekszik, küzd, harcol
 bråka                                   kick up a fuss, fight, cause trouble, make a noise / zajong, lármázik, zűrt csinál, akadékoskodik, kötekedik, veszekszik
+väsa                                    hiss / sziszeg, sistereg
+blanda                                  blend, mix, mingle / (össze)kever, vegyít, cserél; ~ ihop: össze/elkever, összecserél
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1084,6 +1094,11 @@ platt                                   flat, level, smooth / lapos, sekélyes, 
 stackars                                poor [expr. sympathy] / szegény, szerencsétlen
 väldig                                  huge, almighty, colossal, mountainous / hatalmas, nagy erejű, roppant, szörnyű
 ömtålig                                 fragile, delicate, easily damaged, susceptible, feeble / érzékeny, fájó(s), törékeny, gyenge, romlandó, kényes
+smart                                   sly, sharp, smart / élelmes, furfangos, hétpróbás, ügyes
+glamorös                                glamorous / elbűvölő
+dum                                     stupid / ostoba, buta
+glömsk                                  forgetful / feledékeny
+frågvis                                 inquisitive, curious / kérdezősködő, kíváncsi, tudni vágyó
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -2478,6 +2493,28 @@ Alltså:
 - Är adjektivet *obestämt* och beskriver ett *ett-ord*? Lägg till ett *-t*!
 - Alla andra fall: Lägg till ett *-a*!
 
+** ADJEKTIV BESTÄMD FORM (p.156)
+
+*Adjektiv i bestämd form* slutar alltid på *-a*
+
+| en-ord   | den röda skjortan, den svenska flaggan, den varma sommaren |
+| ett-ord  | det röda skärpet, det svenska stålet, det gröna gräset     |
+| pluralis | de röda byxorna, de vackra skärpen, de gröna ränderna      |
+
+Efter *min*, *samma*, *nästa* har /substantivet obestämd form/ men /adjektivet bestämd form/.
+
+| en-ord  | min röda skjorta, din gröna peruk, hans nya kostym, samma gamla hatt |
+| ett-ord | mitt röda skärp, ditt stora problem, samma gamla program             |
+| plural  | mina röda byxor, era svenska lektioner, samma dumma frågor           |
+
+Om substantivet är maskulinum, slutar adjektivet ofta på *-e* i bestämd form:
+den gamle mannen, den snälle pojken, den unge läraren, min käre son
+
+
+Ord på *-ande* böjer man inte. Exempel:
+- den blinkande fyrkanten
+- en blinkande fyrkant
+
 
 * Övningar i Lärobok
 
@@ -3709,6 +3746,71 @@ Z sa att bilen skramlade.
 Å frågade om du kunde sätta på lyset.
 Ä sa att han skulle prova att starta.
 Ö sa att där vi kunde parkera.
+
+** p.157: Den smutsiga flickan
+
+Den smutsiga flickan ville inte tvätta sig.
+Den lata pojken ville inte göra något.
+Den frågvisa journalisten ville veta allt.
+Den snälla expediten hjälpte oss.
+Den duktiga vaktmästaren körde ut oss.
+Det arga barnet skrek hela tiden.
+Den smarta eleven klarade alla frågor.
+Den elaka ynglingen visade sina muskler.
+Det sjuka statsrådet avgick.
+Den rika kvinnan köpte kläder på NK.
+Den glömska chefen tog inte emot.
+Det sura fruntimret skällde på alla.
+Den trötta hemmafrun orkade inte mer.
+Det vänliga ombudet skötte förhandlingarna.
+Den glamorösa filmstjärnan gav en intervju.
+Den hjälpsamma läraren avslutade lektionen.
+
+** p.157: Det färgglada tangentbordet
+
+1. Den gula tangenten flyttar markören till början av texten.
+2. Med den gröna tangenten sparar du texten i minnet.
+3. Den röda tangenten suddar ut hela texten.
+4. Den svarta tangenten suddar ut den sista meningen.
+5. Den blåa tangenten flyttar markören till slutet av texten.
+6. Den bruna tangenten öppnar ett nytt dokument.
+
+** p.158: Skriv i bestämd form
+
+Det gröna skärpet
+Den bruna byxorna
+Den gula slipsen
+Min snälla farmor
+Det stora huset
+Min ljusa kostym
+Den spännande boken
+Hennes nya glasögon
+Den goda maten
+Det långa brevet
+Samma tråkiga övning
+Vår duktiga klass
+Deras nya hus
+Den intressanta artikeln
+Det dyra vinet
+Er stora problem
+De vita blommorna
+Din fina kort
+Den starka lampan
+Den tuffa journalisten
+Den trötta läkaren
+
+** p.158: Vad handlar boken om?
+
+| Det svarta guldet        | olja               |
+| Den röda vägen           | om socialism       |
+| Den kalla natten         | en detektivroman   |
+| Det stora spelet         | maktpolitik        |
+| Det glada sextiotalet    | en svensk popgrupp |
+| Den svåra frågan         | religion           |
+| Den gula metallen        | guld               |
+| Det svenska språket      | svensk grammatik   |
+| Den långa boulevarden    | kärlek i Paris     |
+| Det blågula alternativet | svensk ekonomi     |
 
 
 * Övningar del 1
