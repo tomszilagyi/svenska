@@ -614,6 +614,19 @@ kostym (en)                             suit / öltöny
 tangent (en)                            key / billentyű, gomb
 tätort (en)                             population centre / beépített v. lakott terület, település, (nagyobb) helység
 slott (ett)                             manor house, castle, palace / kastély, palota, (királyi) vár
+sed (en)                                custom, usage, practice / szokás, hagyomány(os életmód), erkölcs, modor, magatartás
+samband (ett)                           relation, connection / összefüggés, összeköttetés, kapcsolat
+kristendom (en)                         Christianity / kereszténység
+påskkäring (en)                         Easter witch / böjti boszorkány
+påskafton (en)                          Easter Saturday / nagyszombat
+häxa (en)                               witch / boszorkány
+djävul (en)                             devil, fiend / ördög
+skärtorsdag (en)                        Maundy Thursday / nagycsütörtök
+kvast (en)                              broom / seprű
+Hin Håle                                the devil / az ördög
+teckning (en)                           drawing / rajz
+målning (en)                            painting / festmény
+klänning (en)                           dress, gown / (női) ruha, köntös
 
 ** VERB - VERBS - IGÉK
 
@@ -927,6 +940,8 @@ slåss [slogs, slagits]                  fight / verekedik, verekszik, küzd, ha
 bråka                                   kick up a fuss, fight, cause trouble, make a noise / zajong, lármázik, zűrt csinál, akadékoskodik, kötekedik, veszekszik
 väsa                                    hiss / sziszeg, sistereg
 blanda                                  blend, mix, mingle / (össze)kever, vegyít, cserél; ~ ihop: össze/elkever, összecserél
+trolla                                  conjure, fig. make magic, do tricks / varázsol, boszorkányságot űz, bűvészkedik
+kopulera                                copulate / közösül
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1101,6 +1116,7 @@ glamorös                                glamorous / elbűvölő
 dum                                     stupid / ostoba, buta
 glömsk                                  forgetful / feledékeny
 frågvis                                 inquisitive, curious / kérdezősködő, kíváncsi, tudni vágyó
+högklackad                              high-heeled / magassarkú
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1157,7 +1173,7 @@ alltså                                  in other words, that is to say
 sent                                    late
 snart                                   soon, shortly / nemsoká, hamarosan
 dessutom                                besides, moreover, in addition, furthermore
-helst                                   rather, preferably
+helst  [vad som helst]                  rather, preferably, any, any way, any how  [just about anything]
 ändå                                    still, yet
 ännu                                    yet, still, even
 heller                                  nor, neither, either, also
@@ -1249,6 +1265,7 @@ dess  [ju förr dess bättre]             the  [the sooner the better]
 dags  [det är dags att gå hem]          time  [it's time to go home] / ideje vminek
   hur dags?                               (at) what time? / mikor? mely időben?
   i går så här dags                       tegnap ilyenkor
+förr  [förr i världen]                  before / előbb, korábban  [egykor, hajdan, régebben]
 
 eller hur?                              isn't it?, aren't you?, etc. / ugye?, nemde?
 flermiljonfråga                         multi-million question
@@ -2516,6 +2533,28 @@ den gamle mannen, den snälle pojken, den unge läraren, min käre son
 Ord på *-ande* böjer man inte. Exempel:
 - den blinkande fyrkanten
 - en blinkande fyrkant
+
+** OREGELBUNDNA ADJEKTIV I BESTÄMD FORM (p.161)
+
+ADJEKTIV på *-er, -el, -en (-e- försvinner)*
+| vacker | vackra                 | det vackra huset  |
+| enkel  | enkla                  | den enkla frågan  |
+| vaken  | vakna                  | de vakna pojkarna |
+|--------+------------------------+-------------------|
+| liten  | lilla - små (pluralis) | det lilla huset   |
+|        |                        | den lilla staden  |
+|        |                        | de små flickorna  |
+
+(Participial)adjektiv på *-ad: e* i bestämd form och pluralis.
+
+I obetonade stavelser kan man inte ha två a:n efter varandra.
+
+| intresserad      | intresserade | den intresserade läraren |
+| förvånad         | förvånade    | det förvånade biträdet   |
+| högklackad       | högklackade  | de högklackade skorna    |
+|------------------+--------------+--------------------------|
+| gammal           | gamla        | den gamla kvinnan        |
+| (m+a försvinner) |              | det gamla huset          |
 
 
 * Övningar i Lärobok
@@ -3813,6 +3852,44 @@ Den trötta läkaren
 | Det svenska språket      | svensk grammatik   |
 | Den långa boulevarden    | kärlek i Paris     |
 | Det blågula alternativet | svensk ekonomi     |
+
+** p.161: En nyttig övning
+
+|                  | en nyttig övning       |
+| den              | den nyttiga övningen   |
+| enkel            | den enkla övningen     |
+| frågor           | de enkla frågorna      |
+| dum              | de dumma frågorna      |
+| mina             | mina dumma frågor      |
+| förslag (sing.)  | mitt dumma förslag     |
+| det              | det dumma förslaget    |
+| klok             | det kloka förslaget    |
+| hennes           | hennes kloka förslag   |
+| morfars          | morfars kloka förslag  |
+| gammal           | morfars gamla förslag  |
+| hus              | morfars gamla hus      |
+| det              | det gamla huset        |
+| stor             | det stora huset        |
+| mitt             | mitt stora hus         |
+| ny               | mitt nya hus           |
+| ett              | ett nytt hus           |
+| modern           | ett modernt hus        |
+| våning           | en modern våning       |
+| många            | många moderna våningar |
+| dyr              | många dyra våningar    |
+| presenter        | många dyra presenter   |
+| hans             | hans dyra presenter    |
+| den              | den dyra presenten     |
+| fin              | den fina presenten     |
+| universitet      | det fina universitetet |
+| ett              | ett fint universitet   |
+| berömd           | ett berömt universitet |
+| skola            | en berömd skola        |
+| de               | de berömda skolorna    |
+| författare (pl.) | de berömda författarna |
+| en               | en berömd författare   |
+| duktig           | en duktig författare   |
+| elev             | en duktig elev         |
 
 
 * Övningar del 1
