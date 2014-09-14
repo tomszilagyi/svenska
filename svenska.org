@@ -612,6 +612,8 @@ peruk (en)                              wig / paróka
 fruntimmer (ett, -ret)                  woman, female (pej.) / nőszemély, fehérnép
 kostym (en)                             suit / öltöny
 tangent (en)                            key / billentyű, gomb
+tätort (en)                             population centre / beépített v. lakott terület, település, (nagyobb) helység
+slott (ett)                             manor house, castle, palace / kastély, palota, (királyi) vár
 
 ** VERB - VERBS - IGÉK
 
