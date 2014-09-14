@@ -627,6 +627,9 @@ Hin Håle                                the devil / az ördög
 teckning (en)                           drawing / rajz
 målning (en)                            painting / festmény
 klänning (en)                           dress, gown / (női) ruha, köntös
+skärgård (en)                           archipelago / szigetvilág, (partmenti) sziklaszigetek
+spårvagn (en)                           tram / villamos
+vimmel (ett)                            crowd / nyüzsgés, hemzsegés, nyüzsgő sokaság, tömeg
 
 ** VERB - VERBS - IGÉK
 
@@ -942,6 +945,7 @@ väsa                                    hiss / sziszeg, sistereg
 blanda                                  blend, mix, mingle / (össze)kever, vegyít, cserél; ~ ihop: össze/elkever, összecserél
 trolla                                  conjure, fig. make magic, do tricks / varázsol, boszorkányságot űz, bűvészkedik
 kopulera                                copulate / közösül
+strosa                                  stroll, mooch / csatangol, kószál, ténfereg
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1117,6 +1121,9 @@ dum                                     stupid / ostoba, buta
 glömsk                                  forgetful / feledékeny
 frågvis                                 inquisitive, curious / kérdezősködő, kíváncsi, tudni vágyó
 högklackad                              high-heeled / magassarkú
+mysig                                   cosy / meghitt, barátságos, kényelmes
+oslagbar                                unbeatable / verhetetlen, legyőzhetetlen
+hederlig                                honourable, honest / becsületes, tisztességes, jóravaló, derék, megtisztelő, tekintélyes, bőséges, bőkezű
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -2555,6 +2562,62 @@ I obetonade stavelser kan man inte ha två a:n efter varandra.
 |------------------+--------------+--------------------------|
 | gammal           | gamla        | den gamla kvinnan        |
 | (m+a försvinner) |              | det gamla huset          |
+
+** REGELBUNDEN KOMPARATION (p.164)
+
+| KOMPARATIV    | SUPERLATIV    |
+| ADJ -are      | ADJ -ast      |
+|---------------+---------------|
+| hederligare   | hederligast   |
+| dummare       | dummast       |
+| billigare     | billigast     |
+| intressantare | intressantast |
+| populärare    | populärast    |
+| elegantare    | elegantast    |
+| vanligare     | vanligast     |
+| kallare       | kallast       |
+| säkrare       | säkrast       |
+| enklare       | enklast       |
+
+** OREGELBUNDEN KOMPARATION (p.164)
+
+|               | KOMPARATIV | SUPERLATIV |
+| Med omljud:   | ADJ -are   | ADJ -ast   |
+|---------------+------------+------------|
+| stor          | större     | störst     |
+| hög           | högre      | högst      |
+| låg           | lägre      | lägst      |
+| lång          | längre     | längst     |
+| tung          | tyngre     | tyngst     |
+| ung           | yngre      | yngst      |
+| få            | färre      | -          |
+|---------------+------------+------------|
+| Oregelbundna: |            |            |
+|---------------+------------+------------|
+| bra           | bättre     | bäst       |
+| dålig         | sämre      | sämst      |
+| dålig         | värre      | värst      |
+| gammal        | äldre      | äldst      |
+| liten         | mindre     | minst      |
+| mycket        | mer        | mest       |
+| många         | fler       | flest      |
+
+Particip och adjektiv på *-ande*, *-ad* och *-isk*
+| fascinerade | mer fascinerade | mest fascinerade |
+| intresserad | mer intresserad | mest intresserad |
+| typisk      | mer typisk      | mest typisk      |
+
+*Hur man jämför*
+
+Jag är starkare *än* du.
+Jag är lika stark *som* du.
+
+Du och jag är *lika starka*.
+Jag är *mycket* starkare än du.
+Du är stark, men jag är *ännu* starkare.
+Vem är *starkast* av dig och mig?
+-Jag är *starkast*.
+Det finns två vägar. Vilken är *kortast*?
 
 
 * Övningar i Lärobok
