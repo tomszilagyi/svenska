@@ -1124,6 +1124,10 @@ högklackad                              high-heeled / magassarkú
 mysig                                   cosy / meghitt, barátságos, kényelmes
 oslagbar                                unbeatable / verhetetlen, legyőzhetetlen
 hederlig                                honourable, honest / becsületes, tisztességes, jóravaló, derék, megtisztelő, tekintélyes, bőséges, bőkezű
+avundsjuk                               jealous, envious / irigy, féltékeny
+jobbig                                  strenuous, tough [of people: trying] / megerőltető, fáradságos, strapás
+begåvad                                 talented, gifted / tehetséges
+ful                                     ugly, nasty, foul / csúnya, rút, ronda, rossz
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1418,6 +1422,9 @@ Man kan aldrig lära gamla hundar att sitta.
 Tala är silver, tiga är guld.           Speech is silver, silence is golden.
 
 inte kunna göra en fluga förnär         a légynek sem tudna ártani
+
+Borta bra, men hemma bäst               There's no place like home / Mindenhol jó, de legjobb otthon.
+Ju fler kockar, desto sämre soppa!      Too many cooks will spoil the broth / Sok bába közt elvész a gyerek.
 
 ** Några uttryck med djur
 
@@ -3953,6 +3960,26 @@ Den trötta läkaren
 | en               | en berömd författare   |
 | duktig           | en duktig författare   |
 | elev             | en duktig elev         |
+
+** p.166: Sverige är större än Danmark!
+
+Sverige är rikare än mitt land.
+Mammor är svagare än pappor.
+Pojkar är starkare än flickor.
+Blod är tyngre än vatten.
+Järn är grövre än bomull.
+Lärare är äldre än elever.
+Sommaren är varmare än vintern.
+Svenska är enklare än engelska.
+Lördagar är bättre än måndagar.
+Att gå på disko är roligare än att göra läxor.
+Mjölk är lättare än vin.
+Vin är smakligare än mjölk.
+Kaffe utan socker är surare än kaffe med socker.
+Danskar är snyggare än Svenskar.
+Natten är kallare än dagen.
+Att bo på landet är billigare än att bo i staden.
+Att bo ensam är oroligare än att bo tillsammans med någon.
 
 
 * Övningar del 1
