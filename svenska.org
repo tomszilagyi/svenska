@@ -630,6 +630,13 @@ klänning (en)                           dress, gown / (női) ruha, köntös
 skärgård (en)                           archipelago / szigetvilág, (partmenti) sziklaszigetek
 spårvagn (en)                           tram / villamos
 vimmel (ett)                            crowd / nyüzsgés, hemzsegés, nyüzsgő sokaság, tömeg
+kärlek (en)                             love / szerelem, szeretet
+rad (en)                                series, row, line / sor (írott, nyomtatott is), sorozat
+hjärtegull (ett)                        sweetheart / drága, kedves
+trakt (en) [särskilt på landet]         parts, region / vidék, tájék, környék
+åkermark (en)                           arable land, field / szántóföld
+ämbetsverk (ett)                        bureau, govt.dept. / (állami fő)hivatal, országos hivatal, (fő)hatóság
+yttrande (ett)                          statement / kijelentés, nyilatkozat, vélemény
 
 ** VERB - VERBS - IGÉK
 
@@ -1128,6 +1135,8 @@ avundsjuk                               jealous, envious / irigy, féltékeny
 jobbig                                  strenuous, tough [of people: trying] / megerőltető, fáradságos, strapás
 begåvad                                 talented, gifted / tehetséges
 ful                                     ugly, nasty, foul / csúnya, rút, ronda, rossz
+långsam                                 slow / lassú, késedelmes
+stygg [barnord]                         nasty, naughty / rossz, rakoncátlan, engedetlen, csúnya, csúf, undok, komisz
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -2626,6 +2635,42 @@ Vem är *starkast* av dig och mig?
 -Jag är *starkast*.
 Det finns två vägar. Vilken är *kortast*?
 
+** ADJEKTIV I SUPERLATIV + SUBSTANTIV
+
+Adjektivet har bestämd form (med eller utan artikel).
+Bestämdhetsändelsen i superlativ är:
+
+*-e* i normalfallet (eftersom ändelsen i superlativ slutar på -ast,
+och man inte kan ha två a:n efter varandra i obetonade stavelser.
+
+- min intressantaste bok
+- min dyraste kamera
+- mitt svåraste problem
+- de billigaste byxorna
+- mina närmaste släktingar
+- den konstigaste tavlan
+
+*-a* till de 15 oregelbundna adjektiven med omljud:
+
+- min yngsta bror
+- mitt sämsta ämne
+- mina bästa vänner
+- den högsta skatten i landet
+- det värsta vädret på länge
+- de minsta barnen i skolan
+
+*Jämförelser*
+
+*vilken?* -- frågar efter *en*-ord:
+- vilken är störst av en älg och en ren?
+- vilken stad är störst av Shanghai och Mexico City?
+
+*vilket?* -- frågar efter *ett*-ord:
+- vilket (land) är störst av Sverige och Norge?
+och *ämnesnamn*:
+- vilket är dyrast av kaffe och te?
+- vilket är billigast av pappersnäsdukar och tygnäsdukar?
+
 
 * Övningar i Lärobok
 
@@ -3980,6 +4025,21 @@ Danskar är snyggare än Svenskar.
 Natten är kallare än dagen.
 Att bo på landet är billigare än att bo i staden.
 Att bo ensam är oroligare än att bo tillsammans med någon.
+
+** p.169: Öva själv:
+
+1. Vilken är störst av en älg och en ren?
+2. Vilket är godast av öl och vin?
+3. Vilken är svårast av piano och fiol?
+4. Vilken är regnigast av London och Göteborg?
+5. Vilket är högst av Mont Blanc och Kebnekaise?
+6. Vilken är dyrast av teater och bio?
+7. Vilken är lättast av spanska och italienska?
+8. Vilken är äldst av Aten och Stockholm?
+9. Vilken är roligast av ishockey och fotboll?
+10. Vilken är bäst av Volvo och Saab?
+11. Vilken är farligast av cigarretter och alkohol?
+12. Vilken är svårast av tyska och ryska?
 
 
 * Övningar del 1
