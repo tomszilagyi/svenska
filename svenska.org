@@ -637,6 +637,11 @@ trakt (en) [särskilt på landet]         parts, region / vidék, tájék, körn
 åkermark (en)                           arable land, field / szántóföld
 ämbetsverk (ett)                        bureau, govt.dept. / (állami fő)hivatal, országos hivatal, (fő)hatóság
 yttrande (ett)                          statement / kijelentés, nyilatkozat, vélemény
+picknick (en)                           picnic / piknik
+skull                                   sake
+  för en gång skull                       for once
+  för säkerhets skull                     for safety's sake
+  för din skull                           for your sake
 
 ** VERB - VERBS - IGÉK
 
@@ -701,6 +706,7 @@ ge (ger)                                give (also fig.: present, produce) / ad 
 leta efter ...                          look for ... / keres vmit
 fungera                                 function / működik, szerepet betölt
 ta emot                                 receive, accept / fogad (pl. látogatót)
+ta hand om                              take care of, look after / gondoz, gondját viseli, ügyel, ellát
 skaka [skakar ngn hand med X]           shake [shake hands with X]
 önska                                   wish, desire, want / kíván, óhajt, kér
 önska välkommen                         welcome / üdvözöl
@@ -1107,6 +1113,7 @@ rasande                                 furious, awfully, terribly / tomboló, d
 sur                                     sour, sulky / savanyú, fanyar (átv. is), savas, rosszkedvű, morcos, mogorva
 våt                                     wet (usually with water) / nedves, vizes, nyirkos
 svag                                    weak / gyenge, elgyöngült, bágyadt, erőtlen, engedékeny, elnéző, csekély
+skild                                   divorced, separated / elvált, elkülönített, elválasztott
 frånskild                               divorced / elvált
 gemensam                                common, collective / közös, együttes, közösségi, kollektív
 blivande                                becoming, intended / leendő, jövendő(beli), esetleges
@@ -1235,6 +1242,7 @@ vore (--> vara)                         were / lenne, volna
 vilse                                   lost, wrong / tévúton, tévútra, tévesen
 kors                                    crossways / keresztbe
 utantill                                by heart, from memory / könyv nélkül, kívülről, fejből, betéve
+sams [vara ~ med ngn]                   get on, [be] friendly [with another] / megfér, jó viszonyban, békességben van vkivel
 
 udda                                    odd / páratlan
 jämn                                    even, exact / páros, pontos(an annyi), kerek
@@ -1286,6 +1294,12 @@ dags  [det är dags att gå hem]          time  [it's time to go home] / ideje v
   hur dags?                               (at) what time? / mikor? mely időben?
   i går så här dags                       tegnap ilyenkor
 förr  [förr i världen]                  before / előbb, korábban  [egykor, hajdan, régebben]
+före                                    by, before, in front of / előtt, elé, előtti
+före detta                              ex-, late, former / korábbi, egykori, volt
+någonstans                              somewhere, anywhere / valahol, valahova, bárhol, bárhova
+någonsin                                ever / valamikor, valaha
+var för sig                             each (apart) / ki-ki, mindenki (külön-külön), mindegyik
+var och en, vart och ett                each and every / minden egyes, mindegyik
 
 eller hur?                              isn't it?, aren't you?, etc. / ugye?, nemde?
 flermiljonfråga                         multi-million question
@@ -2635,7 +2649,7 @@ Vem är *starkast* av dig och mig?
 -Jag är *starkast*.
 Det finns två vägar. Vilken är *kortast*?
 
-** ADJEKTIV I SUPERLATIV + SUBSTANTIV
+** ADJEKTIV I SUPERLATIV + SUBSTANTIV (p.169)
 
 Adjektivet har bestämd form (med eller utan artikel).
 Bestämdhetsändelsen i superlativ är:
@@ -2670,6 +2684,34 @@ och man inte kan ha två a:n efter varandra i obetonade stavelser.
 och *ämnesnamn*:
 - vilket är dyrast av kaffe och te?
 - vilket är billigast av pappersnäsdukar och tygnäsdukar?
+
+** 3:e PERSONS POSSESSIVPRONOMEN (p.172)
+
+*hans hennes deras sin sitt sina*
+
+"Sin" kan aldrig stå vid subjektet!
+
+Sin (sitt, sina) syftar på subjektet i samma sats.
+
+| Där går Kalle med /sin/ fru | Subjektets, dvs. Kalles fru |
+
+Hans, hennes eller deras syftar på någon annan/något annat/några andra
+än subjektet.
+
+| Kalle har en underbar fru.  | Inte subjektets, dvs. Nisses fru,   |
+| Nisse tycker om /hans/ fru. | utan någon annans, dvs. Kalles fru. |
+
+I en subjektsfras måste man alltid använda hans, hennes eller deras.
+
+| Där går Kalle        | Här finns /två subjekt/. "Hans fru" kan vara               |
+| och /hans/ fru.      | Kalles fru eller någon annans fru.                         |
+|----------------------+------------------------------------------------------------|
+| Kalle hörde att      | Här har vi /två satser/. "Hans fru" är subjekt i bisatsen. |
+| /hans/ fru kom.      | Därför kan man inte säga "sin". "Sin" syftar på subjektet  |
+|                      | i /samma/ sats och gäller inte /mellan/ satserna.          |
+|----------------------+------------------------------------------------------------|
+| De säger att hon     | Här går det bra med "sin" för det syftar tillbaka på       |
+| tycker om /sin/ man. | subjektet i samma sats.                                    |
 
 
 * Övningar i Lärobok
@@ -4040,6 +4082,19 @@ Att bo ensam är oroligare än att bo tillsammans med någon.
 10. Vilken är bäst av Volvo och Saab?
 11. Vilken är farligast av cigarretter och alkohol?
 12. Vilken är svårast av tyska och ryska?
+
+** p.173: Heter det sin, sitt eller sina?
+
+På bilden ser vi Jenny och sina föräldrar. Hon har fest, och till den
+har hon bjudit sina egna föräldrar. Mitt på bilden dansar hon med
+Jakob, som är sin bror. Bakom dem dansar sina föräldrar med varandra.
+De tycker att det är roligt att sina barn har bjudit in dem på fest
+för en gångs skull. Jennys pappa är snart femtio, men sina
+ungdomsdanser har han inte glömt. Han kommer ihåg vad snygg sin fru
+var, när de träffades på skoldans i sin skola. Nu ska de visa sina
+barn, hur de dansade på sin tid! I en stol sitter Jennys syster Fanny
+och ser på, när sina syskon och föräldrar dansar. Hon och sin syster
+brukar ofta ha fest för sina vänner.
 
 
 * Övningar del 1
