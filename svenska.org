@@ -642,6 +642,8 @@ skull                                   sake
   för en gång skull                       for once
   för säkerhets skull                     for safety's sake
   för din skull                           for your sake
+begåvning (en)                          aptitude, talent, gift / tehetség, képesség, rátermettség, adottság
+modersmål (ett)                         mother tongue / anyanyelv
 
 ** VERB - VERBS - IGÉK
 
@@ -806,6 +808,7 @@ värna                                   protect / védelmez, oltalmaz, megvéd,
 avskaffa                                do away with, get rid of, abolish / megszüntet, eltöröl, véget vet, hatályon kívül helyez
 hålla                                   hold, keep, grasp, grip / (meg/be/fenn)tart
   hålla tal                               give a speech / beszédet mond
+  hålla av                                be fond of, be attached to, love / szeret vkit, ragaszkodik vkihez
 behålla                                 retain, keep, hold onto / megtart, fenntart, megőriz
 fundera                                 think, ponder / elgondolkozik, megfontol, fontolgat, töpreng
 beundra                                 admire / (meg)csodál, (meg)bámul, rajong
@@ -959,6 +962,7 @@ blanda                                  blend, mix, mingle / (össze)kever, vegy
 trolla                                  conjure, fig. make magic, do tricks / varázsol, boszorkányságot űz, bűvészkedik
 kopulera                                copulate / közösül
 strosa                                  stroll, mooch / csatangol, kószál, ténfereg
+gräla                                   quarrel, scold, argue, dispute, fight / veszekszik, pörlekedik, civakodik
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -2713,6 +2717,25 @@ I en subjektsfras måste man alltid använda hans, hennes eller deras.
 | De säger att hon     | Här går det bra med "sin" för det syftar tillbaka på       |
 | tycker om /sin/ man. | subjektet i samma sats.                                    |
 
+** DENNE / DENNA / DESSA (p.175)
+
+Örjan (*maskulinum*) fick bo hos sin morbror (*maskulinum*).
+| *Denne* hade fått ett stipendium. | denne = morbrorn |
+| Jämför: Han hade fått stipendium. | han = Örjan      |
+
+Beata (*femininum*) träffade sin faster (*femininum*).
+| *Denna* blev mycket glad. | denna = fastern |
+| Hon blev mycket glad.     | hon = Beata     |
+
+Om det finns *två* maskuliner eller *två* femininer i en mening brukar
+man syfta tillbaka till subjektet med *han* eller *hon* och till
+objektet med *đenne* eller *denna* (i skrift). I talspråk använder man
+oftast *han* eller *hon* för både subjektet och objektet.
+
+För plural gäller *de* och *dessa*: Hans och Greta vinkade av sina
+barn. *Dessa* (barnen) skulle åka bort på skollovet och *de* (Hans och
+Greta) var lite oroliga.
+
 
 * Övningar i Lärobok
 
@@ -4095,6 +4118,81 @@ var, när de träffades på skoldans i sin skola. Nu ska de visa sina
 barn, hur de dansade på sin tid! I en stol sitter Jennys syster Fanny
 och ser på, när sina syskon och föräldrar dansar. Hon och sin syster
 brukar ofta ha fest för sina vänner.
+
+** p.174: Vad säger de?
+
+Erik: Jag ska ringa till min svåger ikväll.
+Han säger att han ska ringa till sin svåger ikväll.
+
+Eva: Jag säljer aldrig mitt gamla hus.
+Hon säger att hon säljer aldrig sitt gamla hus.
+
+Jesper: Jag håller av mina föräldrar.
+Han säger att han håller av sina föräldrar.
+
+Maria: Jag och mina barn ska åka till Orsa på semester.
+Hon säger att hon och hennes barn ska åka till Orsa på semester.
+
+Gunnar: Jag och min bror ska åka och hälsa på hans fru.
+Han säger att han och hans bror ska åka och hälsa på hans fru.
+
+Helen: Min man lyssnar aldrig på mig.
+Helen säger att hennes man lyssnar aldrig på henne.
+
+Mårten: Mina barn kommer hem till julen.
+Mårten säger att hans barn kommer hem till julen.
+
+Doris: Jag ska byta mitt efternamn.
+Doris säger att hon ska byta sitt efternamn.
+
+Greta: Vi ska hälsa på våra barn och deras vänner.
+Hon säger att de ska hälsa på sina barn och deras vänner.
+
+Ulla: Vi ska sälja vårt sommarställe.
+Hon säger att de ska sälja sitt sommarställe.
+
+Karin: Vi ska skicka vår nya adress till alla våra vänner.
+Hon säger att de ska skicka sin nya address till alla sina vänner.
+
+Olof: Vår familj består av fem personer.
+Han säger att deras familj består av fem personer.
+
+Claes: Vi grälar alltid med våra grannar.
+Han säger att de grälar alltid med sina grannar.
+
+Anna: Vårt klassrum är alldeles för kallt.
+Hon säger att deras klassrum är alldeles för kallt.
+
+Max: Våra lärare ger oss för lite läxor.
+Han säger att deras lärare ger dem för lite läxor.
+
+Ludvig: Jag är duktigare än min bror.
+Han säger att han är duktigare än sin bror.
+
+** p.174: Bostadsproblem
+
+Idag kan det vara svårt för ungdomar i Sverige att få tag på en egen
+bostad. Örjan är 25 år och han är för gammal för att bo hemma hos sina
+föräldrar. Det tycker både han själv och hans föräldrar. Hans flickvän
+Beata är lika gammal och hon bor tillsammans med sin mamma. Hennes
+föräldrar är skilda, och hennes far bor i Sundsvall.
+
+Örjan har en stor släkt, och det är tur, för när hans släktingar inte
+behöver sina lägenheter får han bo där. För något år sedan bodde han
+till exempel i sin kusins lägenhet, men nu är kusinen tillbaka igen.
+
+Förra året bodde Örjan hos sin morbror i två månader och för tre
+månader sedan kunde han flytta in i sin farbrors lägenhet. Denne hade
+nämligen fått ett stipendium för att studera i USA i två månader.
+
+Men nu är alltså Örjan hemma igen hos sina föräldrar, men om en månad
+flyttar hans bror Torsten, och då får Örjan bo i hans lägenhet i ett
+halvår. Sedan vill värden ha lägenheten. Ja, så där håller han på, och
+han är inte ensam. Det finns tusentals ungdomar utan egen lägenhet,
+särskilt i de stora städerna.
+
+Och politikerna, vad gör de? De sover sött på sina öron i sina stora
+villor och lägenheter.
 
 
 * Övningar del 1
