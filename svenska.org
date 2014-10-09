@@ -644,6 +644,17 @@ skull                                   sake
   för din skull                           for your sake
 begåvning (en)                          aptitude, talent, gift / tehetség, képesség, rátermettség, adottság
 modersmål (ett)                         mother tongue / anyanyelv
+orientering (en)                        orienteering / tájolás, tájékozódás, tájékozódó futás
+stafett (en)                            relay, relay race / (lovas)hírnök, hírvivő, (gyors)futár, küldönc, staféta
+arrangör (en)                           organizer, arranger / rendező, szervező
+mellanrum (ett)                         space, interval / térköz, távolság, időköz, szünet
+löpare (en)                             runner / futó
+väderstreck (ett)                       point of the compass / világtáj, égtáj
+kärr (ett)                              marsh, mire, swamp / mocsár, ingovány, láp
+funderare (en)                          think / meggondolás
+  ta sig en funderare [på ngt]            consider [sg] / meggondol, fontolóra vesz [vmit]
+mått (ett)                              measure(ment), size, dimensions / mérték, méret
+höjdkurva (en)                          contour line (on map)  / szintvonal (térképen)
 
 ** VERB - VERBS - IGÉK
 
@@ -715,6 +726,7 @@ skaka [skakar ngn hand med X]           shake [shake hands with X]
 krama                                   hug, squeeze / szorít, (meg/át)ölel
 buga                                    bow / meghajol
 kyssa [kysser] [süsszer]                kiss / (kezet) csókol
+dunka                                   throb, pound / üt, ver, dobog, dörömböl, zörget
 dunka ngn i ryggen                      pound sy on the back / megveregeti a vállát
 komma ihåg ngn                          recall/remember sy / emlékszik valakire
 låta [lät]                              sound / hangzik
@@ -963,6 +975,14 @@ trolla                                  conjure, fig. make magic, do tricks / va
 kopulera                                copulate / közösül
 strosa                                  stroll, mooch / csatangol, kószál, ténfereg
 gräla                                   quarrel, scold, argue, dispute, fight / veszekszik, pörlekedik, civakodik
+flämta                                  pant, puff, blow / liheg, zihál, pislákol, gyengén ég
+utöva                                   practise, exercise / gyakorol, folytat, űz, művel, elkövet
+pågå                                    go on, proceed, run / tart, fennmarad, folyamatban van, folyik
+stämpla                                 stamp / (le)bélyegez, (le)pecsétel, megjelöl
+löna sig                                be profitable, pays / kifizetődik, hasznot hajt, érdemes
+förminska                               diminish, miniaturize / kicsinyít, kisebbít, csökkent, leszállít
+tiga                                    keep silent / hallgat, csendben van
+hoa, hoande                             hoot (owl) / huhog (bagoly)
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1148,6 +1168,8 @@ begåvad                                 talented, gifted / tehetséges
 ful                                     ugly, nasty, foul / csúnya, rút, ronda, rossz
 långsam                                 slow / lassú, késedelmes
 stygg [barnord]                         nasty, naughty / rossz, rakoncátlan, engedetlen, csúnya, csúf, undok, komisz
+brant                                   steep, precipitous / meredek
+vild [vilt]                             wild [wildly] / vad [vadul]
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1247,6 +1269,7 @@ vilse                                   lost, wrong / tévúton, tévútra, tév
 kors                                    crossways / keresztbe
 utantill                                by heart, from memory / könyv nélkül, kívülről, fejből, betéve
 sams [vara ~ med ngn]                   get on, [be] friendly [with another] / megfér, jó viszonyban, békességben van vkivel
+fjärran                                 far off, distant, far away / távoli, távol/messze (eső), a távolban
 
 udda                                    odd / páratlan
 jämn                                    even, exact / páros, pontos(an annyi), kerek
@@ -1521,6 +1544,9 @@ FN [Förenta Nationerna]                 UN [United Nations] / ENSZ
 PRO [Pensionärernas Riksorganisation]   Swedish Pensioners' National Organization
 ATP [allmän tilläggspension]            general supplementary pension
 moms                                    VAT / ÁFA
+
+SM [svenska mästerskapet]               Swedish Championship
+VM [världsmästerskapet]                 World Championship
 
 ** Káromkodások, indulatszavak
 
@@ -2735,6 +2761,40 @@ oftast *han* eller *hon* för både subjektet och objektet.
 För plural gäller *de* och *dessa*: Hans och Greta vinkade av sina
 barn. *Dessa* (barnen) skulle åka bort på skollovet och *de* (Hans och
 Greta) var lite oroliga.
+
+** PRESENS PARTICIP (p.177)
+
+| där kommer en ung flicka springande                | adverb, ofta med "kommer"       |
+|                                                    | hur kommer hon?                 |
+|----------------------------------------------------+---------------------------------|
+| om halsen har hon en karta och en kompass hängande | adjektiv (= som hänger)         |
+|----------------------------------------------------+---------------------------------|
+| de tävlande samlas på en äng                       | substantiverat adjektiv         |
+|                                                    | (= tävlande personer)           |
+|----------------------------------------------------+---------------------------------|
+| i stället för att försöka läsa kartan springande   | adverb (= medan man springer)   |
+|----------------------------------------------------+---------------------------------|
+| runt omkring står träden svarta och tigande        | adjektiv (= som står och tiger) |
+|----------------------------------------------------+---------------------------------|
+| utom en ugglas hoande i fjärran                    | substantiv, ofta abstrakt och   |
+|                                                    | alltid neutrum                  |
+|----------------------------------------------------+---------------------------------|
+| med vilt dunkande hjärta                           | adjektiv                        |
+
+Presens particip har bara /en/ form, kan alltså inte böjas.
+Presens particip kan vara olika ordklasser och satsdelar.
+Som substantiv i neutrum kan det förstås böjas i pluralis:
+
+| ett hoande     | många hoanden |
+| som: ett äpple | många äpplen  |
+
+Hur bildar man presens particip?
+
+| Lägg till: |                                                  | Exempel:    |
+|------------+--------------------------------------------------+-------------|
+| -ande      | (efter konsonant) till stammen = imperativformen | spring/ande |
+| -ende      | (efter annan vokal än -a)                        | bo/ende     |
+| -nde       | (efter -a) till stammen = imperativformen        | tävla/nde   |
 
 
 * Övningar i Lärobok
@@ -4193,6 +4253,23 @@ särskilt i de stora städerna.
 
 Och politikerna, vad gör de? De sover sött på sina öron i sina stora
 villor och lägenheter.
+
+** p.177: Lutande tornet i Pisa
+
+Har du sett det lutande tornet i Pisa?
+Tror du på flygande tefat?
+Bilister måste se upp med lekande barn.
+Det var ett väldigt springande här!
+Han gick visslande förbi.
+Hennes vetande är verkligen stort.
+Finns det något meddelande till mig?
+Psykologerna undersöker människans betende.
+Han är djupt troende.
+Hon gav mig ett vackert leende.
+Han gick drömmande genom livet.
+Det är en lönande verksamhet.
+De kom cyklande på den gamla vägen.
+Han har ett levande intresse för språk.
 
 
 * Övningar del 1
