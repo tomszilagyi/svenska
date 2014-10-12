@@ -655,6 +655,17 @@ funderare (en)                          think / meggondolás
   ta sig en funderare [på ngt]            consider [sg] / meggondol, fontolóra vesz [vmit]
 mått (ett)                              measure(ment), size, dimensions / mérték, méret
 höjdkurva (en)                          contour line (on map)  / szintvonal (térképen)
+insjö (en)                              lake / tó
+fiskeplats (en)                         fishing spot / horgászóhely
+Östersjökusten                          Coast of Baltic Sea / Balti-tenger partja
+Västkusten                              the West Coast / Nyugati tengerpart
+fiskekort (ett)                         fishing licence (permit) / halászengedély
+gädda (en)                              pike / csuka
+lax (en)                                salmon / lazac
+strömming (en) [mindre sill från Östersjön]  Baltic (small) herring / (keleti-tengeri) hering
+öring (en), laxöring (en)               trout, salmon trout / lazacpisztráng, tengeri pisztráng
+kastspö (ett)                           casting rod / horgászbot
+drag (ett)                              stroke, move, line, trolling spoon, lure / húzás, rántás, vonás, lépés, huzat, horog
 
 ** VERB - VERBS - IGÉK
 
@@ -983,6 +994,10 @@ löna sig                                be profitable, pays / kifizetődik, has
 förminska                               diminish, miniaturize / kicsinyít, kisebbít, csökkent, leszállít
 tiga                                    keep silent / hallgat, csendben van
 hoa, hoande                             hoot (owl) / huhog (bagoly)
+leva                                    live / él
+  leva av, leva på                        live off / vmiből él
+borra                                   bore, drill / fúr, meg/kifúr
+fånga                                   capture, catch, arrest / elfog, megfog, letartóztat
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1170,6 +1185,8 @@ långsam                                 slow / lassú, késedelmes
 stygg [barnord]                         nasty, naughty / rossz, rakoncátlan, engedetlen, csúnya, csúf, undok, komisz
 brant                                   steep, precipitous / meredek
 vild [vilt]                             wild [wildly] / vad [vadul]
+färsk                                   fresh, new, recent / friss, új, fiatal
+lönsam                                  profitable / gazdaságos, jövedelmező, kifizetődő
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1270,6 +1287,7 @@ kors                                    crossways / keresztbe
 utantill                                by heart, from memory / könyv nélkül, kívülről, fejből, betéve
 sams [vara ~ med ngn]                   get on, [be] friendly [with another] / megfér, jó viszonyban, békességben van vkivel
 fjärran                                 far off, distant, far away / távoli, távol/messze (eső), a távolban
+numera                                  now, today / most már, immár, manapság, mostanában
 
 udda                                    odd / páratlan
 jämn                                    even, exact / páros, pontos(an annyi), kerek
@@ -1327,6 +1345,7 @@ någonstans                              somewhere, anywhere / valahol, valahova
 någonsin                                ever / valamikor, valaha
 var för sig                             each (apart) / ki-ki, mindenki (külön-külön), mindegyik
 var och en, vart och ett                each and every / minden egyes, mindegyik
+endast                                  only / csak, csupán, egyes-egyedül, hacsak
 
 eller hur?                              isn't it?, aren't you?, etc. / ugye?, nemde?
 flermiljonfråga                         multi-million question
@@ -1375,7 +1394,7 @@ Javisst ja.                             Hát persze.
 Inte särsklit.                          Semmi különös.
 
 det snöar                               it's snowing
-det regnar                              it's raining    
+det regnar                              it's raining
 det blåser                              the wind is blowing
 solen skiner                            the sun is shining
 himlen är blå                           the sky is blue
@@ -1433,14 +1452,14 @@ Ta reda på                              Find out
 Vi ses imorgon!                         See you tomorrow!
 Vi hörs!                                See you!
 Vi träffas ikväll!                      Meet you tonight!
-Vi säger det!                           
+Vi säger det!                           (concluding expression of agreement)
 
 Beklagar, men ...                       Sorry, but ...
 Får jag tala med ...                    May I talk to ...
 Det ät upptaget.                        It is busy.
 Ett ögonblick!                          Just a moment!
 Jag söker ...                           I'm looking for
-Vem kan jag hälsa från?                 
+Vem kan jag hälsa från?
 Kan du framföra det?                    Can you convey that?
 Han sitter tyvärr i sammanträde.        Unfortunately he is in a meeting.
 Hon är tyvärr på tjänsteresa.           She is unfortunately on a business trip.
@@ -1460,6 +1479,12 @@ en sak i taget                          one thing at a time / egyszerre egy dolo
 med rasande fart                        at breakneck speed / óriási v. őrült sebességgel
 det gör varken till eller (i)från       az semmit sem változtat a dolgokon; egyre megy
 Vart tog [han] vägen?                   What happened to [him]?
+
+var[t] som helst                        anywhere [to] / akárhol [akárhova]
+vad som helst                           anything / bármi
+när som helst                           anytime / bármikor
+hur som helst                           anyhow, anyway / bárhogy, akárhogyan is
+vem som helst                           anyone, anybody, whoever, whosoever / akárki, bárki
 
 ** Ordspråk
 
@@ -2795,6 +2820,19 @@ Hur bildar man presens particip?
 | -ande      | (efter konsonant) till stammen = imperativformen | spring/ande |
 | -ende      | (efter annan vokal än -a)                        | bo/ende     |
 | -nde       | (efter -a) till stammen = imperativformen        | tävla/nde   |
+
+** INFINITIV SOM SATSDEL (p.180)
+
+| subjekt         | predikat    | --> | subjekt | predikat    |                 |
+|-----------------+-------------+-----+---------+-------------+-----------------|
+| att fiska       | är populärt |     | det     | är populärt | att fiska       |
+| att fiska själv | är svårt    |     | det     | är svårt    | att fiska själv |
+
+Men i frågor endast:
+
+| predikat | subjekt |                        |
+|----------+---------+------------------------|
+| är       | det     | svårt att fiska själv? |
 
 
 * Övningar i Lärobok
@@ -4270,6 +4308,18 @@ Han gick drömmande genom livet.
 Det är en lönande verksamhet.
 De kom cyklande på den gamla vägen.
 Han har ett levande intresse för språk.
+
+** p.180: Gör om meningarna
+
+1. Att fiska är populärt.
+2. Att hitta en egen fiskeplats är inte svårt.
+3. Att fiska längs Västkusten går numera bra.
+4. Att köpa ett fiskekort kostar ungefär 50 kronor.
+5. Att fiska på våren är förbjudet.
+6. Att borra ett hål i isen är spännande.
+7. Att äta vissa fiskar kan vara farligt.
+8. Att fiska själv är inte någon bra affär.
+9. Att vara fritidsfiskare är inte en fråga om pengar.
 
 
 * Övningar del 1
