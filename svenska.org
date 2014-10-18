@@ -998,6 +998,9 @@ leva                                    live / él
   leva av, leva på                        live off / vmiből él
 borra                                   bore, drill / fúr, meg/kifúr
 fånga                                   capture, catch, arrest / elfog, megfog, letartóztat
+betyda [betydde, betytt]                imply, signify, mean / jelent, jelentőséggel bír, fontos
+hitta                                   find, come across / (meg)talál, rátalál, eligazodik
+  hitta på                              make up, invent, think of / kitalál, kigondol, kieszel, kohol
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1187,6 +1190,7 @@ brant                                   steep, precipitous / meredek
 vild [vilt]                             wild [wildly] / vad [vadul]
 färsk                                   fresh, new, recent / friss, új, fiatal
 lönsam                                  profitable / gazdaságos, jövedelmező, kifizetődő
+busig                                   mischievous, unruly, rowdy / csibész, csirkefogó, engedetlen
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -2833,6 +2837,18 @@ Men i frågor endast:
 | predikat | subjekt |                        |
 |----------+---------+------------------------|
 | är       | det     | svårt att fiska själv? |
+
+** SUBJEKTET I UNDERORDNADE FRÅGESATSER (p.181)
+
+|            | 1           | 2     | 3         | 4   | 5       |
+|            | Frågeord    | Subj  | Verb      | Obj | Adv     |
+|------------+-------------+-------+-----------+-----+---------|
+|            | vem         | hon   | tycker om |     |         |
+|            | vem         | *som* | har sagt  | det |         |
+| Han undrar | vad         | hon   | köpte     |     |         |
+|            | vad         | *som* | har hänt  |     |         |
+|            | vilken dag  | hon   | kommer    |     | hit     |
+|            | vilken film | *som* | är bäst   |     | just nu |
 
 
 * Övningar i Lärobok
