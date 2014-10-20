@@ -666,6 +666,11 @@ strömming (en) [mindre sill från Östersjön]  Baltic (small) herring / (kelet
 öring (en), laxöring (en)               trout, salmon trout / lazacpisztráng, tengeri pisztráng
 kastspö (ett)                           casting rod / horgászbot
 drag (ett)                              stroke, move, line, trolling spoon, lure / húzás, rántás, vonás, lépés, huzat, horog
+dräng (en)                              farmhand / béres, (gazdasági) cseléd
+piga (en)                               maid / szolgálólány, cselédlány, parasztlány
+replik (en)                             reply, retort, replica / replika, visszavágás, másodpéldány
+uppsats (en)                            article, paper, essay / dolgozat, cikk, tanulmány
+tröst (en)                              solace, comfort / vigasz, vigasztalás
 
 ** VERB - VERBS - IGÉK
 
@@ -998,6 +1003,9 @@ leva                                    live / él
   leva av, leva på                        live off / vmiből él
 borra                                   bore, drill / fúr, meg/kifúr
 fånga                                   capture, catch, arrest / elfog, megfog, letartóztat
+skrämma                                 terrify, alarm, scare, intimidate, frighten / (meg) -ijeszt, -rémít, -riaszt, -félemlít
+påminna                                 remind, resemble / emlékeztet, eszébe juttatja magát, figyelmeztet
+anställa                                employ, hire, engage, take on / alkalmaz, szegődtet, felvesz, fogad
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1187,6 +1195,9 @@ brant                                   steep, precipitous / meredek
 vild [vilt]                             wild [wildly] / vad [vadul]
 färsk                                   fresh, new, recent / friss, új, fiatal
 lönsam                                  profitable / gazdaságos, jövedelmező, kifizetődő
+likadan                                 similar / ugyanolyan, egyforma, ugyanaz, hasonló
+förvirrad                               confused, distracted, disturbed / zavart, zavarodott, zavaros, zilált
+evig                                    eternal, persistent, never-ending, everlasting / örök(ös), örökkévaló, végtelen
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1218,6 +1229,7 @@ ihop                                    together / együtt
 istället / i stället                    instead / vmi helyett
 förutom                                 apart from, aside from / kívül, kivéve, azonkívül hogy ...
 förut                                   before / azelőtt, korábban
+förrän                                  before / azelőtt, korábban
 undan                                   away, out of the way / el, félre, -tól/től, alól, elől
 isär                                    apart / szét, széjjel, külön
 
@@ -1288,6 +1300,10 @@ utantill                                by heart, from memory / könyv nélkül,
 sams [vara ~ med ngn]                   get on, [be] friendly [with another] / megfér, jó viszonyban, békességben van vkivel
 fjärran                                 far off, distant, far away / távoli, távol/messze (eső), a távolban
 numera                                  now, today / most már, immár, manapság, mostanában
+hellre                                  rather, sooner / (sőt) inkább, előbb, szívesebben
+snarare                                 if anything, rather, sooner / inkább, hamarabb, előbb, gyorsabban
+jämt [~alltid]                          always / mindig, folyton, állandóan, folyvást, örökké
+för övrigt                              otherwise / egyébként, különben, ezenkívül, más tekintetben
 
 udda                                    odd / páratlan
 jämn                                    even, exact / páros, pontos(an annyi), kerek
