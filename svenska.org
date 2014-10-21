@@ -671,6 +671,27 @@ piga (en)                               maid / szolgálólány, cselédlány, pa
 replik (en)                             reply, retort, replica / replika, visszavágás, másodpéldány
 uppsats (en)                            article, paper, essay / dolgozat, cikk, tanulmány
 tröst (en)                              solace, comfort / vigasz, vigasztalás
+hedning (en)                            heathen / pogány
+präst (en)                              priest, clergyman / lelkész, pap, prédikátor, lelkipásztor
+bön (en)                                appeal, worship, prayer, request, plea / ima, imádság, kérés, kérelem, könyörgés, esedezés
+kamp (en)                               struggle, fight / harc, küzdelem, verseny, tusa
+strid (en)                              fight, conflict, combat / harc, küzdelem, viadal, összeütközés, ütközet, csata
+offer (ett)                             sacrifice, victim / áldozat
+tempel (ett)                            temple / templom, szentély
+skildring (en)                          depiction, description, portrayal / leírás, ábrázolás, elbeszélés, rajz
+staty (en)                              statue / szobor
+lycka (en)                              luck, happiness / szerencse, boldogság
+kraft (en)                              strength, power / erő, képesség, hajtóerő, energia
+vishet (en)                             wisdom / bölcsesség
+korp (en)                               raven / holló
+jätte (en)                              giant / óriás
+troll (ett)                             troll / manó, kobold, rém, mumus
+himmel (en)                             sky, heaven / ég, menny, mennyország
+fiende (en)                             foe, enemy / ellenség, ellenfél
+fruktbarhet (en)                        fertility / termékenység
+tjur (en)                               bull / bika
+hingst (en)                             stallion / csődör, mén
+egenskap (en)                           characteristic, property, quality / tulajdonság, minőség, sajátság
 
 ** VERB - VERBS - IGÉK
 
@@ -1009,6 +1030,14 @@ hitta                                   find, come across / (meg)talál, rátal�
 skrämma                                 terrify, alarm, scare, intimidate, frighten / (meg) -ijeszt, -rémít, -riaszt, -félemlít
 påminna                                 remind, resemble / emlékeztet, eszébe juttatja magát, figyelmeztet
 anställa                                employ, hire, engage, take on / alkalmaz, szegődtet, felvesz, fogad
+svika                                   fail, desert, disappoint, let down / cserbenhagy, elhagy, faképnél hagy
+falla [föll, fallit]                    fall / (el/le)esik, (le)hull, (le)zuhan, (el/meg)bukik
+dundra                                  rumble / (menny)dörög, dübörög, harsog, recseg, ropog
+blixtra                                 lighten, flash / villámlik, villog, szikrázik, szikrát hány
+åska                                    thunderstorm / mennydörgés, égzengés, égiháború
+slingra                                 evade, twine, wriggle, meander, get out of, wind / teker, csavar, fon
+  slingra sig                             tekeredik, csavarodik, [vmi köré] fonódik, kígyózik, kanyarog, tekergőzik
+härska [över]                           reign, prevail [over], be prevalent, rule, dominate / uralkodik [vmin, vmi felett], dominál, honol
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1202,6 +1231,9 @@ busig                                   mischievous, unruly, rowdy / csibész, c
 likadan                                 similar / ugyanolyan, egyforma, ugyanaz, hasonló
 förvirrad                               confused, distracted, disturbed / zavart, zavarodott, zavaros, zilált
 evig                                    eternal, persistent, never-ending, everlasting / örök(ös), örökkévaló, végtelen
+viktig                                  important / fontos, jelentős, lényeges
+lättretad                               irascible, ill-tempered / ingerlékeny, sértődékeny, érzékeny
+självfallen                             obvious, self-evident / magától értetődő, nyilvánvaló
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd

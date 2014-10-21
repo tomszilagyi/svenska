@@ -20,6 +20,7 @@ Teckenförklaringar för T (typ):
 | dricka    | dricker    | drack     | druckit  | S | drink                            |
 | dyka      | dyker      | dök       | dykt     | O | dive                             |
 | dö        | dör        | dog       | dött     | O | die                              |
+| falla     | faller     | föll      | fallit   | S | fall                             |
 | fara      | far        | for       | farit    | S | go                               |
 | finnas    | finns      | fanns     | funnits  | S | am, is, are                      |
 | flyga     | flyger     | flög      | flugit   | S | fly                              |
