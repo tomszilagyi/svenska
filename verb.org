@@ -59,6 +59,7 @@ Teckenförklaringar för T (typ):
 | sitta     | sitter     | satt      | suttit   | S | be seated, sit, be               |
 | sjunga    | sjunger    | sjöng     | sjungit  | S | sing                             |
 | sjunka    | sjunker    | sjönk     | sjunkit  | S | go down, sink, fall, drop        |
+| ske       | sker       | skedde    | skett    | O | take place, happen, occur        |
 | skina     | skiner     | sken      | skinit   | S | shine, glare, gleam, blaze       |
 | skola     | ska        | skulle    | skolat   | O | shall, will, have to, must, ...  |
 | skrika    | skriker    | skrek     | skrikit  | S | scream, cry, shriek, shout       |

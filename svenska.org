@@ -292,7 +292,7 @@ biträde (ett)                           assistant, shop assistant / eladó, alk
 hembiträde (ett)                        maid / szobalány, háztartási alkalmazott
 ordförande (en)                         chairman / elnök
 verkstadsklubb (en)                     workplace union / munkahelyi szakszervezet
-förening (en)                           society, association / társaság, egyesület, szövetség
+förening (en)                           society, association, compound / társaság, egyesület, szövetség, vegyület
 konditori (ett)                         café, patisserie / kávézó, cukrászda
 trottoar (en)                           pavement / járda
 tjej (en)                               girl [inf.] / csaj
@@ -692,6 +692,41 @@ fruktbarhet (en)                        fertility / termékenység
 tjur (en)                               bull / bika
 hingst (en)                             stallion / csődör, mén
 egenskap (en)                           characteristic, property, quality / tulajdonság, minőség, sajátság
+hav (ett)                               sea, ocean / tenger, óceán
+sund (ett)                              strait, inlet / tengerszoros, tengeri átjáró
+omsättning (en)                         turnover, circulation / csere, cserélődés, forgalom
+syre (ett)                              oxygen / oxigén
+syrebrist (en)                          lack of oxygen / oxigénhiány
+följd (en)                              result, consequence, series, sequence, succession / következmény, sor, sorrend, sorozat, folyam
+förorening (en)                         pollution, pollutant, impurity / (környezet)szennyezés, szennyezőanyag
+tillförsel (en)                         supply / szállítás, felhozatal, ellátás
+decennium [decenniet, decennier]        decade / évtized
+sekel (ett)                             century / évszázad
+gråsäl (en)                             grey seal / kúpos fóka
+havsörn (en)                            sea eagle / rétisas, halászsas
+förmåga (en)                            power, ability, capacity / képesség, tehetség, rátermettség, ügyesség, erő
+skäl (ett)                              reason, cause, ground(s), motive, argument / ok, indok, alap, érv
+förekomst (en)                          occurrence, incidence / előfordulás, létezés, meglét, lelőhely
+klororganiska förening (en)             organic chlorine compound / szerves klór vegyület
+pappers- och massaindustri (en)         paper and pulp industry / papír- és cellulózipar
+övergödning (en)                        over-nourishment, over-fertilization / túltápláltság, túltrágyázottság
+kväve (ett)                             nitrogen / nitrogén
+reningsverk (ett)                       sewage treatment works / (szennyvíz)tisztító
+mängd (en)                              number, quantity, multitude, amount / tömeg, sokaság, nagy mennyiség, csomó
+planktonalg (en)                        plankton alga, phytoplankton / planktonalga, fitoplankton
+belastning (en)                         load, charge, weight, stress / (meg)terhelés, megrakás, súly, terheltség
+botten (en)                             bottom, fig. bad, worthless / vminek az alja, alsó része, föld, talaj, fenék, alap, emelet
+utsläpp (ett)                           discharge, release, spill, spillage, exhaustion, emission / kibocsátás, eresztés, szivárgás, emisszió
+kvicksilver (ett)                       quicksilver, mercury / higany
+bly (ett)                               lead / ólom
+grundämne (ett)                         element / (kémiai) elem, alapanyag
+sediment (ett)                          sediment / üledék
+sjöfågeldöd (en)                        death of seabirds / tengeri madarak pusztulása
+faktum (ett)                            fact / tény
+ljusglimt (en)                          gleam of light / fénysugár
+hopp (ett)                              hope, skip, leap, jump, bound / remény(ség), ugrás
+inledning (en)                          beginning, introduction / bevezetés, kezdet
+satsning (en)                           venture, commitment, staking, bid / tét, kockázat, kötelezettség
 
 ** VERB - VERBS - IGÉK
 
@@ -1038,6 +1073,18 @@ blixtra                                 lighten, flash / villámlik, villog, szi
 slingra                                 evade, twine, wriggle, meander, get out of, wind / teker, csavar, fon
   slingra sig                             tekeredik, csavarodik, [vmi köré] fonódik, kígyózik, kanyarog, tekergőzik
 härska [över]                           reign, prevail [over], be prevalent, rule, dominate / uralkodik [vmin, vmi felett], dominál, honol
+ske                                     take place, happen, occur, come about / (meg)történik, megesik, bekövetkezik, teljesedik
+tillföra                                provide, supply / (oda)vezet, odavisz, -hoz, szállít, ellát, ad
+utrota                                  exterminate, eradicate, extinguish, root out / kiirt, ki/elpusztít
+återhämta                               renew / visszahoz, visszanyer, -szerez
+  återhämta sig                           felépül, talpra áll, összeszedi magát, magához tér
+minska                                  diminish, reduce, decrease / csökkent, kisebbít, mérsékel
+förbruka                                consume, use up / elhasznál, elfogyaszt, felhasznál
+medföra                                 bring, convey, result in / magával hoz, elhoz, okoz, előidéz, maga után von, együtt jár
+lagra                                   store, accumulate, pile up / (el/be)raktároz, tárol, lerakódik, rétegződik
+beteckna                                characterize, describe / megjelöl, jelez, nevez, minősít
+inge                                    inspire, infuse / sugalmaz, kelt, bead, benyújt
+fordra                                  claim, demand, request / kíván, követel, igényel
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1234,6 +1281,11 @@ evig                                    eternal, persistent, never-ending, everl
 viktig                                  important / fontos, jelentős, lényeges
 lättretad                               irascible, ill-tempered / ingerlékeny, sértődékeny, érzékeny
 självfallen                             obvious, self-evident / magától értetődő, nyilvánvaló
+känslig                                 sensitive / érzékeny, fogékony, finom érzésű, érzelmes, megindító
+grund                                   shallow / sekély, nem mély, alacsony, sekélyes, felületes
+nedsmutsad                              filthy, very dirty / szennyes, erősen szennyezett
+betydlig                                considerable, significant / jelentős, jelentékeny, kiváló, tekintélyes, fontos, lényeges
+dyster [dystert, dystra]                depressing, gloomy, drab, dreary, sombre / komor, sötét, borongós, sivár, örömtelen, búskomor
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1268,6 +1320,7 @@ förut                                   before / azelőtt, korábban
 förrän                                  before / azelőtt, korábban
 undan                                   away, out of the way / el, félre, -tól/től, alól, elől
 isär                                    apart / szét, széjjel, külön
+inför                                   in front of, face to face (with), before / előtt
 
 ganska                                  fairly, somewhat, rather, quite
 visst                                   certainly, probably
@@ -1340,6 +1393,7 @@ hellre                                  rather, sooner / (sőt) inkább, előbb,
 snarare                                 if anything, rather, sooner / inkább, hamarabb, előbb, gyorsabban
 jämt [~alltid]                          always / mindig, folyton, állandóan, folyvást, örökké
 för övrigt                              otherwise / egyébként, különben, ezenkívül, más tekintetben
+motsvarande                             corresponding / megfelelő
 
 udda                                    odd / páratlan
 jämn                                    even, exact / páros, pontos(an annyi), kerek
@@ -1398,6 +1452,8 @@ någonsin                                ever / valamikor, valaha
 var för sig                             each (apart) / ki-ki, mindenki (külön-külön), mindegyik
 var och en, vart och ett                each and every / minden egyes, mindegyik
 endast                                  only / csak, csupán, egyes-egyedül, hacsak
+enda                                    only, one, sole / egyetlen, egyedüli
+dock                                    yet, nevertheless, still, however / mégis, mindazonáltal, ámde, mégiscsak
 
 eller hur?                              isn't it?, aren't you?, etc. / ugye?, nemde?
 flermiljonfråga                         multi-million question
@@ -1537,6 +1593,8 @@ vad som helst                           anything / bármi
 när som helst                           anytime / bármikor
 hur som helst                           anyhow, anyway / bárhogy, akárhogyan is
 vem som helst                           anyone, anybody, whoever, whosoever / akárki, bárki
+
+så gott som [utrotad]                   virtually [extinct]
 
 ** Ordspråk
 
@@ -2897,6 +2955,30 @@ Men i frågor endast:
 |            | vad         | *som* | har hänt  |     |         |
 |            | vilken dag  | hon   | kommer    |     | hit     |
 |            | vilken film | *som* | är bäst   |     | just nu |
+
+** PASSIV MED -S (p.185)
+
+| passiv                             | aktiv                                 | hur gör man passiv? |
+|------------------------------------+---------------------------------------+---------------------|
+| Utsläppen måste *minskas*.         | Man måste *minska* utsläppen.         | infinitiv \+s       |
+|------------------------------------+---------------------------------------+---------------------|
+| De bara *lagras*.                  | Man bara *lagrar* dem.                | presens -(e)r \+s   |
+|------------------------------------+---------------------------------------+---------------------|
+| DDT *användes* mycket på 50-talet. | Man *använde* mycket DDT på 50-talet. | preteritum \+s      |
+|------------------------------------+---------------------------------------+---------------------|
+| Det har *förbjudits*.              | Man har *förbjudit* det.              | supinum \+s         |
+
+Passiv används ofta när man inte är så intresserad av eller inte vet precis *vem* som gör,
+gjorde eller har gjort något. Om man förvandlar en passiv sats till aktiv blir subjektet
+ofta "man".
+
+Det finns några verb som alltid slutar på -s och som inte är passiva.
+De verben kallas *deponens*.
+
+Exempel:
+Fiskarna trivs i vattnet.
+De andas med gälar.
+Vi hoppas att det går bra.
 
 
 * Övningar i Lärobok
