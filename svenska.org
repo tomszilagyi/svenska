@@ -225,6 +225,7 @@ järv (en)                               wolverine / torkos borz, rozsomák
 älg (en)                                moose / jávorszarvas
 lodjur (ett)                            lynx / hiúz
 stam (en)                               root, trunk / tő, gyökér [szótő is]
+lök (en)                                onion / hagyma
 vitlök (en)                             garlic / fokhagyma
 bastu (en) [Bada bastu!]                sauna / szauna [Take a sauna!]
 råd (ett)                               advice, council, resources / tanács [testület is], mód vmire
@@ -727,6 +728,17 @@ ljusglimt (en)                          gleam of light / fénysugár
 hopp (ett)                              hope, skip, leap, jump, bound / remény(ség), ugrás
 inledning (en)                          beginning, introduction / bevezetés, kezdet
 satsning (en)                           venture, commitment, staking, bid / tét, kockázat, kötelezettség
+frestelse (en)                          temptation, lure / kísértés, csábítás
+knäckebröd (ett)                        crispbread / ropogós kenyér
+brännvin (ett)                          snaps, aquavit / tömény szeszesital, pálinka
+ansjovis (en)                           Anchovy, anchovies / szardella, sprotni
+grädde (en)                             cream / tejszín
+ströbröd (ett)                          dried breadcrumbs / zsemlemorzsa, prézli
+matsked (en)                            tablespoon / evőkanál
+strimla (en)                            strip, shred / sáv, csík, keskeny szelet
+fat (ett)                               dish, drum, barrel / tál, tálka, csészealj, alátét, hordó
+form (en)                               form, mould, shape / alak, (nyomó/öntő)forma, idom, külsőség, formaság
+hälft (en)                              half (one half of an amount) / vminek a fele
 
 ** VERB - VERBS - IGÉK
 
@@ -1085,6 +1097,10 @@ lagra                                   store, accumulate, pile up / (el/be)rakt
 beteckna                                characterize, describe / megjelöl, jelez, nevez, minősít
 inge                                    inspire, infuse / sugalmaz, kelt, bead, benyújt
 fordra                                  claim, demand, request / kíván, követel, igényel
+skala                                   shell, pare, peel / (meg)hámoz, hánt, tisztít, pucol
+skära [skär]                            jar, cleave, grate, carve, cut, slice, intersect / vág, metsz, vagdal, szeletel, nyes
+strö                                    sprinkle / szór, hint
+smörja                                  grease, smear, daub, lubricate / (meg)ken, (be)zsíroz, (be/meg)olajoz, keneget, veszteget
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1286,6 +1302,8 @@ grund                                   shallow / sekély, nem mély, alacsony, 
 nedsmutsad                              filthy, very dirty / szennyes, erősen szennyezett
 betydlig                                considerable, significant / jelentős, jelentékeny, kiváló, tekintélyes, fontos, lényeges
 dyster [dystert, dystra]                depressing, gloomy, drab, dreary, sombre / komor, sötét, borongós, sivár, örömtelen, búskomor
+eldfast                                 ovenproof / tűzálló, tűzbiztos
+vid                                     wide / széles, bő, tág, nagy, tágas
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -4466,6 +4484,25 @@ Han har ett levande intresse för språk.
 7. Att äta vissa fiskar kan vara farligt.
 8. Att fiska själv är inte någon bra affär.
 9. Att vara fritidsfiskare är inte en fråga om pengar.
+
+** p.186: Skriv receptet i imperativform!
+
+Sätt på ugnen!  Skala potatisen och löken!  Skär potatisen i fina
+strimlor och löken i tunna skivor!  Stek löken lätt i litet margarin!
+Smörj ett eldfast fat eller en låg, vid form och så lägg i potatis,
+ansjovis och lök och sist potatis igen!  Häll på hälften av grädden,
+och sedan strö ströbröd över alltihop och stoppa in det i ugnen!  När
+potatisen är mjuk, ta ut formen och häll på resten av grädden och
+ställa in den igen! Vänta 10 minuter!
+
+** p.186: Skriv receptet i passiv form!
+
+Potatisen och löken skalas och skäras i tunna skivor.  Löken kan sedan
+stekas lätt i lite margarin.  Potatisen, löken och ansjovisen läggas
+ner i en form.  Hälften av grädden hällas på och ströbröd strös över
+alltihop och sedan stoppas formen in i ugnen.  Efter ca 40 minuter tas
+formen ut och resten av grädden hällas på och sedan ställas formen in
+igen.
 
 
 * Övningar del 1
