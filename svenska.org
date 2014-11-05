@@ -739,6 +739,11 @@ strimla (en)                            strip, shred / sáv, csík, keskeny szel
 fat (ett)                               dish, drum, barrel / tál, tálka, csészealj, alátét, hordó
 form (en)                               form, mould, shape / alak, (nyomó/öntő)forma, idom, külsőség, formaság
 hälft (en)                              half (one half of an amount) / vminek a fele
+tåg (ett)                               train, procession / vonat, menet, felvonulás
+motbok (en)                             ration book, bankbook / takarékkönyv, (bank)betétkönyv
+sammanstötning (en)                     collision, conflict, encounter, clash / összeütközés, összecsapás, csetepaté
+krasch (en)                             crash (also econ.) / (gazd.) összeomlás, krach
+beslut (ett)                            decision, resolution, conclusion / határozat, végzés, döntés, elhatározás
 
 ** VERB - VERBS - IGÉK
 
@@ -1101,6 +1106,17 @@ skala                                   shell, pare, peel / (meg)hámoz, hánt, 
 skära [skär]                            jar, cleave, grate, carve, cut, slice, intersect / vág, metsz, vagdal, szeletel, nyes
 strö                                    sprinkle / szór, hint
 smörja                                  grease, smear, daub, lubricate / (meg)ken, (be)zsíroz, (be/meg)olajoz, keneget, veszteget
+införa                                  introduce / bevezet, behoz, importál
+upplösa                                 dissolve, disband / feloszlat, szétoszlat, felbont
+stöda                                   support, steady / (meg/alá)támaszt, támogat, segít, alapít, alapoz
+genomföra                               carry out / végrehajt, kivitelez, megvalósít, keresztülvisz, alkalmaz
+inträda                                 join, enter / belép, beáll, bekövetkezik, kezdődik, beköszönt
+avgå                                    resign, retire, leave, depart / elmegy, eltávozik, elutazik, elindul, lemond, lelép, visszalép, elhalálozik, lemegy, leszámítódik
+efterträda                              succeed / követ, helyébe lép (utódként)
+ersätta                                 compensate, replace, substitute / pótol, kárpótol, helyettesít
+återta                                  retake, regain / visszavesz, visszafoglal, visszahódít, visszanyer
+omkomma                                 die, be killed / elpusztul, életét veszti
+inviga                                  initiate [into], confide [in], dedicate, inaugurate / felszentel, felavat, beavat
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1304,6 +1320,7 @@ betydlig                                considerable, significant / jelentős, j
 dyster [dystert, dystra]                depressing, gloomy, drab, dreary, sombre / komor, sötét, borongós, sivár, örömtelen, búskomor
 eldfast                                 ovenproof / tűzálló, tűzbiztos
 vid                                     wide / széles, bő, tág, nagy, tágas
+borgerlig                               non-Socialist, middle-class, civil, bourgeois / polgári, burzsoá
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1700,6 +1717,8 @@ moms                                    VAT / ÁFA
 
 SM [svenska mästerskapet]               Swedish Championship
 VM [världsmästerskapet]                 World Championship
+
+MBL [medbestämmandelagen]               Co-determination Act
 
 ** Káromkodások, indulatszavak
 
