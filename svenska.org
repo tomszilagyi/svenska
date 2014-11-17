@@ -744,6 +744,19 @@ motbok (en)                             ration book, bankbook / takarékkönyv, 
 sammanstötning (en)                     collision, conflict, encounter, clash / összeütközés, összecsapás, csetepaté
 krasch (en)                             crash (also econ.) / (gazd.) összeomlás, krach
 beslut (ett)                            decision, resolution, conclusion / határozat, végzés, döntés, elhatározás
+undantag (ett)                          exception / kivétel
+ledamot (en), ledamöter                 member / tag (testületé)
+motion (en)                             exercise, bill / mozgás, testmozgás, javaslat, indítvány
+utbrott (ett)                           outbreak / kitörés
+våldtäkt (en)                           rape, violence / (nemi) erőszak
+utsmyckning (en)                        decoration / dekoráció, (ki/fel)díszítés, felékesítés, díszítmény
+lagstiftning (en)                       legislation / törvényhozás
+målsmanskap (ett)                       legal guardianship, parenthood / gyámság
+husbonde (en)  [historiskt]             master / házigazda, családfő, munkaadó (rég.)
+välde (ett)                             power, empire, dominion / uralom, uralkodás, (állam)hatalom, állam, birodalom
+professur (en)                          chair, professorship / egyetemi/főiskolai tanári állás, tanszék
+fullmakt (en)                           power of attorney, authorization, authority, mandate, warrant / meg- v. felhatalmazás, kinevezés
+könsroll (en)                           gender role / nemi szerep
 
 ** VERB - VERBS - IGÉK
 
@@ -1117,6 +1130,12 @@ ersätta                                 compensate, replace, substitute / póto
 återta                                  retake, regain / visszavesz, visszafoglal, visszahódít, visszanyer
 omkomma                                 die, be killed / elpusztul, életét veszti
 inviga                                  initiate [into], confide [in], dedicate, inaugurate / felszentel, felavat, beavat
+behandla                                handle, discuss, consider, manage, treat / kezel, bánik, tárgyal, foglalkozik vmivel, intéz
+dröja                                   hesitate, wait, delay, take a long time / habozik, húzódozik, késlekedik, várat magára, halogat, elhalaszt, időzik, marad, vár
+utfärda                                 issue / kiállít, kiad, kibocsát, közzétesz
+utföra                                  perform, accomplish, achieve / kivitelez, végrehajt, véghezvisz, megvalósít, teljesít, előad, kivisz, kihajt, exportál
+upphäva                                 annul, abate, abolish, cancel / hatálytalanít, érvénytelenít, eltöröl, visszavon, megszüntet, abbahagy
+uppmuntra                               encourage / serkent, (fel)bátorít, buzdít, támogat, pártol, előmozdít
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1321,6 +1340,11 @@ dyster [dystert, dystra]                depressing, gloomy, drab, dreary, sombre
 eldfast                                 ovenproof / tűzálló, tűzbiztos
 vid                                     wide / széles, bő, tág, nagy, tágas
 borgerlig                               non-Socialist, middle-class, civil, bourgeois / polgári, burzsoá
+enstaka                                 occasional, separate, individual / egyes, szórványos, elszigetelt, ritka
+  någon enstaka gång                      once in a while / nagy ritkán, néha-néha
+konstnärlig                             artistic / művészi
+myndig                                  of age (majority), authoritative / teljes- v. nagykorú
+förbannad                               damned, bloody, cursed, mad, pissed / átkozott
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
