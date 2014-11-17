@@ -757,6 +757,9 @@ välde (ett)                             power, empire, dominion / uralom, uralk
 professur (en)                          chair, professorship / egyetemi/főiskolai tanári állás, tanszék
 fullmakt (en)                           power of attorney, authorization, authority, mandate, warrant / meg- v. felhatalmazás, kinevezés
 könsroll (en)                           gender role / nemi szerep
+kuggfråga (en)                          trick question, teaser / fogas/beugratós kérdés
+stormakt (en)                           great power, superpower / nagyhatalom
+lärosäte (ett)                          school, a place for education of some kind / tanintézet, egyetem, főiskola, egyetemi város
 
 ** VERB - VERBS - IGÉK
 
@@ -1136,6 +1139,9 @@ utfärda                                 issue / kiállít, kiad, kibocsát, kö
 utföra                                  perform, accomplish, achieve / kivitelez, végrehajt, véghezvisz, megvalósít, teljesít, előad, kivisz, kihajt, exportál
 upphäva                                 annul, abate, abolish, cancel / hatálytalanít, érvénytelenít, eltöröl, visszavon, megszüntet, abbahagy
 uppmuntra                               encourage / serkent, (fel)bátorít, buzdít, támogat, pártol, előmozdít
+sträcka                                 stretch, reach, distance, prolong / (ki)nyújt, meg/kifeszít, meghúz, kiterjeszt, elterül, kiterjed
+skapa                                   cause, engender, produce, give rise to, make, create / teremt, alkot, létrehoz, szerez
+införliva                               incorporate / bekebelez, birtokba vesz, hozzácsatol, összekapcsol, egyesít
 
 ** ANDRAS - OTHERS - EGYEBEK
 
