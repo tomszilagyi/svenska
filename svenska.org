@@ -763,6 +763,11 @@ lärosäte (ett)                          school, a place for education of some 
 villkor (ett)                           condition / feltétel, kikötés, életkörülmények, viszonyok
 standard (en)                           standard / szabvány, mérték, norma, fok, nívó, standard, színvonal
 sprit (en)                              alcohol, spirit, booze / szesz, alkohol, spiritusz, tömény ital
+värdinna (en)                           hostess / háziasszony, gazdasszony, a ház úrnője
+nubbe (en)                              snaps / snapsz, rövidital, pálinka
+nubbevisa (en)                          drinking song / ivás előtti dalocska
+självförtroende (ett)                   self-confidence / önbizalom, önértékelés
+prestation (en)                         achievement, accomplishment, performance / teljesítmény
 
 ** VERB - VERBS - IGÉK
 
@@ -1145,8 +1150,11 @@ uppmuntra                               encourage / serkent, (fel)bátorít, buz
 sträcka                                 stretch, reach, distance, prolong / (ki)nyújt, meg/kifeszít, meghúz, kiterjeszt, elterül, kiterjed
 skapa                                   cause, engender, produce, give rise to, make, create / teremt, alkot, létrehoz, szerez
 införliva                               incorporate / bekebelez, birtokba vesz, hozzácsatol, összekapcsol, egyesít
-driva                                   drive, carry on, operate, run / (meg)hajt, űz, kerget, visz, 
+driva                                   drive, carry on, operate, run / (meg)hajt, űz, kerget, visz
 tyckas [tycks, tycktes, tyckts]         seem / látszik, tetszik, (fel)tűnik, vmilyen benyomást kelt
+klinga                                  ring, sound / cseng, hangzik
+föreslå                                 suggest, propose / javasol, indítványoz, ajánl
+krossa                                  crush / (szét/össze)zúz, (össze)tör, szétroncsol, -morzsol, betör, bezúz, porrá tör/zúz, megtör, szertefoszlat (ábrándokat)
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -4558,6 +4566,29 @@ ner i en form.  Hälften av grädden hällas på och ströbröd strös över
 alltihop och sedan stoppas formen in i ugnen.  Efter ca 40 minuter tas
 formen ut och resten av grädden hällas på och sedan ställas formen in
 igen.
+
+** p.192: Fyll i lämpliga passivformer i luckorna!
+
+| betalar    | Pengarna betalas av försäkringskassan.       |
+| hämtar     | Pengarna kan hämtas på Posten.               |
+| sätter     | Pengarna kan sättes in på mitt bankkonto.    |
+| skickar    | Löneavin skickas per post.                   |
+| upptäcker  | Amerika upptäcktes 1492 av Columbus.         |
+| serverar   | Middagen serveras klockan sju idag.          |
+| bestämmer  | Det har bestämts i riksdagen.                |
+| säljer     | Kläderna säljades på auktion förra veckan.   |
+| diskuterar | Frågan ska diskuteras ikväll.                |
+| öppnar     | Utställningen öppnades av kungen igår.       |
+| mottager   | De mottogs av påven i söndags.               |
+| applåderar | Hennes prestation applåderas.                |
+| krossar    | Hans drömmar krossades.                      |
+| bygger     | Huset har byggdes på rekordtid.              |
+| säljer     | Boken ska börja säljas nu på måndag.         |
+| ser        | Programmet sågs av flera miljoner.           |
+| skriver    | Det här brevet har skrivits i all hast.      |
+| stänger    | Dörren stängdes mitt framför näsan på honom. |
+| stänger    | Se upp. Dörrarna stängs!                     |
+| läser      | Svenska läses vid många universitet.         |
 
 
 * Övningar del 1
