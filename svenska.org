@@ -760,6 +760,9 @@ könsroll (en)                           gender role / nemi szerep
 kuggfråga (en)                          trick question, teaser / fogas/beugratós kérdés
 stormakt (en)                           great power, superpower / nagyhatalom
 lärosäte (ett)                          school, a place for education of some kind / tanintézet, egyetem, főiskola, egyetemi város
+villkor (ett)                           condition / feltétel, kikötés, életkörülmények, viszonyok
+standard (en)                           standard / szabvány, mérték, norma, fok, nívó, standard, színvonal
+sprit (en)                              alcohol, spirit, booze / szesz, alkohol, spiritusz, tömény ital
 
 ** VERB - VERBS - IGÉK
 
@@ -1142,6 +1145,8 @@ uppmuntra                               encourage / serkent, (fel)bátorít, buz
 sträcka                                 stretch, reach, distance, prolong / (ki)nyújt, meg/kifeszít, meghúz, kiterjeszt, elterül, kiterjed
 skapa                                   cause, engender, produce, give rise to, make, create / teremt, alkot, létrehoz, szerez
 införliva                               incorporate / bekebelez, birtokba vesz, hozzácsatol, összekapcsol, egyesít
+driva                                   drive, carry on, operate, run / (meg)hajt, űz, kerget, visz, 
+tyckas [tycks, tycktes, tyckts]         seem / látszik, tetszik, (fel)tűnik, vmilyen benyomást kelt
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1660,6 +1665,7 @@ hur som helst                           anyhow, anyway / bárhogy, akárhogyan i
 vem som helst                           anyone, anybody, whoever, whosoever / akárki, bárki
 
 så gott som [utrotad]                   virtually [extinct]
+kort och gott                           short and sweet / rövid(en) és tömör(en)
 
 ** Ordspråk
 
