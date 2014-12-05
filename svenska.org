@@ -782,6 +782,8 @@ morot (en, morötter)                    carrot / (sárga)répa
 pannbiff (en)                           hamburger / fasírozott, darálthús-pogácsa
 våffla (en)                             waffle / (recés) ostya, vafli
 grädda (en)                             cream (also fig.: elite) / krém (átv. is: elit)
+aktie (en)                              share, stock / részvény
+anläggning (en)                         construction, building, complex, equipment / létesítmény, telep, berendezés, felszerelés
 
 ** VERB - VERBS - IGÉK
 
@@ -1175,6 +1177,8 @@ stuva                                   stow / párol, dinsztel, főz, mártáss
 halstra                                 cook on a grill / roston süt
 hacka                                   hack, mince, cut, chop / vág, vagdal, aprít, kalapál, csipked, csipeget, szedeget
 grädda                                  fry, bake / megsüt
+skänka                                  give, grant, present / ad, ajándékoz, adományoz, áldoz, szentel (vkire/vkinek vmit)
+begära                                  ask, request, demand, apply for / (meg)kíván, óhajt, kér, igényel, követel
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -3121,6 +3125,31 @@ de grillade korvarna: slutar på e efter obetonad stavelse på a
 | ett-ord | det stora | det stängda |                                 |
 | plural  | de stora  | de stängda  |                                 |
 | plural  | de stora  | de grillade | e efter obetonad stavelse med a |
+
+** DET HYPOTETISKA FALLET (p.196)
+
+*I NUTID / FRAMTID*
+
+Om-sats + PRETERITUM, skulle + SUBJEKT + INFINITIV
+Exempel: Om jag *vann* 100 kr, *skulle* jag köpa en bok.
+
+Om jag *var* / *vore* (^) rik (men det är jag inte),
+*skulle* jag gärna låna dig pengar (men det kan jag alltså inte).
+
+Om jag *hade* pengar (jag har inga pengar), *skulle* jag köpa en ny dator.
+
+(^) många använder fortfarande formen *vore*, en gammal konjunktivform,
+men de flesta andra verb har numera samma konjunktivform som
+"vanlig" preteritumform.
+
+*I FÖRFLUTEN TID*
+
+Om pojken inte *hade fått* fel växel, *skulle* pappan inte *ha blivit* arg.
+Om pappan inte *hade slagit* mamman, *skulle* hon inte *ha begärt* skilsmassa.
+Om pojken *hade fått* rätt växel tillbaka, *skulle* pappan inte *ha slagit* mamman.
+Om pojken *hade gått* kvar i sin skola, *skulle* han *ha klarat* skolarbetet bra.
+
+Observera placeringen av inte!
 
 
 * Övningar i Lärobok
