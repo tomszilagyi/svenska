@@ -768,6 +768,20 @@ nubbe (en)                              snaps / snapsz, rövidital, pálinka
 nubbevisa (en)                          drinking song / ivás előtti dalocska
 självförtroende (ett)                   self-confidence / önbizalom, önértékelés
 prestation (en)                         achievement, accomplishment, performance / teljesítmény
+krydda (en)                             spice / fűszer
+kummin (en)                             caraway, cumin / kömény
+Johannesört                             St John's wort / orbáncfű, (rég) Szent János virága
+lutfisk (en)                            stockfish / szárított (tőke)hal
+gravlax (en), gravad lax (en)           pickled salmon / pácolt lazac, natúrlazac svéd módra
+ål (en)                                 eel / angolna
+hallon (ett)                            raspberry / málna
+vispgrädde (en)                         whipped cream / tejszínhab, habtejszín
+poesi (en)                              poetry / költészet, poézis, költemény
+sammanfattning (en)                     summary / összefoglalás, összegzés
+morot (en, morötter)                    carrot / (sárga)répa
+pannbiff (en)                           hamburger / fasírozott, darálthús-pogácsa
+våffla (en)                             waffle / (recés) ostya, vafli
+grädda (en)                             cream (also fig.: elite) / krém (átv. is: elit)
 
 ** VERB - VERBS - IGÉK
 
@@ -1155,6 +1169,12 @@ tyckas [tycks, tycktes, tyckts]         seem / látszik, tetszik, (fel)tűnik, v
 klinga                                  ring, sound / cseng, hangzik
 föreslå                                 suggest, propose / javasol, indítványoz, ajánl
 krossa                                  crush / (szét/össze)zúz, (össze)tör, szétroncsol, -morzsol, betör, bezúz, porrá tör/zúz, megtör, szertefoszlat (ábrándokat)
+krydda                                  flavour, season / fűszerez, ízesít
+stuva                                   stow / párol, dinsztel, főz, mártással/tejjel/lével elkészít
+  stuvad potatis                          párolt burgonya (fehér v. besamel mártással)
+halstra                                 cook on a grill / roston süt
+hacka                                   hack, mince, cut, chop / vág, vagdal, aprít, kalapál, csipked, csipeget, szedeget
+grädda                                  fry, bake / megsüt
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1364,6 +1384,11 @@ enstaka                                 occasional, separate, individual / egyes
 konstnärlig                             artistic / művészi
 myndig                                  of age (majority), authoritative / teljes- v. nagykorú
 förbannad                               damned, bloody, cursed, mad, pissed / átkozott
+inlagd                                  inserted, put in, introduced, pickled / behelyezett, berakott, (télire) eltett, befőzött, marinirozott
+  inlagd sill                             pickled herring / (be)sózott hering
+hembränt                                homebrewed / házi főzésű (pálinka)
+fylld                                   full, filled / tele, telt, töltött
+vansinnig                               insane, mad / őrült, tébolyodott, bolond
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -3061,6 +3086,42 @@ Fiskarna trivs i vattnet.
 De andas med gälar.
 Vi hoppas att det går bra.
 
+** PERFEKT PARTICIP (för svaga verb) (p.194)
+
+*I obestämd form: verbstam +d (+t / +a)*
+| grillad korv     | vi har grillat den | stam + d | perfekt particip                |
+| stekt abborre    | vi har stekt den   | d >      | t efter k (p, s och t)          |
+| kryddat brännvin | vi har kryddat det | ett-ord  | +t (som adjektiv)               |
+| nybryggt kaffe   | vi har bryggt det  | ett-ord  | +t (som adjektiv)               |
+| fyllda avokador  | vi har fyllt dem   | plural   | +a (som adjektiv)               |
+| hembakade bullar | vi har bakat dem   | a >      | e efter obetonad stavelse med a |
+
+*Perfekt particip* fungerar som ett adjektiv och böjs som ett adjektiv.
+Om du kan cirka 500 verb (transitiva), kan du nu femhundra nya adjektiv.
+
+*I bestämd form: jämför med adjektiv*
+| den stekta abborren  | den goda abborren  |
+| det nybryggda kaffet | det starka kaffet  |
+| de stekta abborrarna | de goda abborrarna |
+
+de grillade korvarna: slutar på e efter obetonad stavelse på a
+
+*SAMMANFATTNING*
+
+*obestämd form*
+|         | adjektiv | perfekt particip | kommentar                           |
+|---------+----------+------------------+-------------------------------------|
+| en-ord  | stor     | stängd           | stam + d                            |
+| ett-ord | stort    | stängt           | d + t = t (man kan inte skriva -dt) |
+| plural  | stora    | stängda          |                                     |
+| plural  | stora    | grillade         | e efter obetonad stavelse med a     |
+
+*bestämd form*
+| en-ord  | den stora | den stängda |                                 |
+| ett-ord | det stora | det stängda |                                 |
+| plural  | de stora  | de stängda  |                                 |
+| plural  | de stora  | de grillade | e efter obetonad stavelse med a |
+
 
 * Övningar i Lärobok
 
@@ -4589,6 +4650,24 @@ igen.
 | stänger    | Dörren stängdes mitt framför näsan på honom. |
 | stänger    | Se upp. Dörrarna stängs!                     |
 | läser      | Svenska läses vid många universitet.         |
+
+** p.195: Gör egna meningar!
+
+| baka/potatis      | Det ska smaka gott med bakad potatis.        |
+| stek/gädda        | Ingenting är så gott som stekt gädda.        |
+| stuva/makaroner   | Tycker du inte om stuvade makaroner?         |
+| brygg/kaffe/ny    | Vad gott det doftar om nybryggt kaffe!       |
+| krydda/brännvin   | Till sill ska man ha kryddat brännvin.       |
+| stuva/morötter    | Stuvade morötter är verkligen gott!          |
+| stuva/svamp       | Vill du ha lite mer stuvad svamp?            |
+| halstra/abborre   | Har du ätit halstrad abborre?                |
+| grava/lax         | Gravad lax är underbart gott.                |
+| stek/fläsk        | Stekt fläsk och bruna bönor är så svenskt.   |
+| hacka/lök         | Hackad lök ska man ha till pannbiff.         |
+| djupfrys/hallon   | Det är vansinnigt gott med djupfryst hallon. |
+| baka/bröd/ny      | Det doftar så gott om nybakat bröd.          |
+| grädda/våfflor/ny | Nygräddade våfflor äter man på Vårfrudagen.  |
+| grilla/korv       | En grillad korv med bröd, tack!              |
 
 
 * Övningar del 1
