@@ -784,6 +784,12 @@ våffla (en)                             waffle / (recés) ostya, vafli
 grädda (en)                             cream (also fig.: elite) / krém (átv. is: elit)
 aktie (en)                              share, stock / részvény
 anläggning (en)                         construction, building, complex, equipment / létesítmény, telep, berendezés, felszerelés
+fjäril (en)                             butterfly / lepke, pillangó
+storm (en)                              storm (also fig.) / (szél)vihar, förgeteg, szélvész, vihar (átv. is)
+bot (en, böter, mest i plural)          penalty, fine(s) / bírság, pénzbüntetés
+penninglott (en)                        lottery ticket / lottó(szelvény)
+greve (en)                              count / gróf
+tjänare (en)                            servant / szolga, alkalmazott, házi inas
 
 ** VERB - VERBS - IGÉK
 
@@ -1179,6 +1185,11 @@ hacka                                   hack, mince, cut, chop / vág, vagdal, a
 grädda                                  fry, bake / megsüt
 skänka                                  give, grant, present / ad, ajándékoz, adományoz, áldoz, szentel (vkire/vkinek vmit)
 begära                                  ask, request, demand, apply for / (meg)kíván, óhajt, kér, igényel, követel
+krocka                                  collide / összeütközik, nekimegy (járművel)
+råna                                    rob / rabol, kirabol
+rymma                                   escape, run away, hold, contain / megszökik, elmenekül, meglép, -lóg, magában foglal, tartalmaz, befogad
+vinna [vinner, vann, vunnit]            win / nyer, meg/elnyer, elér, szerez
+fria                                    propose / megkéri a kezét vkinek
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1393,6 +1404,8 @@ inlagd                                  inserted, put in, introduced, pickled / 
 hembränt                                homebrewed / házi főzésű (pálinka)
 fylld                                   full, filled / tele, telt, töltött
 vansinnig                               insane, mad / őrült, tébolyodott, bolond
+stilig                                  stylish / ízléses(en öltözött), finom, sikkes, elegáns, jóvágású, derék, rendes
+(så) småningom                          gradually, by degrees, little by little / lassanként, lassacskán, apránként, nemsokára, hamarosan
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -4697,6 +4710,26 @@ igen.
 | baka/bröd/ny      | Det doftar så gott om nybakat bröd.          |
 | grädda/våfflor/ny | Nygräddade våfflor äter man på Vårfrudagen.  |
 | grilla/korv       | En grillad korv med bröd, tack!              |
+
+** p.197: Gör färdigt följande meningar!
+
+Om pojken inte hade fått fel växel tillbaka, skulle pappan inte ha blivit arg.
+Om pappan inte hade slagit till mamman, skulle hon inte ha begärt skilsmässa.
+Om mamman inte hade flyttat till Borås, skulle pojken inte ha blivit retad för sin dialekt.
+Om mamman inte hade flyttat till Borås, skulle hon inte ha träffat en ny man.
+Om mamman inte hade träffat en ny man, skulle hon inte ha flyttat till USA.
+Om de inte hade flyttat till USA, skulle pojken inte ha rymt.
+Om mannen inte hade spekulerat i aktier, skulle han inte ha förlorat sina pengar.
+Om det inte hade funnits femtio kronor för mycket, skulle biträdet inte ha köpt lott.
+Om hon inte hade köpt lott, skulle hon inte ha vunnit pengar.
+Om hon inte hade vunnit pengar, skulle hon inte ha åkt på semester.
+Om hon inte hade åkt på semester, skulle hon inte ha träffat greven.
+Om hon inte hade träffat greven, skulle han inte ha friat.
+Om de inte hade giftas, skulle hon inte ha bott i Italien.
+Om mammas nye man inte varit i Brasilien, skulle hon inte ha åkt tillbaka.
+Om pappan inte hade haft sprit i kroppen, skulle han inte ha förlorat sin körkort.
+Om han inte hade varit utan körkort, skulle han inte ha blivit arbetslös.
+Om biträdet inte hade åkt till Italien, skulle pappan ha talat med henne.
 
 
 * Övningar del 1

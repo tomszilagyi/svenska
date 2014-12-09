@@ -91,6 +91,7 @@ Teckenförklaringar för T (typ):
 | veta      | vet        | visste    | vetat    | O | know                             |
 | vila      | vilar      | vilade    | vilat    |   | rest, relax                      |
 | vilja     | vill       | ville     | velat    | O | want                             |
+| vinna     | vinner     | vann      | vunnit   | S | win                              |
 | välja     | väljer     | valde     | valt     | O | choose, elect, go for, opt, pick |
 | vända     | vänder     | vände     | vänt     | O | turn                             |
 | vänja     | vänjer     | vande     | vant     | O | accustom                         |
