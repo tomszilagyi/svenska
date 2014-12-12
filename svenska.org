@@ -790,6 +790,9 @@ bot (en, böter, mest i plural)          penalty, fine(s) / bírság, pénzbünt
 penninglott (en)                        lottery ticket / lottó(szelvény)
 greve (en)                              count / gróf
 tjänare (en)                            servant / szolga, alkalmazott, házi inas
+ängd (en)                               countryside (poet.) / táj, vidék (költ.)
+glimt (en)                              gleam, flash / (fel)villanás, felcsillanás, sugár, fény, pillanatkép
+ära (en)                                honour / becsület, tisztesség, erény, megtiszteltetés, megbecsülés, tisztelet, becsületesség, dicsőség
 
 ** VERB - VERBS - IGÉK
 
@@ -1190,6 +1193,8 @@ råna                                    rob / rabol, kirabol
 rymma                                   escape, run away, hold, contain / megszökik, elmenekül, meglép, -lóg, magában foglal, tartalmaz, befogad
 vinna [vinner, vann, vunnit]            win / nyer, meg/elnyer, elér, szerez
 fria                                    propose / megkéri a kezét vkinek
+råda                                    exist, prevail, advise / uralkodik, rendelkezik, határoz, végez, tanácsol, tanácsot ad
+ära                                     honour / tisztel, tiszteletben tart, (nagyra) becsül
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1406,6 +1411,7 @@ fylld                                   full, filled / tele, telt, töltött
 vansinnig                               insane, mad / őrült, tébolyodott, bolond
 stilig                                  stylish / ízléses(en öltözött), finom, sikkes, elegáns, jóvágású, derék, rendes
 (så) småningom                          gradually, by degrees, little by little / lassanként, lassacskán, apránként, nemsokára, hamarosan
+vän                                     fair / kecses, bájos, kedves (rég.)
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1716,6 +1722,7 @@ vem som helst                           anyone, anybody, whoever, whosoever / ak
 
 så gott som [utrotad]                   virtually [extinct]
 kort och gott                           short and sweet / rövid(en) és tömör(en)
+här och var                             here and there / itt-ott
 
 ** Ordspråk
 
@@ -1793,6 +1800,7 @@ jfr. [jämför]                           cf. / vö.
 dvs. [det vill säga]                    i.e. / azaz, úgymint
 sk, s.k. [så kallad]                    so-called / ú.n., úgynevezett
 t.o.m. [till och med]                   up to [and including] / sőt, még, már, ... is
+o.d. [och dylikt]                       and such
 OBS! [observera!]                       NB., Note!, Attention!
 ToR [Tur och retur]                     oda-vissza/retúr
 FN [Förenta Nationerna]                 UN [United Nations] / ENSZ
