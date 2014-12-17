@@ -793,6 +793,10 @@ tjänare (en)                            servant / szolga, alkalmazott, házi in
 ängd (en)                               countryside (poet.) / táj, vidék (költ.)
 glimt (en)                              gleam, flash / (fel)villanás, felcsillanás, sugár, fény, pillanatkép
 ära (en)                                honour / becsület, tisztesség, erény, megtiszteltetés, megbecsülés, tisztelet, becsületesség, dicsőség
+kvist (en)                              twig, branch, stick / ág, gally, göcs, csomó, ághely (fán)
+springa (en)                            narrow opening, chink / hasadék, rés, hézag, repedés, nyílás
+mörker (ett: mörkret)                   darkness / sötét(ség)
+råtta (en)                              rat / patkány, egér
 
 ** VERB - VERBS - IGÉK
 
@@ -1023,8 +1027,8 @@ växa                                    grow / nő, növekedik
 mogna                                   ripen, mature / érik, érlelődik, beérik
 skada                                   hurt, injure, damage, impair, harm / kárt/bajt okoz, árt, károsít, (meg)rongál, (meg)sebesít, (meg/fel)sért
 skrämma                                 terrify, alarm, scare, intimidate, frighten / (meg)ijeszt/rémít/riaszt, megfélemlít
-slå [slagit]                            hit, beat, knock, strike, smite / üt, ver, csap, önt, tölt, dob, vet, rúg
-stjäla [stulit]                         steal / (el)lop
+slå [slog, slagit]                      hit, beat, knock, strike, smite / üt, ver, csap, önt, tölt, dob, vet, rúg
+stjäla [stal, stulit]                   steal / (el)lop
 ligga [låg, legat]                      lie, be situated / fekszik, tartózkodik vhol, van
 orka                                    can, be able to, have the energy to / bír, tud, képes
 etablera                                establish / berendez(kedik), létesít, felállít, alapít, elkezd
@@ -1412,6 +1416,7 @@ vansinnig                               insane, mad / őrült, tébolyodott, bol
 stilig                                  stylish / ízléses(en öltözött), finom, sikkes, elegáns, jóvágású, derék, rendes
 (så) småningom                          gradually, by degrees, little by little / lassanként, lassacskán, apránként, nemsokára, hamarosan
 vän                                     fair / kecses, bájos, kedves (rég.)
+förrymd                                 runaway, fugitive / szökevény, (meg)szökött, (el)menekült
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1723,6 +1728,7 @@ vem som helst                           anyone, anybody, whoever, whosoever / ak
 så gott som [utrotad]                   virtually [extinct]
 kort och gott                           short and sweet / rövid(en) és tömör(en)
 här och var                             here and there / itt-ott
+så här dags                             at this time / most(anában), mostanság
 
 ** Ordspråk
 
@@ -3171,6 +3177,19 @@ Om pojken *hade fått* rätt växel tillbaka, *skulle* pappan inte *ha slagit* m
 Om pojken *hade gått* kvar i sin skola, *skulle* han *ha klarat* skolarbetet bra.
 
 Observera placeringen av inte!
+
+** FOKUS PÅ SUBJEKTET (p.199)
+
+/Det är/ *någon* /som/ har spillt kaffe på soffan.
+*Vem* /är det som/ har spillt kaffe på soffan?
+/Är det/ *du* /som/ har spillt kaffe på soffan?
+/Det är/ inte *jag*, /som/ har spillt kaffe på soffan!
+
+FOKUS PÅ ANDRA SATSDELAR
+
+| Det är *energi* man vill spara.        | objekt    |
+| Det är *därför* de röstar ja.          | adverbial |
+| Det var *då* turisterna började komma. | adverbial |
 
 
 * Övningar i Lärobok
