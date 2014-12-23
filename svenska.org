@@ -797,6 +797,11 @@ kvist (en)                              twig, branch, stick / ág, gally, göcs,
 springa (en)                            narrow opening, chink / hasadék, rés, hézag, repedés, nyílás
 mörker (ett: mörkret)                   darkness / sötét(ség)
 råtta (en)                              rat / patkány, egér
+befolkning (en)                         people, population, citizenry, inhabitants / népesség, lakosság
+landsting (ett)                         county council / tartománygyűlés
+kommun (en)                             municipality / helyi önkormányzat, (városi) kerület
+avgift (en)                             charge, fee / díj, illeték, járulék, költség
+verksamhet (en)                         activity, work, occupation, operation / tevékenység, foglalkozás, munka, működés, üzemelés, hatályosság
 
 ** VERB - VERBS - IGÉK
 
@@ -1199,6 +1204,8 @@ vinna [vinner, vann, vunnit]            win / nyer, meg/elnyer, elér, szerez
 fria                                    propose / megkéri a kezét vkinek
 råda                                    exist, prevail, advise / uralkodik, rendelkezik, határoz, végez, tanácsol, tanácsot ad
 ära                                     honour / tisztel, tiszteletben tart, (nagyra) becsül
+satsa [på]                              stake, back, venture, bet on / befizet (üzletrészt), nekifut, lendületet vesz, kockáztat, (meg)tesz (tétet), fogad vmire
+åstadkomma                              cause, bring about, accomplish, achieve / létrehoz, (el)végez, teljesít, okoz, előidéz, kelt, elér, lehetővé tesz, csinál, tesz
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1417,6 +1424,8 @@ stilig                                  stylish / ízléses(en öltözött), fin
 (så) småningom                          gradually, by degrees, little by little / lassanként, lassacskán, apránként, nemsokára, hamarosan
 vän                                     fair / kecses, bájos, kedves (rég.)
 förrymd                                 runaway, fugitive / szökevény, (meg)szökött, (el)menekült
+hotfull                                 menacing, threatening / fenyegető, ijesztő
+kommersiell                             commercial / kereskedelmi, kommerciális
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1525,6 +1534,10 @@ snarare                                 if anything, rather, sooner / inkább, h
 jämt [~alltid]                          always / mindig, folyton, állandóan, folyvást, örökké
 för övrigt                              otherwise / egyébként, különben, ezenkívül, más tekintetben
 motsvarande                             corresponding / megfelelő
+åtminstone                              at least, at all events, at any rate / legalább(is), mindenesetre
+å                                       on / -on/-en/-ön
+  å ena sidan ... å andra sidan           on the one hand... on the other hand
+vare sig ... eller                      either-or / vagy-vagy, akár-akár, sem-sem
 
 udda                                    odd / páratlan
 jämn                                    even, exact / páros, pontos(an annyi), kerek
