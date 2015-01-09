@@ -12,6 +12,7 @@ Teckenförklaringar för T (typ):
 | bita      | biter      | bet       | bitit    | S | bite                             |
 | bjuda     | bjuder     | bjöd      | bjudit   | S | invite, offer, ask               |
 | bliva     | blir       | blev      | blivit   | O | become, get, be                  |
+| brinna    | brinner    | brann     | brunnit  | S | burn, be on fire                 |
 | bryta     | bryter     | bröt      | brutit   | S | break                            |
 | bära      | bär        | bar       | burit    | S | carry, wear                      |
 | böra      | bör        | borde     | bort     | O | ought to, should                 |

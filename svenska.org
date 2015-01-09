@@ -797,6 +797,22 @@ kvist (en)                              twig, branch, stick / ág, gally, göcs,
 springa (en)                            narrow opening, chink / hasadék, rés, hézag, repedés, nyílás
 mörker (ett: mörkret)                   darkness / sötét(ség)
 råtta (en)                              rat / patkány, egér
+urval (ett)                             choice, selection, assortment, range, variety / választék, válogatás, kiválasztás
+genre (en) [sj'ang:er]                  genre / műfaj
+ställning (en)                          position, status, standing / helyzet, állás, álláspont, pozíció
+kritiker (en)                           critic / kritikus, bíráló, recenzens
+verk (ett)                              work (mostly in phrases), works / mű, munka, munkásság
+äventyr (ett)                           adventure / kaland, kockázatos v. merész vállalkozás
+sorg (en)                               distress, sorrow, regret, grief / bánat, bú, szomorúság, fájdalom, gond, sajnálat
+framgång (en)                           success / siker, eredmény
+genombrott (ett)                        breakthrough / áttörés
+värddjur (ett)                          host (organism) / gazdaállat, gazdatest
+källa (en)                              well, source, (fig) origin, cause / forrás, kútfő
+pjäs (en)                               piece (object), play / dolog, tárgy, darab, bábu, figura, színdarab
+medkänsla (en)                          sympathy / rokonszenv, együttérzés, szimpátia
+deckare (en)                            detective novel, whodunit, sleuth / detektívregény, kopó
+omvandling (en)                         transformation, change / megváltoztatás, átalakítás, átváltozás
+förlag (ett)                            publishing house / (könyv)kiadó(vállalat)
 
 ** VERB - VERBS - IGÉK
 
@@ -1199,6 +1215,14 @@ vinna [vinner, vann, vunnit]            win / nyer, meg/elnyer, elér, szerez
 fria                                    propose / megkéri a kezét vkinek
 råda                                    exist, prevail, advise / uralkodik, rendelkezik, határoz, végez, tanácsol, tanácsot ad
 ära                                     honour / tisztel, tiszteletben tart, (nagyra) becsül
+brinna [brann, brunnit]                 burn, be on fire / ég, elég, lángol
+utträda                                 withdraw / kilép, kiválik
+belöna                                  reward, award (a price to) / (meg)jutalmaz, (meg)fizet
+utgå                                    assume, start / kiindul, ered, származik
+uppträda [~er, uppträdde, uppträtt]     appear, act, feature, star / fellép, megjelenik, szerepel, viselkedik
+omvandla                                transform, convert / megváltoztat, átalakít
+uppmärksamma                            note, notice / figyelembe vesz, figyelemre méltat, észrevesz
+färdas [färdades, färdats]              travel / utazik, jár
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1417,6 +1441,12 @@ stilig                                  stylish / ízléses(en öltözött), fin
 (så) småningom                          gradually, by degrees, little by little / lassanként, lassacskán, apránként, nemsokára, hamarosan
 vän                                     fair / kecses, bájos, kedves (rég.)
 förrymd                                 runaway, fugitive / szökevény, (meg)szökött, (el)menekült
+prisbelönt                              award-winning / díjnyertes
+verksam                                 working as (sg), effective / hatékony, hatásos, tevékeny, aktív, tevékenységet folytat (vmilyen szakmában)
+sällsynt                                rare, unusual, uncommon / ritka, kivételes, szokatlan
+öm                                      tender / fájó(s), érzékeny, finom, gyöngéd, szeretetteljes
+ömsint                                  gentle / gyöngéd, lágyszívű, együttérző
+fristående                              free-standing, detached / szabadon vagy magában álló, nem kötött, szabad
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1585,6 +1615,8 @@ var och en, vart och ett                each and every / minden egyes, mindegyik
 endast                                  only / csak, csupán, egyes-egyedül, hacsak
 enda                                    only, one, sole / egyetlen, egyedüli
 dock                                    yet, nevertheless, still, however / mégis, mindazonáltal, ámde, mégiscsak
+dessförinnan                            beforehand, previously, before then / azelőtt, annak előtte, addig
+varav                                   of which, of whom / amelyből, amiből, amelyekből, amikből, amelynek, aminek, ahonnan
 
 eller hur?                              isn't it?, aren't you?, etc. / ugye?, nemde?
 flermiljonfråga                         multi-million question
