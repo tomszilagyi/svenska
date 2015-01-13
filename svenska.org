@@ -3254,6 +3254,50 @@ FOKUS PÅ ANDRA SATSDELAR
 | Det är *därför* de röstar ja.          | adverbial |
 | Det var *då* turisterna började komma. | adverbial |
 
+** VERBKOMPLEMENT (VALENS) (p.205)
+
+| be          | ngn   | om ngt         | Han bad sultanen om hjälp.                         |
+|             | -     | att SATS       | Han bad att han skulle hjälpa honom.               |
+| befaller    | ngn   | att INF        | Han befallde soldaterna att stanna.                |
+|             | -     | att SATS       | Han befallde att soldaterna skulle stanna.         |
+| begär       | -     | att SATS       | Han begärde att kungen skulle ge honom hjälp.      |
+| beslutar    |       | att INF        | Han beslöt att hjälpa kungen.                      |
+|             |       | att SATS       | Han beslöt att de skulle fånga kungen.             |
+| får reda på | ngt   |                | Han fick reda på resultatet.                       |
+|             |       | att SATS       | Kungen fick reda på, att armén hade kapitulerat.   |
+| föreslår    | ngn   | ngt            | Han föreslog kungen en plan.                       |
+|             | -     | att SATS       | Han föreslog att de skulle återvända.              |
+| förstår     | ngn   |                | Min fru förstår mig inte.                          |
+|             |       | ngt            | Det förstår jag.                                   |
+|             |       | att SATS       | Han förstod att spelet var slut.                   |
+| hoppas      |       | INF            | Jag hoppas få se dig igen.                         |
+|             |       | att SATS       | Jag hoppas att du snart blir frisk.                |
+| hotar       | ngn   | (med ngt)      | Han hotade henne (med en kniv).                    |
+|             | ngn   | (med att SATS) | Han hotade henne med att han skulle döda henne.    |
+|             | -     | att INF        | Han hotade att döda henne.                         |
+| lovar       | ngn   | ngt            | Chefen lovade mig högre lön.                       |
+|             | (ngn) | att SATS       | Chefen lovade (mig), att jag skulle få högre lön.  |
+|             | -     | att INF        | Han lovade att komma tillbaka.                     |
+| tillåter    | -     | ngt            | Min läkare tillåter inte alkohol.                  |
+|             | -     | att SATS       | Min läkare tillåter inte, att jag dricker alkohol. |
+| tror        | -     | att SATS       | Han trodde att sultanen skulle hjälpa honom.       |
+| tycker      | -     | att SATS       | Jag tycker att du ska gå nu.                       |
+| vill        |       | INF            | Han ville stanna.                                  |
+|             |       | att SATS       | Sultanen ville att kungen skulle återvända.        |
+| vägra       | ngn   | ngt            | Sultanen vägrade honom hjälp.                      |
+|             | -     | att INF        | Kungen vägrade (att) ge sig.                       |
+| övertala    | ngn   | att INF        | Han övertalade dem att ge upp.                     |
+|             | ngn   | att SATS       | Han övertalade dem att de skulle ge upp.           |
+
+Varje verb har en *semantisk* betydelse, men verbet bestämmer också
+vilken *struktur* satsen har.
+
+Använder man t.ex. verbet *be*, måste det finnas *någon* som man ber
+om *något*, dvs. det måste finnas *två* objekt i satsen.
+
+Använder man verbet *vill*, måste det följas av en *infinitiv* eller
+en *att-bisats*.
+
 
 * Övningar i Lärobok
 
