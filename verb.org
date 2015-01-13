@@ -83,6 +83,7 @@ Teckenförklaringar för T (typ):
 | säga      | säger      | sa(de)    | sagt     | O | say                              |
 | sälja     | säljer     | sålde     | sålt     | O | sell                             |
 | ta(ga)    | tar        | tog       | tagit    | O | take, grab, bring, touch         |
+| tillåta   | tillåter   | tillät    | tillätit | S | allow                            |
 | titta     | tittar     | tittade   | tittat   |   |                                  |
 | tro       | tror       | trodde    | trott    |   |                                  |
 | tröttna   | tröttnar   | tröttnade | tröttnat |   |                                  |

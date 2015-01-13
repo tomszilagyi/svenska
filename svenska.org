@@ -109,7 +109,8 @@ brandsläckare                           fire extinguisher / tűzoltókészülé
 kärring (en)                            old woman [pejorative] / nyanya, banya
 korv (en)                               sausage / kolbász, virsli, szafaládé
 pannkaka (en)                           pancake / palacsinta
-slag (ett)                              category, type, kind, class, species, sort
+slag (ett)                              category, type, kind, class, species, sort / fajta, -féle, nem
+                                        battle, slap, stroke, knock, hit, punch, blow / ütés, csapás, vágás, verés, lüktetés, csata
 rätt (en)                               course, dish / fogás
 varmrätt                                főtt étel, melegétel
 tallrik (en)                            plate / tányér
@@ -818,6 +819,10 @@ medkänsla (en)                          sympathy / rokonszenv, együttérzés, 
 deckare (en)                            detective novel, whodunit, sleuth / detektívregény, kopó
 omvandling (en)                         transformation, change / megváltoztatás, átalakítás, átváltozás
 förlag (ett)                            publishing house / (könyv)kiadó(vállalat)
+kalabalik (en)                          uproar / csetepaté, verekedés, tumultus
+nederlag (ett)                          defeat, beating / vereség, csatavesztés, (átv) kudarc
+avtal (ett)                             agreement, contract / megállapodás, megegyezés, szerződés, egyezmény, egyezség
+följeslagare (en)                       companion, follower / kísérő
 
 ** VERB - VERBS - IGÉK
 
@@ -953,7 +958,7 @@ skramla                                 jingle, jangle, rattle / csörög, csör
 duka                                    lay the table / megterít (asztalt)
 snarka                                  snore / horkol, hortyog
 vända                                   turn / elfordul, megfordul, vmit el/meg/kifordít
-nå [når, nådde]                         reach / elér vmit/vmeddig
+nå [når, nådde, nått]                   reach / elér vmit/vmeddig, eljut vhova/vkihez
 syssla [med ngn]                        busy oneself with sg / foglalkozik, foglalatoskodik, elfoglalja magát vmivel
 betrakta                                consider, regard, look at, contemplate / (meg)szemlél, -tekint, -vizsgál, szemügyre vesz
 böra                                    should, ought to / (segédige) kell, illik, -andó/-endő
@@ -1056,7 +1061,7 @@ etablera                                establish / berendez(kedik), létesít, 
 vägra                                   refuse, decline / megtagad, elutasít, visszautasít, vonakodik
 tåla                                    endure, tolerate / eltűr, elvisel, kibír, kiáll, megenged
 kolla                                   see, watch, look at, check / (rá)néz, csekkol
-fly                                     flee / elmenekül, elfut, megfutamodik, tovatűnik, elröppen
+fly [flydde, flytt]                     flee / elmenekül, elfut, megfutamodik, tovatűnik, elröppen
 mumla                                   mumble / mormog, motyog, mormol, dörmög
 muttra                                  mutter / mormog, motyog, morog
 ryta                                    bellow, roar / ordít, bőg, bömböl, üvölt
@@ -1230,6 +1235,15 @@ uppträda [~er, uppträdde, uppträtt]     appear, act, feature, star / fellép,
 omvandla                                transform, convert / megváltoztat, átalakít
 uppmärksamma                            note, notice / figyelembe vesz, figyelemre méltat, észrevesz
 färdas [färdades, färdats]              travel / utazik, jár
+såra                                    wound, hurt / megsebesít, (meg)sebez, megsért, átv. megbánt
+befalla                                 command, order / (meg)parancsol, meghagy, rendelkezik
+tillåta [tillät, tillätit]              allow / megenged, engedélyez
+anfalla                                 assault, attack, assail / (meg)támad, megrohan, -rohamoz
+förhandla                               negotiate, bargain / tárgyal, tanácskozik, megtárgyal, megvitat
+återvända                               return, go back, get back / visszatér, visszajön, visszamegy, visszafordul
+bliva [blir, blev, blivit]              become, get, be / [vmivé] lesz, válik
+  bli av med                              lose, dispose of / megszabadul, megmenekül vmitől, túlad vmin
+rida [rider, red, ridit]                ride / lovagol
 
 ** ANDRAS - OTHERS - EGYEBEK
 
@@ -1456,6 +1470,7 @@ sällsynt                                rare, unusual, uncommon / ritka, kivét
 öm                                      tender / fájó(s), érzékeny, finom, gyöngéd, szeretetteljes
 ömsint                                  gentle / gyöngéd, lágyszívű, együttérző
 fristående                              free-standing, detached / szabadon vagy magában álló, nem kötött, szabad
+dyrbar                                  precious, expensive, valuable / drága, költséges, értékes, pompás
 
 måndag                                  monday / hétfő
 tisdag                                  tuesday / kedd
@@ -1491,6 +1506,9 @@ förrän                                  before / azelőtt, korábban
 undan                                   away, out of the way / el, félre, -tól/től, alól, elől
 isär                                    apart / szét, széjjel, külön
 inför                                   in front of, face to face (with), before / előtt
+itu                                     in two, in pieces / ketté, darabokra, szét, széjjel
+  ta itu med ngn                          elővesz vkit, lelkére beszél vkinek
+  ta itu med ngt                          hozzáfog vmihez, nekilát vminek
 
 ganska                                  fairly, somewhat, rather, quite
 visst                                   certainly, probably
