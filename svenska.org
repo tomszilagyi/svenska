@@ -2647,10 +2647,10 @@ Det är ofta bättre med *tänker* eller *kommer att* eller bara *presens*!
 | när         | han     | -            | får     | mat           |
 | när         | han     | -            | träffar | nya människor |
 | när         | vi      | -            | är      | borta         |
-| när         | du      | -            | vilar   | dig           | 
+| när         | du      | -            | vilar   | dig           |
 
 Subjektet står alltid före verbet i bisats!
-  
+
 ** PERFEKT (p.119)
 
 har + ...t
@@ -6677,5 +6677,198 @@ hus, brev, språk, tåg, försök
 13. tvättar
 14. regnar
 
+** 8
 
-pp. 5 / 25 (FACIT)
+1. skriva
+2. beror, sprungit
+3. skällde, kände
+4. suddade, började
+5. flugit
+6. kysste, älskade
+7. torka, spillt
+8. ätit, finns
+9. klä, spelade
+
+** 9
+
+1. ett byxben, =
+2. en vinfläck, -ar
+3. ett trafikljus, =
+4. ett radioprogram, =
+5. en väderrapport, -er
+6. en lunchrast, -er
+7. ett läppstift, =
+8. ett köpcentrum, =
+9. en hörapparat, -er
+10. en svensklärare, =
+
+11. en pensionärersrabatt, -er
+12. en järnvägsstation, -er
+13. en pappersnäsduk, -ar
+14. en tidningsrubrik, -er
+15. en fotbollsplan, -er
+16. ett barndomsminne, -n
+17. en tidspreposition, -er
+18. en papperskorg, -ar
+
+19. ett skattesystem, =
+20. en oljefläck, -ar
+21. en reseledare, =
+22. ett löneavtal, =
+
+** 10
+
+1. Har du hört att det ofta regnar där?
+2. Jag sökte femtiosju arbeten innan jag äntligen fick det här:
+3. Eftersom du inte kom i tid började vi äta utan dig.
+4. Trots att han inte hade sett huset ville han hyra det.
+5. Jag undrar om våren ofta brukar komma så här tidigt?
+6. Han sa att han inte hade några pengar just då.
+
+** 11
+
+1. velat
+2. lade, drog
+3. förstått, sagt
+4. Var, slå, ta
+5. sålde, legat
+6. fick, gav
+7. fortsätta, ser
+
+** 12
+
+1. böcker
+2. Fadern
+3. händerna
+4. ögonen, öronen, huvudet
+5. morgnarna
+6. tänder
+7. fötter
+8. Mössen
+9. söner, bönder
+10. städer
+
+** 13A
+
+1. Brunbjörnen är ett stort djur, som ligger i ide på vintern.
+2. Tina heter en flicka, som tycker om att åka skidor.
+3. Tore lånade ett par skidor, som var väldigt smala.
+4. Tore lånade ett par skidor, som han tyckte mycket bra om.
+5. När får vi träffa din flickvän, som du har pratat så mycket om?
+6. Var är tidningen, som jag brukar läsa på morgnarna?
+7. Det här är en bra bok, som jag kan rekommendera.
+
+** 13B
+
+1. Brunbjörnen är ett stort djur, som alltid ligger i ide på vintern.
+2. Tina heter en flicka, som inte tycker om att åka skidor.
+3. Tore lånade ett par skidor, som inte var särskilt smala.
+4. Tore lånade ett par skidor, som han inte tyckte om.
+5. När får vi träffa din flickvän, som du ofta har pratat om?
+6. Var är tidningen, som jag alltid brukar läsa på morgnarna?
+7. Det här är en bra bok, som jag verkligen kan rekommendera.
+8. Här är en stackars man, som inte har något körkort.
+9. Jag bor i ett gult hus, som inte har några balkonger.
+10. Han försökte sälja en bil, som jag inte hade någon lust att köpa.
+
+** 14-16
+
+Missing from my copy of the Exercise book!
+
+** 17
+
+1. en fortsättning -ar
+2. en kostnad -er
+3. ett försök =
+4. en lagning -ar
+5. en diskussion -er
+6. en reparation -er
+7. ett möte -n
+8. en upptäckt -er
+9. en intervju -er
+10. en resa -or
+11. ett lån =
+12. en berättelse -r
+13. en repetition -er
+14. en räkning -ar
+15. en värme =
+16. en blåst =
+17. en fantasi -er
+18. en besiktning -ar
+19. en försäkring -ar
+20. en känsel =
+21. en dryck -er
+22. ett resultat =
+23. en förlust -er
+24. en jakt -er
+25. ett krav =
+26. en ökning -ar
+27. en tjänst -er
+28. en gråt =
+29. en uppväxt =
+30. en omställning -ar
+31. ett tillstånd =
+32. en nedgång -ar
+
+** 18
+
+1. arg, arga, argt, arga
+2. törstiga, törstiga, törstig
+3. viktigt, viktiga, viktiga
+4. snygga, snygg, snyggt, snygga
+5. varmt, varma, varma, varma
+6. farlig, farlig, farligt, farlig
+7. kallt, kall, kalla, kalla
+8. vitt, vita, vita, vita
+9. vackra, vackra, vackra
+10. piggt, pigga, pigga
+11. trötta, trötta, trötta
+
+** 19
+
+1. arga, arga, arga
+2. törstiga, törstiga, törstig
+3. viktigt, viktiga, viktiga
+4. snygga, snygga, snyggt, snygga
+5. varma, varma, varma
+6. farliga, farliga, farliga
+7. kalla, kalla, kalla
+8. vita, vit, vita, vita
+9. vacker, vackra, vackra
+10. piggt, pigga, pigga
+11. trötta, trött, trötta
+
+** 20
+
+1. min höga skatt, den höga skatten, alla höga skatter,
+   vår höga skatt, de höga skatterna, en hög skatt
+2. hennes blonda hår, det blonda håret, ett blont hår,
+   Johans blonda hår, ditt blonda hår
+3. den trevliga festen, samma trevliga fest, nästa trevliga fest,
+   de trevliga festerna, en trevlig fest
+4. mina långa ben, de där långa benen, två långa ben, ett långt ben,
+   hennes långa ben
+5. en intressant bok, den här intressanta boken, dina intressanta böcker,
+   några intressanta böcker, de intressanta böckerna
+6. det roliga brevet, hennes roliga brev, nästa roliga brev,
+   många roliga brev, ett roligt brev
+7. alla starka kvinnor, den starka kvinnan, en stark kvinna,
+   någon stark kvinna, de starka kvinnorna
+8. det goda kaffet, något gott kaffe, ett gott kaffe, hans goda kaffe,
+   Sveriges goda kaffe
+9. inget svårt problem, våra svåra problem, ett svårt problem,
+   det här svåra problemet, de svåra problemen
+10. de våta jackorna, våra våta jackor, den våta jackan,
+    din våta jacka, en våt jacka
+11. inget rött tak, alla röda tak, deras röda tak, de röda taken,
+    vårt röda tak
+12. samma lätta fråga, den lätta frågan, din lätta fråga,
+    de lätta frågorna, en lätt fråga
+13. ett konstigt påstående, det konstiga påståendet,
+    flera konstiga påståenden, de konstiga påståendena
+14. min duktiga lärare, några duktiga lärare, en duktig lärare,
+    deras duktiga lärare, de duktiga lärarna
+15. inga trötta elever, de trötta eleverna, en trött elev,
+    den trötta eleven, mina trötta elever
+
+pp. 9 / 27 (FACIT)

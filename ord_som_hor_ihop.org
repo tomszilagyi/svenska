@@ -1,0 +1,36 @@
+* Ord som hör ihop med varandra
+
+| substantiv          | verb       |
+|---------------------+------------|
+| en fortsättning -ar | fortsätter |
+| en kostnad -er      | kostar     |
+| ett försök =        | försöker   |
+| en lagning -ar      | lagar      |
+| en diskussion -er   | diskuterar |
+| en reparation -er   | reparerar  |
+| ett möte -n         | möter      |
+| en upptäckt -er     | upptäcker  |
+| en intervju -er     | intervjuar |
+| en resa -or         | reser      |
+| ett lån =           | lånar      |
+| en berättelse -r    | berättar   |
+| en repetition -er   | repeterar  |
+| en räkning -ar      | räknar     |
+| en värme =          | värmer     |
+| en blåst =          | blåser     |
+| en fantasi -er      | fantiserar |
+| en besiktning -ar   | besiktigar |
+| en försäkring -ar   | försäkrar  |
+| en känsel =         | känner     |
+| en dryck -er        | dricker    |
+| ett resultat =      | resulterar |
+| en förlust -er      | förlorar   |
+| en jakt -er         | jagar      |
+| ett krav =          | kräver     |
+| en ökning -ar       | ökar       |
+| en tjänst -er       | tjänar     |
+| en gråt =           | gråter     |
+| en uppväxt =        | växer upp  |
+| en omställning -ar  | ställer om |
+| ett tillstånd =     | står till  |
+| en nedgång -ar      | går ned    |
