@@ -1,0 +1,40 @@
+#+TITLE: Svenska författare jag tycker om
+#+AUTHOR: Tamás Szilágyi
+#+DATE: 12 augusti 2015
+#+OPTIONS: ^:{} toc:nil num:nil
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+LATEX_HEADER: \usepackage[a4paper,margin=2.5cm,footskip=1.0cm]{geometry}
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \usepackage[parfill]{parskip}
+
+Det här är lite om svenska författare jag tycker om.
+
+Min uppgift var att skriva om en författare, men eftersom jag har
+faktiskt ingen favorit, har jag beslutat att plocka två av dem.
+
+Och så dem är:
+
+* Astrid Lindgren
+
+Astrid Lindgren är kanske Sveriges mest kända och mest älskade
+författare. Hon är främst känd för sina barnböcker, som var favoriter
+bland många generationer. Många av hennes idéer har kommit från sin
+barndom liv, när hon bodde med sina föräldrar på en gård.
+
+Hennes mest populära bokserien berättar äventyr av Pippi Långstrump
+samt Emil i Lönneberga.  När jag kommer att ha ett barn, kommer han
+eller hon att få läsa en hel del av dessa böcker.
+
+* Stieg Larsson
+
+Stieg Larsson var en svensk journalist och författare. Han är mest
+känd som författare till Millennium-trilogin, en serie
+kriminalromaner. Böckerna berättar historien om en flicka som heter
+Lisbeth Salander och en journalist som heter Mikael Blomkvist som
+tillsammans kämpar mot massor av statshemligheter och mystiska brott.
+Berättelsen är mycket spännande, och även berör teman av våld mot
+kvinnor och politisk korruption.
+
+När mitt barn är äldre, hoppas jag att han eller hon kommer att läsa
+dessa böcker också.
