@@ -5,6 +5,7 @@
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [12pt]
 #+LATEX_HEADER: \usepackage[a4paper,margin=2.5cm,footskip=1.0cm]{geometry}
+#+LATEX_HEADER: \usepackage{baskervald}
 #+LATEX_HEADER: \usepackage[swedish]{babel}
 #+LATEX_HEADER: \usepackage[parfill]{parskip}
 
@@ -36,5 +37,9 @@ tillsammans kämpar mot massor av statshemligheter och mystiska brott.
 Berättelsen är mycket spännande, och även berör teman av våld mot
 kvinnor och politisk korruption.
 
+Stieg Larsson dog väldigt mycket ung, vid en ålder av 50. Han dog i en
+hjärtattack. Om han inte hade dött, skulle han ha skrivit många fler
+framstående böcker.
+
 När mitt barn är äldre, hoppas jag att han eller hon kommer att läsa
-dessa böcker också.
+hans böcker också.
