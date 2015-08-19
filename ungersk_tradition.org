@@ -1,0 +1,28 @@
+#+TITLE: En ungersk tradition
+#+AUTHOR: Tamás Szilágyi
+#+DATE: 19 augusti 2015
+#+OPTIONS: ^:{} toc:nil num:nil
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+LATEX_HEADER: \usepackage[a4paper,margin=2.5cm,footskip=1.0cm]{geometry}
+#+LATEX_HEADER: \usepackage{baskervald}
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \usepackage[parfill]{parskip}
+
+Det ungerska folket har flera traditioner, som inte bara skyddas av
+museer, utan också sker i vardagarna av det mesta av ungerska människor.
+Många av dem har förbindelse med religiösa helgdagar.
+Jag ville berätta om en särskild tradition som kallas för besprutning.
+
+I de gamla dagarna flickorna och kvinnorna brukade klä in i
+folkdräkter vid Påsken. Numera är det inte så vanligt längre. Men det
+är fortfarande mycket vanlig även i dag att få så kallad besprutning
+från männen och pojkarna som känner kvinnan. Det består av en man
+eller pojke (i det vanligaste sättet är det en person från kvinnans
+vänner eller någon från familjen) reciterar en dikt, som är en av
+särskilda dikter för att införa besprutningen. Därefter kommer mannen
+eller pojken att bespruta kvinnan med Köln vatten.
+
+Kvinnan eller flickan måste vara förberedd, eftersom det är förväntad
+att ge kakor eller målat ägg och en drink som tack. Det brukar vara en
+tävling mellan unga tjejer för att se vem som får mest gästerna.
