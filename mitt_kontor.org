@@ -1,0 +1,46 @@
+#+TITLE: Mitt kontor
+#+AUTHOR: Tamás Szilágyi
+#+DATE: 24 augusti 2015
+#+OPTIONS: ^:{} toc:nil num:nil
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+LATEX_HEADER: \usepackage[a4paper,margin=2.5cm,footskip=1.0cm]{geometry}
+#+LATEX_HEADER: \usepackage{baskervald}
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \usepackage[parfill]{parskip}
+
+Jag har en liten kontorsplats i nordöstra hörnet av min arbetsgivare
+kontorsbyggnad, på andra våningen. Denna våning är den som ger hem
+till avdelningen för mjukvaruutveckling, där jag jobbar.
+
+Jag har en motordriven bord som kan höja eller sänka sin bordsskiva
+genom att trycka på två små knappar nedanför arbetsytan. Så jag kan ta
+bordet till en bekväm höjd oavsett om jag arbetar sittande eller
+stående vid mitt bord. För det mesta sitter jag, även om det är
+hälsosammare att stå ibland.
+
+Jag sitter med fönstret till höger om mig. På soliga dagar, solen
+skiner in under morgonen och jag måste använda skyddskupan om jag vill
+se min datorskärm väl. Men jag gillar också att låta solen i.
+
+Jag har två stora skärmar som är anslutna till min stationära dator
+som jag använder för de flesta av mitt arbete. Jag har satt upp dem så
+jag kan lätt läsa långa delar av datorprogram på skärmen utan att
+behöva flytta positionen i redigeringsfönstret. Jag har också en liten
+bärbar dator som jag ibland använder under möten och som jag brukar
+lämna hemma i fall jag måste jobba hemifrån. Och jag använder också
+detta för att ansluta till Berlitz svenskundervisning (jag skriver min
+läxa också på den här maskinen).
+
+Interiören i kontoret är futuristisk med moderna färger och
+minimalistiska former. Vi har några gråa avdelare sätta upp mellan
+grupper av arbetare, som är användbara för att fästa anteckningar och
+andra papper till dem. Men vi alla sitter i ett öppet utrymme.
+Väggarna (de inte gjord av glas) är vita, golvet är täckt med svart
+matta och det finns blå fåtöljer och röda stolar runt kontoret så att
+du kan göra själv lätt med en kopp kaffe eller tala med någon var som
+helst du är.
+
+Det är enkelt och vänligt, och med sådana omgivningar, kan du
+koncentrera dig på ditt arbete, men samtidigt är det lätt att prata
+med dina medarbetare om det behövs.
