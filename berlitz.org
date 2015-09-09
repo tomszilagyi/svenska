@@ -62,7 +62,7 @@ har koll på
 
 * Läxor
 
-** Läxa 1: Övningsbok p.115: Ordkunskap
+** Övningsbok sidan 115: Ordkunskap
 
 a/7. Den svenske kungen har ingen *krona* på huvudet.
 b/2. Det fattas några *redskap* här i köket, visp t ex.
@@ -71,3 +71,80 @@ d/1. Vissa tror att tomten kommer genom *skorstenen*.
 e/6. Vi hade massa gammalt skräp i trädgården som vi *brände*. Det blev en stor eld.
 f/4. Min hund är galen i skor. Vi måste *gömma* alla så att han inte äter upp dem.
 g/3. Mina barn *tiggde* och bad om att få godis så till slut köpte jag en påse åt dem.
+
+** Textbok sidan 145 C: Svara på frågorna
+
+1. Vad hände på lucianatten?
+
+På lucianatten hände många konstiga saker, bland annat kunde djuren
+tala och troll och andra figurer som vanligtvis var osynliga blev
+synliga.
+
+2. Vad hade Lucia med djävulen att göra?
+
+Man blandade ihop namnen Lucia och Lucifer, alltså djävulen, så många
+var lite rädda för henne.
+
+3. När började man fira lucia som vi gör i dag?
+
+Det moderna offentliga luciafirandet och sångerna är ett
+1900-talsfenomen. Det var Stockholmstidningen som år 1927 ordnade ett
+luciatåg genom stan.
+
+4. Berätta om Luciasången.
+
+Luciasångens melodi är tagen från en italiensk visa. Texten skrevs
+under 1900-talet, men författaren använde många gamla ord så att
+sången skulle verka äldre. Sången börjar: "Natten går tunga fjät runt
+gård och stuva". Fjät betyder steg och stuva betyder stuga.
+
+5. Vad är häxor för något och vad trodde man att de gjorde på påsken?
+
+Häxor var kvinnor som kunde trolla och som man trodde samarbetade med
+djävulen.
+
+6. Vad hände med kvinnor som man trodde var häxor på 1600-talet?
+
+De anklagades för att vara häxor och dödades genom att brännas på bål,
+ofta efter hemsk tortyr.
+
+7. Vad gjorde påskkärringarna på 1800-talet?
+
+De klädde ut sig till häxor med skrämmande masker och en kvast. De
+kunde slänga ner stenar i skorstenen eller lägga en glasskiva över den
+så att huset blev fullt av rök.
+
+8. Vilka två "släktingar" har jultomten?
+
+Den ena är den snälla tomten från Tyskland som är lång, vitskäggig och
+rödklädd och den andra är den svenska urtomten.
+
+9. Berätta om den svenska urtomten.
+
+Den svenska urtomten är mycket liten och gråklädd för att inte väcka
+uppmärksamhet. Han bor på bondgårdar hos djuren och hjälper till med
+det mesta som behöver skötas på en bondgård.
+
+10. Vad handlar dikten "Tomten" om?
+
+Den handlar om den svenska urtomten och hur han nattetid kontrollerar
+att djur och människor mår bra på gården där han bor. Han funderar
+också på varifrån människorna kommer.
+** Meningar med partikelverb
+
+släppa in: Mina skor släpper in vatten.
+sätta på: Sätt på teven, jag vill titta på rapport!
+stänga av: När man åker flygplan måste man stänga av mobiltelefonen.
+ser ut: Varifrån kommer du? Du ser fruktansvärt trött ut!
+blanda ihop: Man ofta blandar ihop namnen som låter likadana.
+
+dyka upp
+slänga ner
+gömma undan
+hjälper till
+ställer ut
+kommer in
+gå iväg
+gå ut
+klä om
+fundera på
