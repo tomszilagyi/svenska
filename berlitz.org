@@ -130,13 +130,18 @@ det mesta som behöver skötas på en bondgård.
 Den handlar om den svenska urtomten och hur han nattetid kontrollerar
 att djur och människor mår bra på gården där han bor. Han funderar
 också på varifrån människorna kommer.
+
 ** Meningar med partikelverb
 
-släppa in: Mina skor släpper in vatten.
+släppa in: Mina skor släpper in vatten. Mina skor läcker.
+           Släppa in hunden på kvällen!
+           Jag lät mina gäster komma in.
+           Det knackade på dörren och jag släpte in min granne för
+             han hade låst sig ute.
 sätta på: Sätt på teven, jag vill titta på rapport!
 stänga av: När man åker flygplan måste man stänga av mobiltelefonen.
 ser ut: Varifrån kommer du? Du ser fruktansvärt trött ut!
-blanda ihop: Man ofta blandar ihop namnen som låter likadana.
+blanda ihop: Man blandar ofta ihop namnen som låter likadana.
 
 dyka upp
 slänga ner
