@@ -1,0 +1,27 @@
+#+TITLE: Årets största högtid
+#+AUTHOR: Tamás Szilágyi
+#+DATE: 10 september 2015
+#+OPTIONS: ^:{} toc:nil num:nil
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+LATEX_HEADER: \usepackage[a4paper,margin=2.5cm,footskip=1.0cm]{geometry}
+#+LATEX_HEADER: \usepackage{baskervald}
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \usepackage[parfill]{parskip}
+
+* Vilken är årets största högtid för dig? Varför?
+
+Årets största högtid för mig är dagen när jag har för första gången
+träffat min fru. Det är dagen som har för evigt förändrats mitt
+liv. Jag minnas att jag gillade henne omedelbart, och vi blev snabbt
+djupt förälskad i varandra. Vi kommer alltid att minnas den dagen på
+året, det är mycket speciell för oss båda. Vi träffades på ett kafé på
+en mulen kväll i slutet av september. Vi pratade bara för ett par
+minuter på den dagen, men det var början på en mycket lycklig
+historia.
+
+* Om du fick göra en helt ny helgdag, vilken dag skulle det då vara? Varför?
+
+Jag vet inte vilken dag det slutligen blir, men det blir ju mitt
+första barns födelsedag. Förlossningen är förväntad i mitten av mars.
+Det ska bli mycket spännande både för mig och min fru.
