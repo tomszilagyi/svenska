@@ -1,0 +1,37 @@
+#+TITLE: Skillnader i Sverige mellan norr och söder
+#+AUTHOR: Tamás Szilágyi
+#+DATE: 16 september 2015
+#+OPTIONS: ^:{} toc:nil num:nil
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+LATEX_HEADER: \usepackage[a4paper,margin=2.7cm,footskip=1.0cm]{geometry}
+#+LATEX_HEADER: \usepackage{baskervald}
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \usepackage[parfill]{parskip}
+
+Sverige är ett mycket avlångt land. Det är ungefär 1600 kilometer från
+den mest södra till den mest norra spetsen av landet. På grund av
+denna stora längd finns betydliga skillnader mellan klimaten i
+Sveriges norra och södra delar.
+
+Norra Sverige, särskilt de delar som ligger norrifrån polcirkeln (som
+uppgår till 15% av landets total yta), har subarktiskt klimat. Det
+innebär långa vintrar som är mycket kallt: dagens medeltemperaturen
+kan vara under frysning under mer än fem månader. Somrar kan däremot
+vara ganska varm, men är mycket kort: de tar drygt 4-6 veckor.
+
+Ju mer norrut man går, desto större säsongs skillnaden mellan solljus
+nivåerna blir. Norrut från polcirkeln skiner solen 24 timmar om dygnet
+under sommaren, men det finns totalt mörker på vintern. I Stockholm
+varar dagsljus mer än 18 timmar i slutet av juni, men bara cirka 6
+timmar i slutet av december.
+
+Södra Sverige har tempererat klimat med fyra välavgränsade årstider.
+De södraste delarna har kustklimat som är något varmare med jämnare
+temperatur än inlandsklimat.
+
+Sverige är mycket varmare och torrare än andra platser på en liknande
+breddgrad, vilket beror främst på Golfströmmen. Till exempel har
+mellersta och södra Sverige mycket mildare vintrar än många delar av
+Ryssland, Kanada och norra USA.  Det är inte en tillfällighet att de
+flesta av befolkningen bor i den södraste tredjedelen av landet.
