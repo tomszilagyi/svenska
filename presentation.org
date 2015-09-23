@@ -1,0 +1,33 @@
+#+TITLE: Presentation
+#+AUTHOR: Tamás Szilágyi
+#+DATE: 23 september 2015
+#+OPTIONS: ^:{} toc:nil num:nil
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+LATEX_HEADER: \usepackage[a4paper,margin=2.5cm,footskip=1.0cm]{geometry}
+#+LATEX_HEADER: \usepackage{baskervald}
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \usepackage[parfill]{parskip}
+
+Idag vill jag berätta lite om mig själv i termer av egenskaper och
+personligheter.
+
+Under mina år som jag arbetat med trasiga datorprogram har jag lärt
+mig att vara alltid lugn, även om tekniska saker inte fungerar. Jag är
+alltså inte alls temperamentsfull.
+
+Jag är mjukvaruingenjör, och som sådan jobbar jag först och framst med
+tankar. Tankar om algoritmer och datorprogram, som gäller okroppsliga
+strukturer. Därför tror jag att stil och utseende inte gör en riktig
+skillnad, vilket gör mig väldigt praktisk i vardagarna, t ex jag klär
+alltid i enkla, bekväma kläder.
+
+Jag tror att de flesta problemen (även de som är krångliga) kan lösas,
+och jag också tror mitt yrke kan verkligen göra världen enklare,
+säkrare men också roligare. Jag är riktigt optimistisk om det. Jag
+älskar mitt jobb och är ganska självsäker i mina kunskaper.
+
+Men även om man tycker om sitt yrke, det tar en hel del arbete för att
+bli en av de bästa. Jag måste vara ordentlig och motståndskraftig
+eftersom det är ganska jobbigt att alltid ta reda på varför det jäkla
+programmet inte fungerar som det ska.
