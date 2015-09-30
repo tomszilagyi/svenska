@@ -1,0 +1,44 @@
+#+TITLE: Klagomålsbrev
+#+AUTHOR: Tamás Szilágyi
+#+DATE: 30 september 2015
+#+OPTIONS: ^:{} toc:nil num:nil
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+LATEX_HEADER: \usepackage[a4paper,margin=2.5cm,footskip=1.0cm]{geometry}
+#+LATEX_HEADER: \usepackage{baskervald}
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \usepackage[parfill]{parskip}
+
+A-Ö Pizzeria AB
+
+Drottninggatan 123, 111 23 Stockholm
+
+Den 23 september besökte jag er restaurang med min bästa vän för att
+fira hans födelsedag. Jag bjöd honom (och mig själv också) på era
+specialitet som kallas för "gröna ägg med svamp skinka", som är enligt
+era annonser, den bäste som finns.
+
+Jag är tyvärr mycket missnöjd med besöket. Jag är inte bara missnöjd,
+jag är faktiskt jättearg. Jag hade bokat bord långt i förväg, så ni
+hade fått veta i god tid att vi skulle komma till er krog. Trots det
+blev vi placerade i en mörk hörna och fick vänta länge på maten. Men
+det var ingenting jämfört med den värsta: personalen var arrogant när
+vi beställde våra gröna ägg och hade vissa olämpliga kommentarer om
+hur allt är numera grön och ekologisk. Jag kan inte fatta vad det
+menar... jag är så besviken jag kunde gråta.
+
+Men kort sagt, det här var faktiskt inte vad jag hade väntat
+mig. Ursäkta, men den här händelsen var alldeles oacceptabel. Vi hade
+sett fram emot en trevlig kväll men vad vi fick var en obehaglig
+känsla av att en uppassare vet mer om allt grönt än oss. Jag skulle
+vilja reklamera.
+
+Jag skulle vilja få ersättning för ovanstående i form av en fri natt i
+Grönaby där allt är grönt, året runt. Dessutom skulle jag också vilja
+få en gratisbiljett till den "Gröna För Dumma" verkstad där jag
+förhoppningsvis kommer att förstå vad uppassaren kommentade för
+mig. Allt detta, naturligtvis på er bekostnad.
+
+Med vänliga hälsningar,
+
+Elak Kille
