@@ -200,3 +200,60 @@ Vilka språk är det (som) du talar?
 *** 6. Kombinera ord och fraser
 
 1g. 2a. 3e. 4c. 5f. 6b. 7h. 8d.
+
+** Textbok sidan 160/B
+
+| ord eller fraser                                          | synonymer     |
+|-----------------------------------------------------------+---------------|
+| lämna tillbaka                                            | återlämna     |
+| ändra sig                                                 | ångra         |
+| en gång                                                   | ett tillfälle |
+| självklart                                                | naturligtvis  |
+| förstå fel                                                | missförstå    |
+| pengar (sedlar och mynt)                                  | kontant       |
+| sluta att finnas                                          | upphöra       |
+| oftast/för det mesta                                      | vanligtvis    |
+| en produkt man köper                                      | en vara       |
+| inte obligatoriskt, inget tvång                           | frivilligt    |
+| bli sämre                                                 | försämras     |
+| pengar som dras bort                                      | avdrag        |
+| som fanns från början                                     | ursprunglig   |
+| blir vitare/ljusare                                       | blekna        |
+| sköta dåligt                                              | missköta      |
+| affärerna går så dåligt att man måste lägga ner företaget | går i konkurs |
+
+** Textbok sidan 161/B
+
+1-h 2-c 3-a 4-k 5-i 6-b 7-d 8-j 9-e 10-f 11-g
+** Övningsbok sidor 124-126
+
+*** A
+
+| presens  | preteritum | supinum  |
+|----------+------------+----------|
+| biter    | bet        | bitit    |
+| bits     | bets       | bitits   |
+| brinner  | brann      | brunnit  |
+| dör      | dog        | dött     |
+| faller   | föll       | fallit   |
+| ligger   | låg        | legat    |
+| lägger   | lade       | lagt     |
+| sitter   | satt       | suttit   |
+| sjunker  | sjönk      | sjunkit  |
+| sover    | sov        | sovit    |
+| spricker | sprack     | spruckit |
+| står     | stod       | stått    |
+| sätter   | satte      | satt     |
+
+*** B
+
+1. föll, fällde
+2. brann, brände, kylde, brinna
+3. slocknat, släckte, slocknade
+4. lägger, väcka, ställt, vaknar, ligger
+5. bleka, bleknar
+6. spricker, sätta, spräcker
+7. sätta, sitter, fästa, fastna
+8. dränkte, lägga, drunkna, ligga
+9. dog
+10. sänkt, sjunker
