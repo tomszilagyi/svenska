@@ -250,10 +250,10 @@ Vilka språk är det (som) du talar?
 1. föll, fällde
 2. brann, brände, kylde, brinna
 3. slocknat, släckte, slocknade
-4. lägger, väcka, ställt, vaknar, ligger
+4. lägger, väcka, ställt, vaknar, står
 5. bleka, bleknar
 6. spricker, sätta, spräcker
-7. sätta, sitter, fästa, fastna
-8. dränkte, lägga, drunkna, ligga
+7. sätta, sitter, fästa, sitta
+8. dränkte, ligga, drunkna, ligga
 9. dog
 10. sänkt, sjunker
