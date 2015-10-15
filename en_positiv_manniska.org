@@ -9,27 +9,27 @@
 #+LATEX_HEADER: \usepackage[swedish]{babel}
 #+LATEX_HEADER: \usepackage[parfill]{parskip}
 
-Innan jag kom till Sverige, hade jag arbetat med någon som var mycket
+Innan jag kom till Sverige, arbetade jag med någon som var mycket
 optimistisk. Låt oss kalla honom Antonio. Vi arbetade på en
-kontraktsbasis, dvs. vi hade inte någon fast lön, utan hade tjänat
-pengar när vi kunde sälja våra tjänster till något andra företag. Han
-var ledare till vår liten grupp som jag hade varit med i mig själv. Vi
-gjorde forskning och utveckling i nya användningar av robotteknik.
+kontraktsbasis, dvs. vi hade inte någon fast lön, utan tjänade pengar
+när vi kunde sälja våra tjänster till något annat företag. Han var
+ledare för vår lilla grupp som jag hade varit med i. Vi gjorde
+forskning och utveckling i nya användningar av robotteknik.
 
 Då och då satt vi tillsammans med gruppen och diskuterade hur vi
-skulle fortsätta göra vår arbete.  Antonio var alltid säkert att vi
-skulle snart hitta någon ny tillämpning som vi kunde lansera i
+skulle fortsätta göra vårt arbete.  Antonio var alltid säkert på att
+vi skulle snart hitta någon ny tillämpning som vi kunde lansera i
 marknaden, eller få ett bud från något företag för att göra saker för
-dem.  Jag var alltid förvånad över hans optimism. Jag faktiskt trodde
+dem.  Jag var alltid förvånad över hans optimism. Jag trodde faktiskt
 inte att vi skulle klara sig. Marknaden var inte där ännu.
 
 Jag pratade med honom ibland och sa till honom att vi förmodligen inte
-skulle orka att lansera någon lönsam produkt innan vi får slut på
-pengar. Men jag sa till honom också att jag ändå kommer att
-koncentrera sig på att göra ett bra jobb. Han litade på mig och låt
-mig göra de tekniska saker hur som jag tänkt. Vi båda gjorde vad vi
-kunde göra bäst.
+skulle orka att lansera någon lönsam produkt innan pengarna var
+slut. Men jag sa till honom också att jag ändå kommer att koncentrera
+mig på att göra ett bra jobb. Han litade på mig och lät mig göra de
+tekniska saker hur som jag ville. Vi gjorde båda vad vi kunde göra
+bäst.
 
-Det är synd att jag hade rätt och pengarna var ute efter två år, innan
-vi hade något viktigt att visa för det. Men om vi hade, skulle jag
-inte ha kommit för att starta ett nytt liv i Sverige.
+Det var synd att jag hade rätt och pengarna var slut efter två år,
+innan vi hade något viktigt att visa för det. Men om vi hade klart av
+det, skulle jag inte ha kommit för att starta ett nytt liv i Sverige.

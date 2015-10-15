@@ -265,7 +265,7 @@ Vilka språk är det (som) du talar?
 2. dragit
 3. framfört
 4. lösa
-5. göra åt
+5. återgå
 6. hålla
 7. drog
 
@@ -275,7 +275,7 @@ Vilka språk är det (som) du talar?
 2. hade åkt
 3. var
 4. låg
-5. hade börjat
+5. började
 6. var
 7. skulle
 8. åkte
@@ -291,7 +291,7 @@ Vilka språk är det (som) du talar?
 18. kom
 19. är
 20. svarade
-21. tar
+21. skulle ta
 22. sade
 23. var
 24. ville
@@ -299,19 +299,19 @@ Vilka språk är det (som) du talar?
 26. stannade
 27. åt
 28. var
-29. hade ätit
+29. åt
 30. kom
 31. gå
 32. kom
-33. hade haft
+33. hade
 34. sken
 35. var
-36. reste
+36. skulle resa
 37. diskuterade
 38. hade varit
 39. bestämde
 40. resa
-41. sover
+41. skulle sova
 ** Textbok sidan 165 2/A,B
 
 Vad Anna tycker är positivt:
