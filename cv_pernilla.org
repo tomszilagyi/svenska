@@ -1,0 +1,42 @@
+#+TITLE: Pernilla Svensson
+#+AUTHOR:
+#+DATE:
+#+OPTIONS: ^:{} toc:nil num:nil
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+LATEX_HEADER: \usepackage[a4paper,margin=2.0cm,footskip=1.0cm]{geometry}
+#+LATEX_HEADER: \usepackage{baskervald}
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \usepackage[parfill]{parskip}
+
+* Personuppgifter
+
+- Födelsedag: 25 maj 1985.
+- Adress: Storgatan 12, 12345 Stockholm
+- Telefon: +46 70 1234-567
+- Email: pernilla.svensson@mailbox.se
+
+* Utbildning
+
+- Lärarhögskolan, Stockholm, från 2004
+  - Inriktning: engelska, franska
+  - Vikarierade på olika skolor i Stockholm (årskurs 7-9)
+
+- Hagaskolan, till juni 2003.
+  - Gick ut det samhällsvetenskapliga programmet
+
+- Friluftsfrämjandets skidlärarutbildningar, steg 1 och 2 (vintern 2001/2002)
+  - Tränade barn i 14-årsåldern
+
+* Arbetslivserfarenhet
+
+- Barnflicka hos engelsk familj i London (Sep 2003 -- juni 2004)
+  - Skaffade Cambridgeexamen på B2-nivå
+
+- Skidlärare i Hagas slalomklubb (vintern 2002/2003)
+
+* Språkkunskaper
+
+- Svenska som modersmål
+- Engelska -- C1
+- Franska -- B2
