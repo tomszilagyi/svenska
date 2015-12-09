@@ -1,0 +1,33 @@
+#+TITLE: Anteckningar om svenska grammatik
+#+AUTHOR:
+#+DATE:
+#+OPTIONS: ^:{} toc:nil num:nil
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+LATEX_HEADER: \usepackage[a4paper,margin=2.5cm,footskip=1.0cm]{geometry}
+#+LATEX_HEADER: \usepackage{baskervald}
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \usepackage[parfill]{parskip}
+
+* Tidsprepositioner
+
+** Hur ofta? (frekvens)
+
+- *om* dagen / året / dygnet
+- *i* sekunden / minuten / timmen / veckan / månaden
+- fyra gånger per dygn / varannan timme / osv.
+
+** Hur länge?
+
+- *i*: Jag springer i skogen *i* två timmar /varje vecka/.
+- *på*: Hon sprang Stockholms maraton *på* fem timmar. (/en gång/)
+
+** När?
+
+- *om*: Bussen går *om* fem minuter. (/framtid/)
+- *för*: De flyttade till Sverige *för* fem år sedan. (/dåtid/)
+
+** Om tidsgräns
+
+- *till*: Jag jobbar på IKEA *till* augusti 2015.
+- *sedan*: Jag jobbar här *sedan* 2011.
